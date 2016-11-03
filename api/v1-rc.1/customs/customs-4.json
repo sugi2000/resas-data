@@ -1,0 +1,23 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "prefName": "宮城県", 
+      "customHouseCode": 260, 
+      "prefCode": 4, 
+      "customHouseName": "仙台塩釜"
+    }, 
+    {
+      "prefName": "宮城県", 
+      "customHouseCode": 262, 
+      "prefCode": 4, 
+      "customHouseName": "石巻港"
+    }, 
+    {
+      "prefName": "宮城県", 
+      "customHouseCode": 265, 
+      "prefCode": 4, 
+      "customHouseName": "仙台空港"
+    }
+  ]
+}

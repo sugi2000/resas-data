@@ -1,0 +1,23 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "prefName": "神奈川県", 
+      "customHouseCode": 200, 
+      "prefCode": 14, 
+      "customHouseName": "横浜港"
+    }, 
+    {
+      "prefName": "神奈川県", 
+      "customHouseCode": 202, 
+      "prefCode": 14, 
+      "customHouseName": "川崎港"
+    }, 
+    {
+      "prefName": "神奈川県", 
+      "customHouseCode": 203, 
+      "prefCode": 14, 
+      "customHouseName": "横須賀港"
+    }
+  ]
+}

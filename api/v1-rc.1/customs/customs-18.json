@@ -1,0 +1,23 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "prefName": "福井県", 
+      "customHouseCode": 432, 
+      "prefCode": 18, 
+      "customHouseName": "内浦港"
+    }, 
+    {
+      "prefName": "福井県", 
+      "customHouseCode": 460, 
+      "prefCode": 18, 
+      "customHouseName": "敦賀港"
+    }, 
+    {
+      "prefName": "福井県", 
+      "customHouseCode": 461, 
+      "prefCode": 18, 
+      "customHouseName": "福井港"
+    }
+  ]
+}

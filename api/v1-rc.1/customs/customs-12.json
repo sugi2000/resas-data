@@ -1,0 +1,23 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "prefName": "千葉県", 
+      "customHouseCode": 104, 
+      "prefCode": 12, 
+      "customHouseName": "成田国際空港"
+    }, 
+    {
+      "prefName": "千葉県", 
+      "customHouseCode": 220, 
+      "prefCode": 12, 
+      "customHouseName": "千葉港"
+    }, 
+    {
+      "prefName": "千葉県", 
+      "customHouseCode": 222, 
+      "prefCode": 12, 
+      "customHouseName": "木更津港"
+    }
+  ]
+}

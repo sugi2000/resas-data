@@ -1,0 +1,29 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "prefName": "静岡県", 
+      "customHouseCode": 520, 
+      "prefCode": 22, 
+      "customHouseName": "清水港"
+    }, 
+    {
+      "prefName": "静岡県", 
+      "customHouseCode": 522, 
+      "prefCode": 22, 
+      "customHouseName": "田子の浦港"
+    }, 
+    {
+      "prefName": "静岡県", 
+      "customHouseCode": 523, 
+      "prefCode": 22, 
+      "customHouseName": "御前崎港"
+    }, 
+    {
+      "prefName": "静岡県", 
+      "customHouseCode": 524, 
+      "prefCode": 22, 
+      "customHouseName": "静岡空港"
+    }
+  ]
+}

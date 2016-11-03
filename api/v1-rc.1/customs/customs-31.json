@@ -1,0 +1,17 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "prefName": "鳥取県", 
+      "customHouseCode": 350, 
+      "prefCode": 31, 
+      "customHouseName": "境港"
+    }, 
+    {
+      "prefName": "鳥取県", 
+      "customHouseCode": 351, 
+      "prefCode": 31, 
+      "customHouseName": "米子空港"
+    }
+  ]
+}

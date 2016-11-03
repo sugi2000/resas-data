@@ -11,6 +11,9 @@ RESAS-API利用規約に従って自由に利用できます。
 - [産業小分類](api/v1-rc.1/industries/narrow/)
 - [職業大分類](api/v1-rc.1/jobs/broad/)
 - [職業中分類](api/v1-rc.1/jobs/middle/)
+- [特許.技術分野](api/v1-rc.1/patents/broad/)
+- [特許.技術テーマ](api/v1-rc.1/patents/middle/)
+- [税関](api/v1-rc.1/customs/)
 
 参考
 - [RESAS-API](https://opendata.resas-portal.go.jp/)

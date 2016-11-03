@@ -1,0 +1,47 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "prefName": "長崎県", 
+      "customHouseCode": 650, 
+      "prefCode": 42, 
+      "customHouseName": "巌原港"
+    }, 
+    {
+      "prefName": "長崎県", 
+      "customHouseCode": 700, 
+      "prefCode": 42, 
+      "customHouseName": "長崎三重式見港"
+    }, 
+    {
+      "prefName": "長崎県", 
+      "customHouseCode": 702, 
+      "prefCode": 42, 
+      "customHouseName": "松浦港"
+    }, 
+    {
+      "prefName": "長崎県", 
+      "customHouseCode": 703, 
+      "prefCode": 42, 
+      "customHouseName": "佐世保港"
+    }, 
+    {
+      "prefName": "長崎県", 
+      "customHouseCode": 704, 
+      "prefCode": 42, 
+      "customHouseName": "長崎空港"
+    }, 
+    {
+      "prefName": "長崎県", 
+      "customHouseCode": 705, 
+      "prefCode": 42, 
+      "customHouseName": "松島港"
+    }, 
+    {
+      "prefName": "長崎県", 
+      "customHouseCode": 707, 
+      "prefCode": 42, 
+      "customHouseName": "福島港"
+    }
+  ]
+}

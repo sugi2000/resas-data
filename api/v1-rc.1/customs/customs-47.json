@@ -1,0 +1,35 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "prefName": "沖縄県", 
+      "customHouseCode": 900, 
+      "prefCode": 47, 
+      "customHouseName": "那覇港"
+    }, 
+    {
+      "prefName": "沖縄県", 
+      "customHouseCode": 902, 
+      "prefCode": 47, 
+      "customHouseName": "金武中城港"
+    }, 
+    {
+      "prefName": "沖縄県", 
+      "customHouseCode": 905, 
+      "prefCode": 47, 
+      "customHouseName": "平良港"
+    }, 
+    {
+      "prefName": "沖縄県", 
+      "customHouseCode": 906, 
+      "prefCode": 47, 
+      "customHouseName": "石垣港"
+    }, 
+    {
+      "prefName": "沖縄県", 
+      "customHouseCode": 907, 
+      "prefCode": 47, 
+      "customHouseName": "那覇空港"
+    }
+  ]
+}

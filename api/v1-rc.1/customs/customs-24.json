@@ -1,0 +1,23 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "prefName": "三重県", 
+      "customHouseCode": 540, 
+      "prefCode": 24, 
+      "customHouseName": "四日市港"
+    }, 
+    {
+      "prefName": "三重県", 
+      "customHouseCode": 542, 
+      "prefCode": 24, 
+      "customHouseName": "尾鷲港"
+    }, 
+    {
+      "prefName": "三重県", 
+      "customHouseCode": 543, 
+      "prefCode": 24, 
+      "customHouseName": "津港"
+    }
+  ]
+}

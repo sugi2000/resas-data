@@ -1,0 +1,29 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "prefName": "茨城県", 
+      "customHouseCode": 243, 
+      "prefCode": 8, 
+      "customHouseName": "鹿島港"
+    }, 
+    {
+      "prefName": "茨城県", 
+      "customHouseCode": 244, 
+      "prefCode": 8, 
+      "customHouseName": "日立港"
+    }, 
+    {
+      "prefName": "茨城県", 
+      "customHouseCode": 246, 
+      "prefCode": 8, 
+      "customHouseName": "常陸那珂港"
+    }, 
+    {
+      "prefName": "茨城県", 
+      "customHouseCode": 247, 
+      "prefCode": 8, 
+      "customHouseName": "茨城空港"
+    }
+  ]
+}

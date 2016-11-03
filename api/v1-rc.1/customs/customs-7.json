@@ -1,0 +1,23 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "prefName": "福島県", 
+      "customHouseCode": 250, 
+      "prefCode": 7, 
+      "customHouseName": "小名浜港"
+    }, 
+    {
+      "prefName": "福島県", 
+      "customHouseCode": 252, 
+      "prefCode": 7, 
+      "customHouseName": "相馬港"
+    }, 
+    {
+      "prefName": "福島県", 
+      "customHouseCode": 253, 
+      "prefCode": 7, 
+      "customHouseName": "福島空港"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "prefName": "香川県", 
+      "customHouseCode": 360, 
+      "prefCode": 37, 
+      "customHouseName": "坂出港"
+    }, 
+    {
+      "prefName": "香川県", 
+      "customHouseCode": 362, 
+      "prefCode": 37, 
+      "customHouseName": "高松港"
+    }, 
+    {
+      "prefName": "香川県", 
+      "customHouseCode": 363, 
+      "prefCode": 37, 
+      "customHouseName": "詫間港"
+    }, 
+    {
+      "prefName": "香川県", 
+      "customHouseCode": 364, 
+      "prefCode": 37, 
+      "customHouseName": "丸亀港"
+    }, 
+    {
+      "prefName": "香川県", 
+      "customHouseCode": 365, 
+      "prefCode": 37, 
+      "customHouseName": "高松空港"
+    }, 
+    {
+      "prefName": "香川県", 
+      "customHouseCode": 366, 
+      "prefCode": 37, 
+      "customHouseName": "多度津港"
+    }
+  ]
+}

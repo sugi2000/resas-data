@@ -1,0 +1,29 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "prefName": "愛知県", 
+      "customHouseCode": 500, 
+      "prefCode": 23, 
+      "customHouseName": "名古屋港"
+    }, 
+    {
+      "prefName": "愛知県", 
+      "customHouseCode": 502, 
+      "prefCode": 23, 
+      "customHouseName": "中部国際空港"
+    }, 
+    {
+      "prefName": "愛知県", 
+      "customHouseCode": 504, 
+      "prefCode": 23, 
+      "customHouseName": "三河港"
+    }, 
+    {
+      "prefName": "愛知県", 
+      "customHouseCode": 505, 
+      "prefCode": 23, 
+      "customHouseName": "衣浦港"
+    }
+  ]
+}

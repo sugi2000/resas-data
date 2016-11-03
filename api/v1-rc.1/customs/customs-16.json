@@ -1,0 +1,23 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "prefName": "富山県", 
+      "customHouseCode": 440, 
+      "prefCode": 16, 
+      "customHouseName": "伏木港"
+    }, 
+    {
+      "prefName": "富山県", 
+      "customHouseCode": 442, 
+      "prefCode": 16, 
+      "customHouseName": "富山港"
+    }, 
+    {
+      "prefName": "富山県", 
+      "customHouseCode": 443, 
+      "prefCode": 16, 
+      "customHouseName": "富山空港"
+    }
+  ]
+}

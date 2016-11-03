@@ -1,0 +1,17 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "prefName": "京都府", 
+      "customHouseCode": 422, 
+      "prefCode": 26, 
+      "customHouseName": "宮津港"
+    }, 
+    {
+      "prefName": "京都府", 
+      "customHouseCode": 430, 
+      "prefCode": 26, 
+      "customHouseName": "舞鶴港"
+    }
+  ]
+}

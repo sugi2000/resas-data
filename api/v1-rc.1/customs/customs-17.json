@@ -1,0 +1,23 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "prefName": "石川県", 
+      "customHouseCode": 450, 
+      "prefCode": 17, 
+      "customHouseName": "七尾港"
+    }, 
+    {
+      "prefName": "石川県", 
+      "customHouseCode": 452, 
+      "prefCode": 17, 
+      "customHouseName": "金沢港"
+    }, 
+    {
+      "prefName": "石川県", 
+      "customHouseCode": 453, 
+      "prefCode": 17, 
+      "customHouseName": "小松空港"
+    }
+  ]
+}

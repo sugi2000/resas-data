@@ -1,0 +1,23 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "prefName": "岡山県", 
+      "customHouseCode": 320, 
+      "prefCode": 33, 
+      "customHouseName": "宇野港"
+    }, 
+    {
+      "prefName": "岡山県", 
+      "customHouseCode": 321, 
+      "prefCode": 33, 
+      "customHouseName": "岡山空港"
+    }, 
+    {
+      "prefName": "岡山県", 
+      "customHouseCode": 322, 
+      "prefCode": 33, 
+      "customHouseName": "水島港"
+    }
+  ]
+}

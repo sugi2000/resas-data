@@ -1,0 +1,95 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "prefName": "北海道", 
+      "customHouseCode": 800, 
+      "prefCode": 1, 
+      "customHouseName": "函館港"
+    }, 
+    {
+      "prefName": "北海道", 
+      "customHouseCode": 802, 
+      "prefCode": 1, 
+      "customHouseName": "室蘭港"
+    }, 
+    {
+      "prefName": "北海道", 
+      "customHouseCode": 803, 
+      "prefCode": 1, 
+      "customHouseName": "苫小牧港"
+    }, 
+    {
+      "prefName": "北海道", 
+      "customHouseCode": 804, 
+      "prefCode": 1, 
+      "customHouseName": "小樽港"
+    }, 
+    {
+      "prefName": "北海道", 
+      "customHouseCode": 805, 
+      "prefCode": 1, 
+      "customHouseName": "留萌港"
+    }, 
+    {
+      "prefName": "北海道", 
+      "customHouseCode": 807, 
+      "prefCode": 1, 
+      "customHouseName": "釧路港"
+    }, 
+    {
+      "prefName": "北海道", 
+      "customHouseCode": 809, 
+      "prefCode": 1, 
+      "customHouseName": "稚内港"
+    }, 
+    {
+      "prefName": "北海道", 
+      "customHouseCode": 810, 
+      "prefCode": 1, 
+      "customHouseName": "網走港"
+    }, 
+    {
+      "prefName": "北海道", 
+      "customHouseCode": 811, 
+      "prefCode": 1, 
+      "customHouseName": "紋別港"
+    }, 
+    {
+      "prefName": "北海道", 
+      "customHouseCode": 812, 
+      "prefCode": 1, 
+      "customHouseName": "新千歳空港"
+    }, 
+    {
+      "prefName": "北海道", 
+      "customHouseCode": 813, 
+      "prefCode": 1, 
+      "customHouseName": "函館空港"
+    }, 
+    {
+      "prefName": "北海道", 
+      "customHouseCode": 814, 
+      "prefCode": 1, 
+      "customHouseName": "石狩湾港"
+    }, 
+    {
+      "prefName": "北海道", 
+      "customHouseCode": 815, 
+      "prefCode": 1, 
+      "customHouseName": "十勝港"
+    }, 
+    {
+      "prefName": "北海道", 
+      "customHouseCode": 816, 
+      "prefCode": 1, 
+      "customHouseName": "旭川港"
+    }, 
+    {
+      "prefName": "北海道", 
+      "customHouseCode": 818, 
+      "prefCode": 1, 
+      "customHouseName": "花咲港"
+    }
+  ]
+}

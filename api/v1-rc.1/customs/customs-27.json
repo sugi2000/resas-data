@@ -1,0 +1,29 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "prefName": "大阪府", 
+      "customHouseCode": 400, 
+      "prefCode": 27, 
+      "customHouseName": "大阪港"
+    }, 
+    {
+      "prefName": "大阪府", 
+      "customHouseCode": 402, 
+      "prefCode": 27, 
+      "customHouseName": "堺泉北港"
+    }, 
+    {
+      "prefName": "大阪府", 
+      "customHouseCode": 403, 
+      "prefCode": 27, 
+      "customHouseName": "阪南港"
+    }, 
+    {
+      "prefName": "大阪府", 
+      "customHouseCode": 404, 
+      "prefCode": 27, 
+      "customHouseName": "関西国際空港"
+    }
+  ]
+}

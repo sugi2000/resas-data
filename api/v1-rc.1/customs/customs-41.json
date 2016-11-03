@@ -1,0 +1,23 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "prefName": "佐賀県", 
+      "customHouseCode": 640, 
+      "prefCode": 41, 
+      "customHouseName": "唐津港"
+    }, 
+    {
+      "prefName": "佐賀県", 
+      "customHouseCode": 642, 
+      "prefCode": 41, 
+      "customHouseName": "伊万里港"
+    }, 
+    {
+      "prefName": "佐賀県", 
+      "customHouseCode": 730, 
+      "prefCode": 41, 
+      "customHouseName": "佐賀空港"
+    }
+  ]
+}

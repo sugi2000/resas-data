@@ -1,0 +1,47 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "prefName": "広島県", 
+      "customHouseCode": 340, 
+      "prefCode": 34, 
+      "customHouseName": "尾道糸崎港"
+    }, 
+    {
+      "prefName": "広島県", 
+      "customHouseCode": 342, 
+      "prefCode": 34, 
+      "customHouseName": "福山港"
+    }, 
+    {
+      "prefName": "広島県", 
+      "customHouseCode": 343, 
+      "prefCode": 34, 
+      "customHouseName": "土生港"
+    }, 
+    {
+      "prefName": "広島県", 
+      "customHouseCode": 344, 
+      "prefCode": 34, 
+      "customHouseName": "呉港"
+    }, 
+    {
+      "prefName": "広島県", 
+      "customHouseCode": 345, 
+      "prefCode": 34, 
+      "customHouseName": "広島港"
+    }, 
+    {
+      "prefName": "広島県", 
+      "customHouseCode": 346, 
+      "prefCode": 34, 
+      "customHouseName": "竹原港"
+    }, 
+    {
+      "prefName": "広島県", 
+      "customHouseCode": 347, 
+      "prefCode": 34, 
+      "customHouseName": "広島空港"
+    }
+  ]
+}

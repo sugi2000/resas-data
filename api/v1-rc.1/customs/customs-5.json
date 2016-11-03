@@ -1,0 +1,29 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "prefName": "秋田県", 
+      "customHouseCode": 850, 
+      "prefCode": 5, 
+      "customHouseName": "秋田港"
+    }, 
+    {
+      "prefName": "秋田県", 
+      "customHouseCode": 852, 
+      "prefCode": 5, 
+      "customHouseName": "船川港"
+    }, 
+    {
+      "prefName": "秋田県", 
+      "customHouseCode": 853, 
+      "prefCode": 5, 
+      "customHouseName": "能代港"
+    }, 
+    {
+      "prefName": "秋田県", 
+      "customHouseCode": 854, 
+      "prefCode": 5, 
+      "customHouseName": "秋田空港"
+    }
+  ]
+}

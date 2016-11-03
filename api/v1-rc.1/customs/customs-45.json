@@ -1,0 +1,23 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "prefName": "宮崎県", 
+      "customHouseCode": 670, 
+      "prefCode": 45, 
+      "customHouseName": "細島港"
+    }, 
+    {
+      "prefName": "宮崎県", 
+      "customHouseCode": 671, 
+      "prefCode": 45, 
+      "customHouseName": "宮崎港"
+    }, 
+    {
+      "prefName": "宮崎県", 
+      "customHouseCode": 672, 
+      "prefCode": 45, 
+      "customHouseName": "油津港"
+    }
+  ]
+}

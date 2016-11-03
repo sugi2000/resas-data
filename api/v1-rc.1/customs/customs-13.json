@@ -1,0 +1,17 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "prefName": "東京都", 
+      "customHouseCode": 100, 
+      "prefCode": 13, 
+      "customHouseName": "東京港"
+    }, 
+    {
+      "prefName": "東京都", 
+      "customHouseCode": 103, 
+      "prefCode": 13, 
+      "customHouseName": "東京国際空港"
+    }
+  ]
+}

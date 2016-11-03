@@ -1,0 +1,35 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "prefName": "熊本県", 
+      "customHouseCode": 740, 
+      "prefCode": 43, 
+      "customHouseName": "三角港"
+    }, 
+    {
+      "prefName": "熊本県", 
+      "customHouseCode": 742, 
+      "prefCode": 43, 
+      "customHouseName": "水俣港"
+    }, 
+    {
+      "prefName": "熊本県", 
+      "customHouseCode": 743, 
+      "prefCode": 43, 
+      "customHouseName": "八代港"
+    }, 
+    {
+      "prefName": "熊本県", 
+      "customHouseCode": 744, 
+      "prefCode": 43, 
+      "customHouseName": "熊本空港"
+    }, 
+    {
+      "prefName": "熊本県", 
+      "customHouseCode": 745, 
+      "prefCode": 43, 
+      "customHouseName": "熊本港"
+    }
+  ]
+}

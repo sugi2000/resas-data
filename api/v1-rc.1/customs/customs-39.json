@@ -1,0 +1,17 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "prefName": "高知県", 
+      "customHouseCode": 380, 
+      "prefCode": 39, 
+      "customHouseName": "高知港"
+    }, 
+    {
+      "prefName": "高知県", 
+      "customHouseCode": 382, 
+      "prefCode": 39, 
+      "customHouseName": "須崎港"
+    }
+  ]
+}

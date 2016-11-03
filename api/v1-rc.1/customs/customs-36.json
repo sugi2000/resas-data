@@ -1,0 +1,17 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "prefName": "徳島県", 
+      "customHouseCode": 390, 
+      "prefCode": 36, 
+      "customHouseName": "徳島小松島港"
+    }, 
+    {
+      "prefName": "徳島県", 
+      "customHouseCode": 392, 
+      "prefCode": 36, 
+      "customHouseName": "橘港"
+    }
+  ]
+}

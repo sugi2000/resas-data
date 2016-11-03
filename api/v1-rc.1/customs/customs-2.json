@@ -1,0 +1,23 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "prefName": "青森県", 
+      "customHouseCode": 820, 
+      "prefCode": 2, 
+      "customHouseName": "青森港"
+    }, 
+    {
+      "prefName": "青森県", 
+      "customHouseCode": 822, 
+      "prefCode": 2, 
+      "customHouseName": "八戸港"
+    }, 
+    {
+      "prefName": "青森県", 
+      "customHouseCode": 823, 
+      "prefCode": 2, 
+      "customHouseName": "青森空港"
+    }
+  ]
+}

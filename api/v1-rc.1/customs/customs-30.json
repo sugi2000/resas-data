@@ -1,0 +1,23 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "prefName": "和歌山県", 
+      "customHouseCode": 470, 
+      "prefCode": 30, 
+      "customHouseName": "下津港"
+    }, 
+    {
+      "prefName": "和歌山県", 
+      "customHouseCode": 472, 
+      "prefCode": 30, 
+      "customHouseName": "和歌山港"
+    }, 
+    {
+      "prefName": "和歌山県", 
+      "customHouseCode": 474, 
+      "prefCode": 30, 
+      "customHouseName": "新宮港"
+    }
+  ]
+}

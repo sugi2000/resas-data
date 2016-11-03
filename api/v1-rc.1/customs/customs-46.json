@@ -1,0 +1,41 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "prefName": "鹿児島県", 
+      "customHouseCode": 750, 
+      "prefCode": 46, 
+      "customHouseName": "鹿児島港"
+    }, 
+    {
+      "prefName": "鹿児島県", 
+      "customHouseCode": 752, 
+      "prefCode": 46, 
+      "customHouseName": "鹿児島空港"
+    }, 
+    {
+      "prefName": "鹿児島県", 
+      "customHouseCode": 753, 
+      "prefCode": 46, 
+      "customHouseName": "喜入港"
+    }, 
+    {
+      "prefName": "鹿児島県", 
+      "customHouseCode": 754, 
+      "prefCode": 46, 
+      "customHouseName": "志布志港"
+    }, 
+    {
+      "prefName": "鹿児島県", 
+      "customHouseCode": 755, 
+      "prefCode": 46, 
+      "customHouseName": "川内港"
+    }, 
+    {
+      "prefName": "鹿児島県", 
+      "customHouseCode": 756, 
+      "prefCode": 46, 
+      "customHouseName": "枕崎港"
+    }
+  ]
+}

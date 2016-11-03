@@ -1,0 +1,35 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "prefName": "兵庫県", 
+      "customHouseCode": 300, 
+      "prefCode": 28, 
+      "customHouseName": "神戸港"
+    }, 
+    {
+      "prefName": "兵庫県", 
+      "customHouseCode": 302, 
+      "prefCode": 28, 
+      "customHouseName": "尼崎西宮芦屋港"
+    }, 
+    {
+      "prefName": "兵庫県", 
+      "customHouseCode": 303, 
+      "prefCode": 28, 
+      "customHouseName": "姫路港"
+    }, 
+    {
+      "prefName": "兵庫県", 
+      "customHouseCode": 304, 
+      "prefCode": 28, 
+      "customHouseName": "相生港"
+    }, 
+    {
+      "prefName": "兵庫県", 
+      "customHouseCode": 305, 
+      "prefCode": 28, 
+      "customHouseName": "東播磨港"
+    }
+  ]
+}

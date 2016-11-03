@@ -1,0 +1,41 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "prefName": "愛媛県", 
+      "customHouseCode": 370, 
+      "prefCode": 38, 
+      "customHouseName": "松山港"
+    }, 
+    {
+      "prefName": "愛媛県", 
+      "customHouseCode": 372, 
+      "prefCode": 38, 
+      "customHouseName": "今治港"
+    }, 
+    {
+      "prefName": "愛媛県", 
+      "customHouseCode": 373, 
+      "prefCode": 38, 
+      "customHouseName": "新居浜港"
+    }, 
+    {
+      "prefName": "愛媛県", 
+      "customHouseCode": 374, 
+      "prefCode": 38, 
+      "customHouseName": "三島川之江港"
+    }, 
+    {
+      "prefName": "愛媛県", 
+      "customHouseCode": 375, 
+      "prefCode": 38, 
+      "customHouseName": "宇和島港"
+    }, 
+    {
+      "prefName": "愛媛県", 
+      "customHouseCode": 376, 
+      "prefCode": 38, 
+      "customHouseName": "松山空港"
+    }
+  ]
+}

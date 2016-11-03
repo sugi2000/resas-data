@@ -1,0 +1,35 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "prefName": "新潟県", 
+      "customHouseCode": 120, 
+      "prefCode": 15, 
+      "customHouseName": "新潟港"
+    }, 
+    {
+      "prefName": "新潟県", 
+      "customHouseCode": 122, 
+      "prefCode": 15, 
+      "customHouseName": "直江津港"
+    }, 
+    {
+      "prefName": "新潟県", 
+      "customHouseCode": 123, 
+      "prefCode": 15, 
+      "customHouseName": "柏崎港"
+    }, 
+    {
+      "prefName": "新潟県", 
+      "customHouseCode": 124, 
+      "prefCode": 15, 
+      "customHouseName": "新潟空港"
+    }, 
+    {
+      "prefName": "新潟県", 
+      "customHouseCode": 125, 
+      "prefCode": 15, 
+      "customHouseName": "姫川港"
+    }
+  ]
+}

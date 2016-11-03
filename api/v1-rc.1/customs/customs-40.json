@@ -1,0 +1,47 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "prefName": "福岡県", 
+      "customHouseCode": 600, 
+      "prefCode": 40, 
+      "customHouseName": "門司港"
+    }, 
+    {
+      "prefName": "福岡県", 
+      "customHouseCode": 602, 
+      "prefCode": 40, 
+      "customHouseName": "苅田港"
+    }, 
+    {
+      "prefName": "福岡県", 
+      "customHouseCode": 603, 
+      "prefCode": 40, 
+      "customHouseName": "戸畑港"
+    }, 
+    {
+      "prefName": "福岡県", 
+      "customHouseCode": 604, 
+      "prefCode": 40, 
+      "customHouseName": "博多港"
+    }, 
+    {
+      "prefName": "福岡県", 
+      "customHouseCode": 605, 
+      "prefCode": 40, 
+      "customHouseName": "福岡港"
+    }, 
+    {
+      "prefName": "福岡県", 
+      "customHouseCode": 606, 
+      "prefCode": 40, 
+      "customHouseName": "北九州港"
+    }, 
+    {
+      "prefName": "福岡県", 
+      "customHouseCode": 720, 
+      "prefCode": 40, 
+      "customHouseName": "三池港"
+    }
+  ]
+}

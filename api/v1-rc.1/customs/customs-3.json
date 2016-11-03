@@ -1,0 +1,23 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "prefName": "岩手県", 
+      "customHouseCode": 840, 
+      "prefCode": 3, 
+      "customHouseName": "宮古港"
+    }, 
+    {
+      "prefName": "岩手県", 
+      "customHouseCode": 842, 
+      "prefCode": 3, 
+      "customHouseName": "釜石港"
+    }, 
+    {
+      "prefName": "岩手県", 
+      "customHouseCode": 843, 
+      "prefCode": 3, 
+      "customHouseName": "大船渡港"
+    }
+  ]
+}

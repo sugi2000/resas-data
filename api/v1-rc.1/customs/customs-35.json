@@ -1,0 +1,59 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "prefName": "山口県", 
+      "customHouseCode": 620, 
+      "prefCode": 35, 
+      "customHouseName": "下関港"
+    }, 
+    {
+      "prefName": "山口県", 
+      "customHouseCode": 622, 
+      "prefCode": 35, 
+      "customHouseName": "萩港"
+    }, 
+    {
+      "prefName": "山口県", 
+      "customHouseCode": 623, 
+      "prefCode": 35, 
+      "customHouseName": "宇部港"
+    }, 
+    {
+      "prefName": "山口県", 
+      "customHouseCode": 624, 
+      "prefCode": 35, 
+      "customHouseName": "徳山港"
+    }, 
+    {
+      "prefName": "山口県", 
+      "customHouseCode": 625, 
+      "prefCode": 35, 
+      "customHouseName": "下松港"
+    }, 
+    {
+      "prefName": "山口県", 
+      "customHouseCode": 626, 
+      "prefCode": 35, 
+      "customHouseName": "三田尻中関港"
+    }, 
+    {
+      "prefName": "山口県", 
+      "customHouseCode": 627, 
+      "prefCode": 35, 
+      "customHouseName": "平生港"
+    }, 
+    {
+      "prefName": "山口県", 
+      "customHouseCode": 628, 
+      "prefCode": 35, 
+      "customHouseName": "岩国港"
+    }, 
+    {
+      "prefName": "山口県", 
+      "customHouseCode": 629, 
+      "prefCode": 35, 
+      "customHouseName": "光港"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "prefName": "大分県", 
+      "customHouseCode": 660, 
+      "prefCode": 44, 
+      "customHouseName": "大分港"
+    }, 
+    {
+      "prefName": "大分県", 
+      "customHouseCode": 661, 
+      "prefCode": 44, 
+      "customHouseName": "大分空港"
+    }, 
+    {
+      "prefName": "大分県", 
+      "customHouseCode": 662, 
+      "prefCode": 44, 
+      "customHouseName": "津久見港"
+    }, 
+    {
+      "prefName": "大分県", 
+      "customHouseCode": 663, 
+      "prefCode": 44, 
+      "customHouseName": "佐賀関港"
+    }, 
+    {
+      "prefName": "大分県", 
+      "customHouseCode": 664, 
+      "prefCode": 44, 
+      "customHouseName": "佐伯港"
+    }, 
+    {
+      "prefName": "大分県", 
+      "customHouseCode": 665, 
+      "prefCode": 44, 
+      "customHouseName": "中津港"
+    }
+  ]
+}
