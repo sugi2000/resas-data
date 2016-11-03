@@ -1,1 +1,239 @@
-{"message": null, "result": [{"cityName": "奈良市", "cityCode": "29201", "prefCode": 29, "bigCityFlag": "0"}, {"cityName": "大和高田市", "cityCode": "29202", "prefCode": 29, "bigCityFlag": "0"}, {"cityName": "大和郡山市", "cityCode": "29203", "prefCode": 29, "bigCityFlag": "0"}, {"cityName": "天理市", "cityCode": "29204", "prefCode": 29, "bigCityFlag": "0"}, {"cityName": "橿原市", "cityCode": "29205", "prefCode": 29, "bigCityFlag": "0"}, {"cityName": "桜井市", "cityCode": "29206", "prefCode": 29, "bigCityFlag": "0"}, {"cityName": "五條市", "cityCode": "29207", "prefCode": 29, "bigCityFlag": "0"}, {"cityName": "御所市", "cityCode": "29208", "prefCode": 29, "bigCityFlag": "0"}, {"cityName": "生駒市", "cityCode": "29209", "prefCode": 29, "bigCityFlag": "0"}, {"cityName": "香芝市", "cityCode": "29210", "prefCode": 29, "bigCityFlag": "0"}, {"cityName": "葛城市", "cityCode": "29211", "prefCode": 29, "bigCityFlag": "0"}, {"cityName": "宇陀市", "cityCode": "29212", "prefCode": 29, "bigCityFlag": "0"}, {"cityName": "山添村", "cityCode": "29322", "prefCode": 29, "bigCityFlag": "0"}, {"cityName": "平群町", "cityCode": "29342", "prefCode": 29, "bigCityFlag": "0"}, {"cityName": "三郷町", "cityCode": "29343", "prefCode": 29, "bigCityFlag": "0"}, {"cityName": "斑鳩町", "cityCode": "29344", "prefCode": 29, "bigCityFlag": "0"}, {"cityName": "安堵町", "cityCode": "29345", "prefCode": 29, "bigCityFlag": "0"}, {"cityName": "川西町", "cityCode": "29361", "prefCode": 29, "bigCityFlag": "0"}, {"cityName": "三宅町", "cityCode": "29362", "prefCode": 29, "bigCityFlag": "0"}, {"cityName": "田原本町", "cityCode": "29363", "prefCode": 29, "bigCityFlag": "0"}, {"cityName": "曽爾村", "cityCode": "29385", "prefCode": 29, "bigCityFlag": "0"}, {"cityName": "御杖村", "cityCode": "29386", "prefCode": 29, "bigCityFlag": "0"}, {"cityName": "高取町", "cityCode": "29401", "prefCode": 29, "bigCityFlag": "0"}, {"cityName": "明日香村", "cityCode": "29402", "prefCode": 29, "bigCityFlag": "0"}, {"cityName": "上牧町", "cityCode": "29424", "prefCode": 29, "bigCityFlag": "0"}, {"cityName": "王寺町", "cityCode": "29425", "prefCode": 29, "bigCityFlag": "0"}, {"cityName": "広陵町", "cityCode": "29426", "prefCode": 29, "bigCityFlag": "0"}, {"cityName": "河合町", "cityCode": "29427", "prefCode": 29, "bigCityFlag": "0"}, {"cityName": "吉野町", "cityCode": "29441", "prefCode": 29, "bigCityFlag": "0"}, {"cityName": "大淀町", "cityCode": "29442", "prefCode": 29, "bigCityFlag": "0"}, {"cityName": "下市町", "cityCode": "29443", "prefCode": 29, "bigCityFlag": "0"}, {"cityName": "黒滝村", "cityCode": "29444", "prefCode": 29, "bigCityFlag": "0"}, {"cityName": "天川村", "cityCode": "29446", "prefCode": 29, "bigCityFlag": "0"}, {"cityName": "野迫川村", "cityCode": "29447", "prefCode": 29, "bigCityFlag": "0"}, {"cityName": "十津川村", "cityCode": "29449", "prefCode": 29, "bigCityFlag": "0"}, {"cityName": "下北山村", "cityCode": "29450", "prefCode": 29, "bigCityFlag": "0"}, {"cityName": "上北山村", "cityCode": "29451", "prefCode": 29, "bigCityFlag": "0"}, {"cityName": "川上村", "cityCode": "29452", "prefCode": 29, "bigCityFlag": "0"}, {"cityName": "東吉野村", "cityCode": "29453", "prefCode": 29, "bigCityFlag": "0"}]}
+{
+  "message": null, 
+  "result": [
+    {
+      "cityName": "奈良市", 
+      "cityCode": "29201", 
+      "prefCode": 29, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "大和高田市", 
+      "cityCode": "29202", 
+      "prefCode": 29, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "大和郡山市", 
+      "cityCode": "29203", 
+      "prefCode": 29, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "天理市", 
+      "cityCode": "29204", 
+      "prefCode": 29, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "橿原市", 
+      "cityCode": "29205", 
+      "prefCode": 29, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "桜井市", 
+      "cityCode": "29206", 
+      "prefCode": 29, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "五條市", 
+      "cityCode": "29207", 
+      "prefCode": 29, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "御所市", 
+      "cityCode": "29208", 
+      "prefCode": 29, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "生駒市", 
+      "cityCode": "29209", 
+      "prefCode": 29, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "香芝市", 
+      "cityCode": "29210", 
+      "prefCode": 29, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "葛城市", 
+      "cityCode": "29211", 
+      "prefCode": 29, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "宇陀市", 
+      "cityCode": "29212", 
+      "prefCode": 29, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "山添村", 
+      "cityCode": "29322", 
+      "prefCode": 29, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "平群町", 
+      "cityCode": "29342", 
+      "prefCode": 29, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "三郷町", 
+      "cityCode": "29343", 
+      "prefCode": 29, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "斑鳩町", 
+      "cityCode": "29344", 
+      "prefCode": 29, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "安堵町", 
+      "cityCode": "29345", 
+      "prefCode": 29, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "川西町", 
+      "cityCode": "29361", 
+      "prefCode": 29, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "三宅町", 
+      "cityCode": "29362", 
+      "prefCode": 29, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "田原本町", 
+      "cityCode": "29363", 
+      "prefCode": 29, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "曽爾村", 
+      "cityCode": "29385", 
+      "prefCode": 29, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "御杖村", 
+      "cityCode": "29386", 
+      "prefCode": 29, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "高取町", 
+      "cityCode": "29401", 
+      "prefCode": 29, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "明日香村", 
+      "cityCode": "29402", 
+      "prefCode": 29, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "上牧町", 
+      "cityCode": "29424", 
+      "prefCode": 29, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "王寺町", 
+      "cityCode": "29425", 
+      "prefCode": 29, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "広陵町", 
+      "cityCode": "29426", 
+      "prefCode": 29, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "河合町", 
+      "cityCode": "29427", 
+      "prefCode": 29, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "吉野町", 
+      "cityCode": "29441", 
+      "prefCode": 29, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "大淀町", 
+      "cityCode": "29442", 
+      "prefCode": 29, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "下市町", 
+      "cityCode": "29443", 
+      "prefCode": 29, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "黒滝村", 
+      "cityCode": "29444", 
+      "prefCode": 29, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "天川村", 
+      "cityCode": "29446", 
+      "prefCode": 29, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "野迫川村", 
+      "cityCode": "29447", 
+      "prefCode": 29, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "十津川村", 
+      "cityCode": "29449", 
+      "prefCode": 29, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "下北山村", 
+      "cityCode": "29450", 
+      "prefCode": 29, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "上北山村", 
+      "cityCode": "29451", 
+      "prefCode": 29, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "川上村", 
+      "cityCode": "29452", 
+      "prefCode": 29, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "東吉野村", 
+      "cityCode": "29453", 
+      "prefCode": 29, 
+      "bigCityFlag": "0"
+    }
+  ]
+}

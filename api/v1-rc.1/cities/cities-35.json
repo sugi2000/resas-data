@@ -1,1 +1,119 @@
-{"message": null, "result": [{"cityName": "下関市", "cityCode": "35201", "prefCode": 35, "bigCityFlag": "0"}, {"cityName": "宇部市", "cityCode": "35202", "prefCode": 35, "bigCityFlag": "0"}, {"cityName": "山口市", "cityCode": "35203", "prefCode": 35, "bigCityFlag": "0"}, {"cityName": "萩市", "cityCode": "35204", "prefCode": 35, "bigCityFlag": "0"}, {"cityName": "防府市", "cityCode": "35206", "prefCode": 35, "bigCityFlag": "0"}, {"cityName": "下松市", "cityCode": "35207", "prefCode": 35, "bigCityFlag": "0"}, {"cityName": "岩国市", "cityCode": "35208", "prefCode": 35, "bigCityFlag": "0"}, {"cityName": "光市", "cityCode": "35210", "prefCode": 35, "bigCityFlag": "0"}, {"cityName": "長門市", "cityCode": "35211", "prefCode": 35, "bigCityFlag": "0"}, {"cityName": "柳井市", "cityCode": "35212", "prefCode": 35, "bigCityFlag": "0"}, {"cityName": "美祢市", "cityCode": "35213", "prefCode": 35, "bigCityFlag": "0"}, {"cityName": "周南市", "cityCode": "35215", "prefCode": 35, "bigCityFlag": "0"}, {"cityName": "山陽小野田市", "cityCode": "35216", "prefCode": 35, "bigCityFlag": "0"}, {"cityName": "周防大島町", "cityCode": "35305", "prefCode": 35, "bigCityFlag": "0"}, {"cityName": "和木町", "cityCode": "35321", "prefCode": 35, "bigCityFlag": "0"}, {"cityName": "上関町", "cityCode": "35341", "prefCode": 35, "bigCityFlag": "0"}, {"cityName": "田布施町", "cityCode": "35343", "prefCode": 35, "bigCityFlag": "0"}, {"cityName": "平生町", "cityCode": "35344", "prefCode": 35, "bigCityFlag": "0"}, {"cityName": "阿武町", "cityCode": "35502", "prefCode": 35, "bigCityFlag": "0"}]}
+{
+  "message": null, 
+  "result": [
+    {
+      "cityName": "下関市", 
+      "cityCode": "35201", 
+      "prefCode": 35, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "宇部市", 
+      "cityCode": "35202", 
+      "prefCode": 35, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "山口市", 
+      "cityCode": "35203", 
+      "prefCode": 35, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "萩市", 
+      "cityCode": "35204", 
+      "prefCode": 35, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "防府市", 
+      "cityCode": "35206", 
+      "prefCode": 35, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "下松市", 
+      "cityCode": "35207", 
+      "prefCode": 35, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "岩国市", 
+      "cityCode": "35208", 
+      "prefCode": 35, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "光市", 
+      "cityCode": "35210", 
+      "prefCode": 35, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "長門市", 
+      "cityCode": "35211", 
+      "prefCode": 35, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "柳井市", 
+      "cityCode": "35212", 
+      "prefCode": 35, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "美祢市", 
+      "cityCode": "35213", 
+      "prefCode": 35, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "周南市", 
+      "cityCode": "35215", 
+      "prefCode": 35, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "山陽小野田市", 
+      "cityCode": "35216", 
+      "prefCode": 35, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "周防大島町", 
+      "cityCode": "35305", 
+      "prefCode": 35, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "和木町", 
+      "cityCode": "35321", 
+      "prefCode": 35, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "上関町", 
+      "cityCode": "35341", 
+      "prefCode": 35, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "田布施町", 
+      "cityCode": "35343", 
+      "prefCode": 35, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "平生町", 
+      "cityCode": "35344", 
+      "prefCode": 35, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "阿武町", 
+      "cityCode": "35502", 
+      "prefCode": 35, 
+      "bigCityFlag": "0"
+    }
+  ]
+}

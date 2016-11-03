@@ -1,1 +1,359 @@
-{"message": null, "result": [{"cityName": "福島市", "cityCode": "07201", "prefCode": 7, "bigCityFlag": "0"}, {"cityName": "会津若松市", "cityCode": "07202", "prefCode": 7, "bigCityFlag": "0"}, {"cityName": "郡山市", "cityCode": "07203", "prefCode": 7, "bigCityFlag": "0"}, {"cityName": "いわき市", "cityCode": "07204", "prefCode": 7, "bigCityFlag": "0"}, {"cityName": "白河市", "cityCode": "07205", "prefCode": 7, "bigCityFlag": "0"}, {"cityName": "須賀川市", "cityCode": "07207", "prefCode": 7, "bigCityFlag": "0"}, {"cityName": "喜多方市", "cityCode": "07208", "prefCode": 7, "bigCityFlag": "0"}, {"cityName": "相馬市", "cityCode": "07209", "prefCode": 7, "bigCityFlag": "0"}, {"cityName": "二本松市", "cityCode": "07210", "prefCode": 7, "bigCityFlag": "0"}, {"cityName": "田村市", "cityCode": "07211", "prefCode": 7, "bigCityFlag": "0"}, {"cityName": "南相馬市", "cityCode": "07212", "prefCode": 7, "bigCityFlag": "0"}, {"cityName": "伊達市", "cityCode": "07213", "prefCode": 7, "bigCityFlag": "0"}, {"cityName": "本宮市", "cityCode": "07214", "prefCode": 7, "bigCityFlag": "0"}, {"cityName": "桑折町", "cityCode": "07301", "prefCode": 7, "bigCityFlag": "0"}, {"cityName": "国見町", "cityCode": "07303", "prefCode": 7, "bigCityFlag": "0"}, {"cityName": "川俣町", "cityCode": "07308", "prefCode": 7, "bigCityFlag": "0"}, {"cityName": "大玉村", "cityCode": "07322", "prefCode": 7, "bigCityFlag": "0"}, {"cityName": "鏡石町", "cityCode": "07342", "prefCode": 7, "bigCityFlag": "0"}, {"cityName": "天栄村", "cityCode": "07344", "prefCode": 7, "bigCityFlag": "0"}, {"cityName": "下郷町", "cityCode": "07362", "prefCode": 7, "bigCityFlag": "0"}, {"cityName": "檜枝岐村", "cityCode": "07364", "prefCode": 7, "bigCityFlag": "0"}, {"cityName": "只見町", "cityCode": "07367", "prefCode": 7, "bigCityFlag": "0"}, {"cityName": "南会津町", "cityCode": "07368", "prefCode": 7, "bigCityFlag": "0"}, {"cityName": "北塩原村", "cityCode": "07402", "prefCode": 7, "bigCityFlag": "0"}, {"cityName": "西会津町", "cityCode": "07405", "prefCode": 7, "bigCityFlag": "0"}, {"cityName": "磐梯町", "cityCode": "07407", "prefCode": 7, "bigCityFlag": "0"}, {"cityName": "猪苗代町", "cityCode": "07408", "prefCode": 7, "bigCityFlag": "0"}, {"cityName": "会津坂下町", "cityCode": "07421", "prefCode": 7, "bigCityFlag": "0"}, {"cityName": "湯川村", "cityCode": "07422", "prefCode": 7, "bigCityFlag": "0"}, {"cityName": "柳津町", "cityCode": "07423", "prefCode": 7, "bigCityFlag": "0"}, {"cityName": "三島町", "cityCode": "07444", "prefCode": 7, "bigCityFlag": "0"}, {"cityName": "金山町", "cityCode": "07445", "prefCode": 7, "bigCityFlag": "0"}, {"cityName": "昭和村", "cityCode": "07446", "prefCode": 7, "bigCityFlag": "0"}, {"cityName": "会津美里町", "cityCode": "07447", "prefCode": 7, "bigCityFlag": "0"}, {"cityName": "西郷村", "cityCode": "07461", "prefCode": 7, "bigCityFlag": "0"}, {"cityName": "泉崎村", "cityCode": "07464", "prefCode": 7, "bigCityFlag": "0"}, {"cityName": "中島村", "cityCode": "07465", "prefCode": 7, "bigCityFlag": "0"}, {"cityName": "矢吹町", "cityCode": "07466", "prefCode": 7, "bigCityFlag": "0"}, {"cityName": "棚倉町", "cityCode": "07481", "prefCode": 7, "bigCityFlag": "0"}, {"cityName": "矢祭町", "cityCode": "07482", "prefCode": 7, "bigCityFlag": "0"}, {"cityName": "塙町", "cityCode": "07483", "prefCode": 7, "bigCityFlag": "0"}, {"cityName": "鮫川村", "cityCode": "07484", "prefCode": 7, "bigCityFlag": "0"}, {"cityName": "石川町", "cityCode": "07501", "prefCode": 7, "bigCityFlag": "0"}, {"cityName": "玉川村", "cityCode": "07502", "prefCode": 7, "bigCityFlag": "0"}, {"cityName": "平田村", "cityCode": "07503", "prefCode": 7, "bigCityFlag": "0"}, {"cityName": "浅川町", "cityCode": "07504", "prefCode": 7, "bigCityFlag": "0"}, {"cityName": "古殿町", "cityCode": "07505", "prefCode": 7, "bigCityFlag": "0"}, {"cityName": "三春町", "cityCode": "07521", "prefCode": 7, "bigCityFlag": "0"}, {"cityName": "小野町", "cityCode": "07522", "prefCode": 7, "bigCityFlag": "0"}, {"cityName": "広野町", "cityCode": "07541", "prefCode": 7, "bigCityFlag": "0"}, {"cityName": "楢葉町", "cityCode": "07542", "prefCode": 7, "bigCityFlag": "0"}, {"cityName": "富岡町", "cityCode": "07543", "prefCode": 7, "bigCityFlag": "0"}, {"cityName": "川内村", "cityCode": "07544", "prefCode": 7, "bigCityFlag": "0"}, {"cityName": "大熊町", "cityCode": "07545", "prefCode": 7, "bigCityFlag": "0"}, {"cityName": "双葉町", "cityCode": "07546", "prefCode": 7, "bigCityFlag": "0"}, {"cityName": "浪江町", "cityCode": "07547", "prefCode": 7, "bigCityFlag": "0"}, {"cityName": "葛尾村", "cityCode": "07548", "prefCode": 7, "bigCityFlag": "0"}, {"cityName": "新地町", "cityCode": "07561", "prefCode": 7, "bigCityFlag": "0"}, {"cityName": "飯舘村", "cityCode": "07564", "prefCode": 7, "bigCityFlag": "0"}]}
+{
+  "message": null, 
+  "result": [
+    {
+      "cityName": "福島市", 
+      "cityCode": "07201", 
+      "prefCode": 7, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "会津若松市", 
+      "cityCode": "07202", 
+      "prefCode": 7, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "郡山市", 
+      "cityCode": "07203", 
+      "prefCode": 7, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "いわき市", 
+      "cityCode": "07204", 
+      "prefCode": 7, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "白河市", 
+      "cityCode": "07205", 
+      "prefCode": 7, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "須賀川市", 
+      "cityCode": "07207", 
+      "prefCode": 7, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "喜多方市", 
+      "cityCode": "07208", 
+      "prefCode": 7, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "相馬市", 
+      "cityCode": "07209", 
+      "prefCode": 7, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "二本松市", 
+      "cityCode": "07210", 
+      "prefCode": 7, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "田村市", 
+      "cityCode": "07211", 
+      "prefCode": 7, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "南相馬市", 
+      "cityCode": "07212", 
+      "prefCode": 7, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "伊達市", 
+      "cityCode": "07213", 
+      "prefCode": 7, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "本宮市", 
+      "cityCode": "07214", 
+      "prefCode": 7, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "桑折町", 
+      "cityCode": "07301", 
+      "prefCode": 7, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "国見町", 
+      "cityCode": "07303", 
+      "prefCode": 7, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "川俣町", 
+      "cityCode": "07308", 
+      "prefCode": 7, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "大玉村", 
+      "cityCode": "07322", 
+      "prefCode": 7, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "鏡石町", 
+      "cityCode": "07342", 
+      "prefCode": 7, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "天栄村", 
+      "cityCode": "07344", 
+      "prefCode": 7, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "下郷町", 
+      "cityCode": "07362", 
+      "prefCode": 7, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "檜枝岐村", 
+      "cityCode": "07364", 
+      "prefCode": 7, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "只見町", 
+      "cityCode": "07367", 
+      "prefCode": 7, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "南会津町", 
+      "cityCode": "07368", 
+      "prefCode": 7, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "北塩原村", 
+      "cityCode": "07402", 
+      "prefCode": 7, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "西会津町", 
+      "cityCode": "07405", 
+      "prefCode": 7, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "磐梯町", 
+      "cityCode": "07407", 
+      "prefCode": 7, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "猪苗代町", 
+      "cityCode": "07408", 
+      "prefCode": 7, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "会津坂下町", 
+      "cityCode": "07421", 
+      "prefCode": 7, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "湯川村", 
+      "cityCode": "07422", 
+      "prefCode": 7, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "柳津町", 
+      "cityCode": "07423", 
+      "prefCode": 7, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "三島町", 
+      "cityCode": "07444", 
+      "prefCode": 7, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "金山町", 
+      "cityCode": "07445", 
+      "prefCode": 7, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "昭和村", 
+      "cityCode": "07446", 
+      "prefCode": 7, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "会津美里町", 
+      "cityCode": "07447", 
+      "prefCode": 7, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "西郷村", 
+      "cityCode": "07461", 
+      "prefCode": 7, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "泉崎村", 
+      "cityCode": "07464", 
+      "prefCode": 7, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "中島村", 
+      "cityCode": "07465", 
+      "prefCode": 7, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "矢吹町", 
+      "cityCode": "07466", 
+      "prefCode": 7, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "棚倉町", 
+      "cityCode": "07481", 
+      "prefCode": 7, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "矢祭町", 
+      "cityCode": "07482", 
+      "prefCode": 7, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "塙町", 
+      "cityCode": "07483", 
+      "prefCode": 7, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "鮫川村", 
+      "cityCode": "07484", 
+      "prefCode": 7, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "石川町", 
+      "cityCode": "07501", 
+      "prefCode": 7, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "玉川村", 
+      "cityCode": "07502", 
+      "prefCode": 7, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "平田村", 
+      "cityCode": "07503", 
+      "prefCode": 7, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "浅川町", 
+      "cityCode": "07504", 
+      "prefCode": 7, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "古殿町", 
+      "cityCode": "07505", 
+      "prefCode": 7, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "三春町", 
+      "cityCode": "07521", 
+      "prefCode": 7, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "小野町", 
+      "cityCode": "07522", 
+      "prefCode": 7, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "広野町", 
+      "cityCode": "07541", 
+      "prefCode": 7, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "楢葉町", 
+      "cityCode": "07542", 
+      "prefCode": 7, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "富岡町", 
+      "cityCode": "07543", 
+      "prefCode": 7, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "川内村", 
+      "cityCode": "07544", 
+      "prefCode": 7, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "大熊町", 
+      "cityCode": "07545", 
+      "prefCode": 7, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "双葉町", 
+      "cityCode": "07546", 
+      "prefCode": 7, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "浪江町", 
+      "cityCode": "07547", 
+      "prefCode": 7, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "葛尾村", 
+      "cityCode": "07548", 
+      "prefCode": 7, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "新地町", 
+      "cityCode": "07561", 
+      "prefCode": 7, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "飯舘村", 
+      "cityCode": "07564", 
+      "prefCode": 7, 
+      "bigCityFlag": "0"
+    }
+  ]
+}

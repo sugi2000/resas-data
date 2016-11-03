@@ -1,1 +1,275 @@
-{"message": null, "result": [{"cityName": "静岡市", "cityCode": "22100", "prefCode": 22, "bigCityFlag": "2"}, {"cityName": "静岡市葵区", "cityCode": "22101", "prefCode": 22, "bigCityFlag": "1"}, {"cityName": "静岡市駿河区", "cityCode": "22102", "prefCode": 22, "bigCityFlag": "1"}, {"cityName": "静岡市清水区", "cityCode": "22103", "prefCode": 22, "bigCityFlag": "1"}, {"cityName": "浜松市", "cityCode": "22130", "prefCode": 22, "bigCityFlag": "2"}, {"cityName": "浜松市中区", "cityCode": "22131", "prefCode": 22, "bigCityFlag": "1"}, {"cityName": "浜松市東区", "cityCode": "22132", "prefCode": 22, "bigCityFlag": "1"}, {"cityName": "浜松市西区", "cityCode": "22133", "prefCode": 22, "bigCityFlag": "1"}, {"cityName": "浜松市南区", "cityCode": "22134", "prefCode": 22, "bigCityFlag": "1"}, {"cityName": "浜松市北区", "cityCode": "22135", "prefCode": 22, "bigCityFlag": "1"}, {"cityName": "浜松市浜北区", "cityCode": "22136", "prefCode": 22, "bigCityFlag": "1"}, {"cityName": "浜松市天竜区", "cityCode": "22137", "prefCode": 22, "bigCityFlag": "1"}, {"cityName": "沼津市", "cityCode": "22203", "prefCode": 22, "bigCityFlag": "0"}, {"cityName": "熱海市", "cityCode": "22205", "prefCode": 22, "bigCityFlag": "0"}, {"cityName": "三島市", "cityCode": "22206", "prefCode": 22, "bigCityFlag": "0"}, {"cityName": "富士宮市", "cityCode": "22207", "prefCode": 22, "bigCityFlag": "0"}, {"cityName": "伊東市", "cityCode": "22208", "prefCode": 22, "bigCityFlag": "0"}, {"cityName": "島田市", "cityCode": "22209", "prefCode": 22, "bigCityFlag": "0"}, {"cityName": "富士市", "cityCode": "22210", "prefCode": 22, "bigCityFlag": "0"}, {"cityName": "磐田市", "cityCode": "22211", "prefCode": 22, "bigCityFlag": "0"}, {"cityName": "焼津市", "cityCode": "22212", "prefCode": 22, "bigCityFlag": "0"}, {"cityName": "掛川市", "cityCode": "22213", "prefCode": 22, "bigCityFlag": "0"}, {"cityName": "藤枝市", "cityCode": "22214", "prefCode": 22, "bigCityFlag": "0"}, {"cityName": "御殿場市", "cityCode": "22215", "prefCode": 22, "bigCityFlag": "0"}, {"cityName": "袋井市", "cityCode": "22216", "prefCode": 22, "bigCityFlag": "0"}, {"cityName": "下田市", "cityCode": "22219", "prefCode": 22, "bigCityFlag": "0"}, {"cityName": "裾野市", "cityCode": "22220", "prefCode": 22, "bigCityFlag": "0"}, {"cityName": "湖西市", "cityCode": "22221", "prefCode": 22, "bigCityFlag": "0"}, {"cityName": "伊豆市", "cityCode": "22222", "prefCode": 22, "bigCityFlag": "0"}, {"cityName": "御前崎市", "cityCode": "22223", "prefCode": 22, "bigCityFlag": "0"}, {"cityName": "菊川市", "cityCode": "22224", "prefCode": 22, "bigCityFlag": "0"}, {"cityName": "伊豆の国市", "cityCode": "22225", "prefCode": 22, "bigCityFlag": "0"}, {"cityName": "牧之原市", "cityCode": "22226", "prefCode": 22, "bigCityFlag": "0"}, {"cityName": "東伊豆町", "cityCode": "22301", "prefCode": 22, "bigCityFlag": "0"}, {"cityName": "河津町", "cityCode": "22302", "prefCode": 22, "bigCityFlag": "0"}, {"cityName": "南伊豆町", "cityCode": "22304", "prefCode": 22, "bigCityFlag": "0"}, {"cityName": "松崎町", "cityCode": "22305", "prefCode": 22, "bigCityFlag": "0"}, {"cityName": "西伊豆町", "cityCode": "22306", "prefCode": 22, "bigCityFlag": "0"}, {"cityName": "函南町", "cityCode": "22325", "prefCode": 22, "bigCityFlag": "0"}, {"cityName": "清水町", "cityCode": "22341", "prefCode": 22, "bigCityFlag": "0"}, {"cityName": "長泉町", "cityCode": "22342", "prefCode": 22, "bigCityFlag": "0"}, {"cityName": "小山町", "cityCode": "22344", "prefCode": 22, "bigCityFlag": "0"}, {"cityName": "吉田町", "cityCode": "22424", "prefCode": 22, "bigCityFlag": "0"}, {"cityName": "川根本町", "cityCode": "22429", "prefCode": 22, "bigCityFlag": "0"}, {"cityName": "森町", "cityCode": "22461", "prefCode": 22, "bigCityFlag": "0"}]}
+{
+  "message": null, 
+  "result": [
+    {
+      "cityName": "静岡市", 
+      "cityCode": "22100", 
+      "prefCode": 22, 
+      "bigCityFlag": "2"
+    }, 
+    {
+      "cityName": "静岡市葵区", 
+      "cityCode": "22101", 
+      "prefCode": 22, 
+      "bigCityFlag": "1"
+    }, 
+    {
+      "cityName": "静岡市駿河区", 
+      "cityCode": "22102", 
+      "prefCode": 22, 
+      "bigCityFlag": "1"
+    }, 
+    {
+      "cityName": "静岡市清水区", 
+      "cityCode": "22103", 
+      "prefCode": 22, 
+      "bigCityFlag": "1"
+    }, 
+    {
+      "cityName": "浜松市", 
+      "cityCode": "22130", 
+      "prefCode": 22, 
+      "bigCityFlag": "2"
+    }, 
+    {
+      "cityName": "浜松市中区", 
+      "cityCode": "22131", 
+      "prefCode": 22, 
+      "bigCityFlag": "1"
+    }, 
+    {
+      "cityName": "浜松市東区", 
+      "cityCode": "22132", 
+      "prefCode": 22, 
+      "bigCityFlag": "1"
+    }, 
+    {
+      "cityName": "浜松市西区", 
+      "cityCode": "22133", 
+      "prefCode": 22, 
+      "bigCityFlag": "1"
+    }, 
+    {
+      "cityName": "浜松市南区", 
+      "cityCode": "22134", 
+      "prefCode": 22, 
+      "bigCityFlag": "1"
+    }, 
+    {
+      "cityName": "浜松市北区", 
+      "cityCode": "22135", 
+      "prefCode": 22, 
+      "bigCityFlag": "1"
+    }, 
+    {
+      "cityName": "浜松市浜北区", 
+      "cityCode": "22136", 
+      "prefCode": 22, 
+      "bigCityFlag": "1"
+    }, 
+    {
+      "cityName": "浜松市天竜区", 
+      "cityCode": "22137", 
+      "prefCode": 22, 
+      "bigCityFlag": "1"
+    }, 
+    {
+      "cityName": "沼津市", 
+      "cityCode": "22203", 
+      "prefCode": 22, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "熱海市", 
+      "cityCode": "22205", 
+      "prefCode": 22, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "三島市", 
+      "cityCode": "22206", 
+      "prefCode": 22, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "富士宮市", 
+      "cityCode": "22207", 
+      "prefCode": 22, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "伊東市", 
+      "cityCode": "22208", 
+      "prefCode": 22, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "島田市", 
+      "cityCode": "22209", 
+      "prefCode": 22, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "富士市", 
+      "cityCode": "22210", 
+      "prefCode": 22, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "磐田市", 
+      "cityCode": "22211", 
+      "prefCode": 22, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "焼津市", 
+      "cityCode": "22212", 
+      "prefCode": 22, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "掛川市", 
+      "cityCode": "22213", 
+      "prefCode": 22, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "藤枝市", 
+      "cityCode": "22214", 
+      "prefCode": 22, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "御殿場市", 
+      "cityCode": "22215", 
+      "prefCode": 22, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "袋井市", 
+      "cityCode": "22216", 
+      "prefCode": 22, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "下田市", 
+      "cityCode": "22219", 
+      "prefCode": 22, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "裾野市", 
+      "cityCode": "22220", 
+      "prefCode": 22, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "湖西市", 
+      "cityCode": "22221", 
+      "prefCode": 22, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "伊豆市", 
+      "cityCode": "22222", 
+      "prefCode": 22, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "御前崎市", 
+      "cityCode": "22223", 
+      "prefCode": 22, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "菊川市", 
+      "cityCode": "22224", 
+      "prefCode": 22, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "伊豆の国市", 
+      "cityCode": "22225", 
+      "prefCode": 22, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "牧之原市", 
+      "cityCode": "22226", 
+      "prefCode": 22, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "東伊豆町", 
+      "cityCode": "22301", 
+      "prefCode": 22, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "河津町", 
+      "cityCode": "22302", 
+      "prefCode": 22, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "南伊豆町", 
+      "cityCode": "22304", 
+      "prefCode": 22, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "松崎町", 
+      "cityCode": "22305", 
+      "prefCode": 22, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "西伊豆町", 
+      "cityCode": "22306", 
+      "prefCode": 22, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "函南町", 
+      "cityCode": "22325", 
+      "prefCode": 22, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "清水町", 
+      "cityCode": "22341", 
+      "prefCode": 22, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "長泉町", 
+      "cityCode": "22342", 
+      "prefCode": 22, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "小山町", 
+      "cityCode": "22344", 
+      "prefCode": 22, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "吉田町", 
+      "cityCode": "22424", 
+      "prefCode": 22, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "川根本町", 
+      "cityCode": "22429", 
+      "prefCode": 22, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "森町", 
+      "cityCode": "22461", 
+      "prefCode": 22, 
+      "bigCityFlag": "0"
+    }
+  ]
+}

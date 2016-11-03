@@ -1,1 +1,119 @@
-{"message": null, "result": [{"cityName": "松江市", "cityCode": "32201", "prefCode": 32, "bigCityFlag": "0"}, {"cityName": "浜田市", "cityCode": "32202", "prefCode": 32, "bigCityFlag": "0"}, {"cityName": "出雲市", "cityCode": "32203", "prefCode": 32, "bigCityFlag": "0"}, {"cityName": "益田市", "cityCode": "32204", "prefCode": 32, "bigCityFlag": "0"}, {"cityName": "大田市", "cityCode": "32205", "prefCode": 32, "bigCityFlag": "0"}, {"cityName": "安来市", "cityCode": "32206", "prefCode": 32, "bigCityFlag": "0"}, {"cityName": "江津市", "cityCode": "32207", "prefCode": 32, "bigCityFlag": "0"}, {"cityName": "雲南市", "cityCode": "32209", "prefCode": 32, "bigCityFlag": "0"}, {"cityName": "奥出雲町", "cityCode": "32343", "prefCode": 32, "bigCityFlag": "0"}, {"cityName": "飯南町", "cityCode": "32386", "prefCode": 32, "bigCityFlag": "0"}, {"cityName": "川本町", "cityCode": "32441", "prefCode": 32, "bigCityFlag": "0"}, {"cityName": "美郷町", "cityCode": "32448", "prefCode": 32, "bigCityFlag": "0"}, {"cityName": "邑南町", "cityCode": "32449", "prefCode": 32, "bigCityFlag": "0"}, {"cityName": "津和野町", "cityCode": "32501", "prefCode": 32, "bigCityFlag": "0"}, {"cityName": "吉賀町", "cityCode": "32505", "prefCode": 32, "bigCityFlag": "0"}, {"cityName": "海士町", "cityCode": "32525", "prefCode": 32, "bigCityFlag": "0"}, {"cityName": "西ノ島町", "cityCode": "32526", "prefCode": 32, "bigCityFlag": "0"}, {"cityName": "知夫村", "cityCode": "32527", "prefCode": 32, "bigCityFlag": "0"}, {"cityName": "隠岐の島町", "cityCode": "32528", "prefCode": 32, "bigCityFlag": "0"}]}
+{
+  "message": null, 
+  "result": [
+    {
+      "cityName": "松江市", 
+      "cityCode": "32201", 
+      "prefCode": 32, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "浜田市", 
+      "cityCode": "32202", 
+      "prefCode": 32, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "出雲市", 
+      "cityCode": "32203", 
+      "prefCode": 32, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "益田市", 
+      "cityCode": "32204", 
+      "prefCode": 32, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "大田市", 
+      "cityCode": "32205", 
+      "prefCode": 32, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "安来市", 
+      "cityCode": "32206", 
+      "prefCode": 32, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "江津市", 
+      "cityCode": "32207", 
+      "prefCode": 32, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "雲南市", 
+      "cityCode": "32209", 
+      "prefCode": 32, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "奥出雲町", 
+      "cityCode": "32343", 
+      "prefCode": 32, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "飯南町", 
+      "cityCode": "32386", 
+      "prefCode": 32, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "川本町", 
+      "cityCode": "32441", 
+      "prefCode": 32, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "美郷町", 
+      "cityCode": "32448", 
+      "prefCode": 32, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "邑南町", 
+      "cityCode": "32449", 
+      "prefCode": 32, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "津和野町", 
+      "cityCode": "32501", 
+      "prefCode": 32, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "吉賀町", 
+      "cityCode": "32505", 
+      "prefCode": 32, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "海士町", 
+      "cityCode": "32525", 
+      "prefCode": 32, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "西ノ島町", 
+      "cityCode": "32526", 
+      "prefCode": 32, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "知夫村", 
+      "cityCode": "32527", 
+      "prefCode": 32, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "隠岐の島町", 
+      "cityCode": "32528", 
+      "prefCode": 32, 
+      "bigCityFlag": "0"
+    }
+  ]
+}

@@ -1,1 +1,125 @@
-{"message": null, "result": [{"cityName": "佐賀市", "cityCode": "41201", "prefCode": 41, "bigCityFlag": "0"}, {"cityName": "唐津市", "cityCode": "41202", "prefCode": 41, "bigCityFlag": "0"}, {"cityName": "鳥栖市", "cityCode": "41203", "prefCode": 41, "bigCityFlag": "0"}, {"cityName": "多久市", "cityCode": "41204", "prefCode": 41, "bigCityFlag": "0"}, {"cityName": "伊万里市", "cityCode": "41205", "prefCode": 41, "bigCityFlag": "0"}, {"cityName": "武雄市", "cityCode": "41206", "prefCode": 41, "bigCityFlag": "0"}, {"cityName": "鹿島市", "cityCode": "41207", "prefCode": 41, "bigCityFlag": "0"}, {"cityName": "小城市", "cityCode": "41208", "prefCode": 41, "bigCityFlag": "0"}, {"cityName": "嬉野市", "cityCode": "41209", "prefCode": 41, "bigCityFlag": "0"}, {"cityName": "神埼市", "cityCode": "41210", "prefCode": 41, "bigCityFlag": "0"}, {"cityName": "吉野ヶ里町", "cityCode": "41327", "prefCode": 41, "bigCityFlag": "0"}, {"cityName": "基山町", "cityCode": "41341", "prefCode": 41, "bigCityFlag": "0"}, {"cityName": "上峰町", "cityCode": "41345", "prefCode": 41, "bigCityFlag": "0"}, {"cityName": "みやき町", "cityCode": "41346", "prefCode": 41, "bigCityFlag": "0"}, {"cityName": "玄海町", "cityCode": "41387", "prefCode": 41, "bigCityFlag": "0"}, {"cityName": "有田町", "cityCode": "41401", "prefCode": 41, "bigCityFlag": "0"}, {"cityName": "大町町", "cityCode": "41423", "prefCode": 41, "bigCityFlag": "0"}, {"cityName": "江北町", "cityCode": "41424", "prefCode": 41, "bigCityFlag": "0"}, {"cityName": "白石町", "cityCode": "41425", "prefCode": 41, "bigCityFlag": "0"}, {"cityName": "太良町", "cityCode": "41441", "prefCode": 41, "bigCityFlag": "0"}]}
+{
+  "message": null, 
+  "result": [
+    {
+      "cityName": "佐賀市", 
+      "cityCode": "41201", 
+      "prefCode": 41, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "唐津市", 
+      "cityCode": "41202", 
+      "prefCode": 41, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "鳥栖市", 
+      "cityCode": "41203", 
+      "prefCode": 41, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "多久市", 
+      "cityCode": "41204", 
+      "prefCode": 41, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "伊万里市", 
+      "cityCode": "41205", 
+      "prefCode": 41, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "武雄市", 
+      "cityCode": "41206", 
+      "prefCode": 41, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "鹿島市", 
+      "cityCode": "41207", 
+      "prefCode": 41, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "小城市", 
+      "cityCode": "41208", 
+      "prefCode": 41, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "嬉野市", 
+      "cityCode": "41209", 
+      "prefCode": 41, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "神埼市", 
+      "cityCode": "41210", 
+      "prefCode": 41, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "吉野ヶ里町", 
+      "cityCode": "41327", 
+      "prefCode": 41, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "基山町", 
+      "cityCode": "41341", 
+      "prefCode": 41, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "上峰町", 
+      "cityCode": "41345", 
+      "prefCode": 41, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "みやき町", 
+      "cityCode": "41346", 
+      "prefCode": 41, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "玄海町", 
+      "cityCode": "41387", 
+      "prefCode": 41, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "有田町", 
+      "cityCode": "41401", 
+      "prefCode": 41, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "大町町", 
+      "cityCode": "41423", 
+      "prefCode": 41, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "江北町", 
+      "cityCode": "41424", 
+      "prefCode": 41, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "白石町", 
+      "cityCode": "41425", 
+      "prefCode": 41, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "太良町", 
+      "cityCode": "41441", 
+      "prefCode": 41, 
+      "bigCityFlag": "0"
+    }
+  ]
+}

@@ -1,1 +1,245 @@
-{"message": null, "result": [{"cityName": "青森市", "cityCode": "02201", "prefCode": 2, "bigCityFlag": "0"}, {"cityName": "弘前市", "cityCode": "02202", "prefCode": 2, "bigCityFlag": "0"}, {"cityName": "八戸市", "cityCode": "02203", "prefCode": 2, "bigCityFlag": "0"}, {"cityName": "黒石市", "cityCode": "02204", "prefCode": 2, "bigCityFlag": "0"}, {"cityName": "五所川原市", "cityCode": "02205", "prefCode": 2, "bigCityFlag": "0"}, {"cityName": "十和田市", "cityCode": "02206", "prefCode": 2, "bigCityFlag": "0"}, {"cityName": "三沢市", "cityCode": "02207", "prefCode": 2, "bigCityFlag": "0"}, {"cityName": "むつ市", "cityCode": "02208", "prefCode": 2, "bigCityFlag": "0"}, {"cityName": "つがる市", "cityCode": "02209", "prefCode": 2, "bigCityFlag": "0"}, {"cityName": "平川市", "cityCode": "02210", "prefCode": 2, "bigCityFlag": "0"}, {"cityName": "平内町", "cityCode": "02301", "prefCode": 2, "bigCityFlag": "0"}, {"cityName": "今別町", "cityCode": "02303", "prefCode": 2, "bigCityFlag": "0"}, {"cityName": "蓬田村", "cityCode": "02304", "prefCode": 2, "bigCityFlag": "0"}, {"cityName": "外ヶ浜町", "cityCode": "02307", "prefCode": 2, "bigCityFlag": "0"}, {"cityName": "鰺ヶ沢町", "cityCode": "02321", "prefCode": 2, "bigCityFlag": "0"}, {"cityName": "深浦町", "cityCode": "02323", "prefCode": 2, "bigCityFlag": "0"}, {"cityName": "西目屋村", "cityCode": "02343", "prefCode": 2, "bigCityFlag": "0"}, {"cityName": "藤崎町", "cityCode": "02361", "prefCode": 2, "bigCityFlag": "0"}, {"cityName": "大鰐町", "cityCode": "02362", "prefCode": 2, "bigCityFlag": "0"}, {"cityName": "田舎館村", "cityCode": "02367", "prefCode": 2, "bigCityFlag": "0"}, {"cityName": "板柳町", "cityCode": "02381", "prefCode": 2, "bigCityFlag": "0"}, {"cityName": "鶴田町", "cityCode": "02384", "prefCode": 2, "bigCityFlag": "0"}, {"cityName": "中泊町", "cityCode": "02387", "prefCode": 2, "bigCityFlag": "0"}, {"cityName": "野辺地町", "cityCode": "02401", "prefCode": 2, "bigCityFlag": "0"}, {"cityName": "七戸町", "cityCode": "02402", "prefCode": 2, "bigCityFlag": "0"}, {"cityName": "六戸町", "cityCode": "02405", "prefCode": 2, "bigCityFlag": "0"}, {"cityName": "横浜町", "cityCode": "02406", "prefCode": 2, "bigCityFlag": "0"}, {"cityName": "東北町", "cityCode": "02408", "prefCode": 2, "bigCityFlag": "0"}, {"cityName": "六ヶ所村", "cityCode": "02411", "prefCode": 2, "bigCityFlag": "0"}, {"cityName": "おいらせ町", "cityCode": "02412", "prefCode": 2, "bigCityFlag": "0"}, {"cityName": "大間町", "cityCode": "02423", "prefCode": 2, "bigCityFlag": "0"}, {"cityName": "東通村", "cityCode": "02424", "prefCode": 2, "bigCityFlag": "0"}, {"cityName": "風間浦村", "cityCode": "02425", "prefCode": 2, "bigCityFlag": "0"}, {"cityName": "佐井村", "cityCode": "02426", "prefCode": 2, "bigCityFlag": "0"}, {"cityName": "三戸町", "cityCode": "02441", "prefCode": 2, "bigCityFlag": "0"}, {"cityName": "五戸町", "cityCode": "02442", "prefCode": 2, "bigCityFlag": "0"}, {"cityName": "田子町", "cityCode": "02443", "prefCode": 2, "bigCityFlag": "0"}, {"cityName": "南部町", "cityCode": "02445", "prefCode": 2, "bigCityFlag": "0"}, {"cityName": "階上町", "cityCode": "02446", "prefCode": 2, "bigCityFlag": "0"}, {"cityName": "新郷村", "cityCode": "02450", "prefCode": 2, "bigCityFlag": "0"}]}
+{
+  "message": null, 
+  "result": [
+    {
+      "cityName": "青森市", 
+      "cityCode": "02201", 
+      "prefCode": 2, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "弘前市", 
+      "cityCode": "02202", 
+      "prefCode": 2, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "八戸市", 
+      "cityCode": "02203", 
+      "prefCode": 2, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "黒石市", 
+      "cityCode": "02204", 
+      "prefCode": 2, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "五所川原市", 
+      "cityCode": "02205", 
+      "prefCode": 2, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "十和田市", 
+      "cityCode": "02206", 
+      "prefCode": 2, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "三沢市", 
+      "cityCode": "02207", 
+      "prefCode": 2, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "むつ市", 
+      "cityCode": "02208", 
+      "prefCode": 2, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "つがる市", 
+      "cityCode": "02209", 
+      "prefCode": 2, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "平川市", 
+      "cityCode": "02210", 
+      "prefCode": 2, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "平内町", 
+      "cityCode": "02301", 
+      "prefCode": 2, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "今別町", 
+      "cityCode": "02303", 
+      "prefCode": 2, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "蓬田村", 
+      "cityCode": "02304", 
+      "prefCode": 2, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "外ヶ浜町", 
+      "cityCode": "02307", 
+      "prefCode": 2, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "鰺ヶ沢町", 
+      "cityCode": "02321", 
+      "prefCode": 2, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "深浦町", 
+      "cityCode": "02323", 
+      "prefCode": 2, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "西目屋村", 
+      "cityCode": "02343", 
+      "prefCode": 2, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "藤崎町", 
+      "cityCode": "02361", 
+      "prefCode": 2, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "大鰐町", 
+      "cityCode": "02362", 
+      "prefCode": 2, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "田舎館村", 
+      "cityCode": "02367", 
+      "prefCode": 2, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "板柳町", 
+      "cityCode": "02381", 
+      "prefCode": 2, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "鶴田町", 
+      "cityCode": "02384", 
+      "prefCode": 2, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "中泊町", 
+      "cityCode": "02387", 
+      "prefCode": 2, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "野辺地町", 
+      "cityCode": "02401", 
+      "prefCode": 2, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "七戸町", 
+      "cityCode": "02402", 
+      "prefCode": 2, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "六戸町", 
+      "cityCode": "02405", 
+      "prefCode": 2, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "横浜町", 
+      "cityCode": "02406", 
+      "prefCode": 2, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "東北町", 
+      "cityCode": "02408", 
+      "prefCode": 2, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "六ヶ所村", 
+      "cityCode": "02411", 
+      "prefCode": 2, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "おいらせ町", 
+      "cityCode": "02412", 
+      "prefCode": 2, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "大間町", 
+      "cityCode": "02423", 
+      "prefCode": 2, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "東通村", 
+      "cityCode": "02424", 
+      "prefCode": 2, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "風間浦村", 
+      "cityCode": "02425", 
+      "prefCode": 2, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "佐井村", 
+      "cityCode": "02426", 
+      "prefCode": 2, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "三戸町", 
+      "cityCode": "02441", 
+      "prefCode": 2, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "五戸町", 
+      "cityCode": "02442", 
+      "prefCode": 2, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "田子町", 
+      "cityCode": "02443", 
+      "prefCode": 2, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "南部町", 
+      "cityCode": "02445", 
+      "prefCode": 2, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "階上町", 
+      "cityCode": "02446", 
+      "prefCode": 2, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "新郷村", 
+      "cityCode": "02450", 
+      "prefCode": 2, 
+      "bigCityFlag": "0"
+    }
+  ]
+}

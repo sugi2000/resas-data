@@ -1,1 +1,119 @@
-{"message": null, "result": [{"cityName": "大津市", "cityCode": "25201", "prefCode": 25, "bigCityFlag": "0"}, {"cityName": "彦根市", "cityCode": "25202", "prefCode": 25, "bigCityFlag": "0"}, {"cityName": "長浜市", "cityCode": "25203", "prefCode": 25, "bigCityFlag": "0"}, {"cityName": "近江八幡市", "cityCode": "25204", "prefCode": 25, "bigCityFlag": "0"}, {"cityName": "草津市", "cityCode": "25206", "prefCode": 25, "bigCityFlag": "0"}, {"cityName": "守山市", "cityCode": "25207", "prefCode": 25, "bigCityFlag": "0"}, {"cityName": "栗東市", "cityCode": "25208", "prefCode": 25, "bigCityFlag": "0"}, {"cityName": "甲賀市", "cityCode": "25209", "prefCode": 25, "bigCityFlag": "0"}, {"cityName": "野洲市", "cityCode": "25210", "prefCode": 25, "bigCityFlag": "0"}, {"cityName": "湖南市", "cityCode": "25211", "prefCode": 25, "bigCityFlag": "0"}, {"cityName": "高島市", "cityCode": "25212", "prefCode": 25, "bigCityFlag": "0"}, {"cityName": "東近江市", "cityCode": "25213", "prefCode": 25, "bigCityFlag": "0"}, {"cityName": "米原市", "cityCode": "25214", "prefCode": 25, "bigCityFlag": "0"}, {"cityName": "日野町", "cityCode": "25383", "prefCode": 25, "bigCityFlag": "0"}, {"cityName": "竜王町", "cityCode": "25384", "prefCode": 25, "bigCityFlag": "0"}, {"cityName": "愛荘町", "cityCode": "25425", "prefCode": 25, "bigCityFlag": "0"}, {"cityName": "豊郷町", "cityCode": "25441", "prefCode": 25, "bigCityFlag": "0"}, {"cityName": "甲良町", "cityCode": "25442", "prefCode": 25, "bigCityFlag": "0"}, {"cityName": "多賀町", "cityCode": "25443", "prefCode": 25, "bigCityFlag": "0"}]}
+{
+  "message": null, 
+  "result": [
+    {
+      "cityName": "大津市", 
+      "cityCode": "25201", 
+      "prefCode": 25, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "彦根市", 
+      "cityCode": "25202", 
+      "prefCode": 25, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "長浜市", 
+      "cityCode": "25203", 
+      "prefCode": 25, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "近江八幡市", 
+      "cityCode": "25204", 
+      "prefCode": 25, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "草津市", 
+      "cityCode": "25206", 
+      "prefCode": 25, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "守山市", 
+      "cityCode": "25207", 
+      "prefCode": 25, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "栗東市", 
+      "cityCode": "25208", 
+      "prefCode": 25, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "甲賀市", 
+      "cityCode": "25209", 
+      "prefCode": 25, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "野洲市", 
+      "cityCode": "25210", 
+      "prefCode": 25, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "湖南市", 
+      "cityCode": "25211", 
+      "prefCode": 25, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "高島市", 
+      "cityCode": "25212", 
+      "prefCode": 25, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "東近江市", 
+      "cityCode": "25213", 
+      "prefCode": 25, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "米原市", 
+      "cityCode": "25214", 
+      "prefCode": 25, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "日野町", 
+      "cityCode": "25383", 
+      "prefCode": 25, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "竜王町", 
+      "cityCode": "25384", 
+      "prefCode": 25, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "愛荘町", 
+      "cityCode": "25425", 
+      "prefCode": 25, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "豊郷町", 
+      "cityCode": "25441", 
+      "prefCode": 25, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "甲良町", 
+      "cityCode": "25442", 
+      "prefCode": 25, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "多賀町", 
+      "cityCode": "25443", 
+      "prefCode": 25, 
+      "bigCityFlag": "0"
+    }
+  ]
+}

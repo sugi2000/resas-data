@@ -1,1 +1,227 @@
-{"message": null, "result": [{"cityName": "京都市", "cityCode": "26100", "prefCode": 26, "bigCityFlag": "2"}, {"cityName": "京都市北区", "cityCode": "26101", "prefCode": 26, "bigCityFlag": "1"}, {"cityName": "京都市上京区", "cityCode": "26102", "prefCode": 26, "bigCityFlag": "1"}, {"cityName": "京都市左京区", "cityCode": "26103", "prefCode": 26, "bigCityFlag": "1"}, {"cityName": "京都市中京区", "cityCode": "26104", "prefCode": 26, "bigCityFlag": "1"}, {"cityName": "京都市東山区", "cityCode": "26105", "prefCode": 26, "bigCityFlag": "1"}, {"cityName": "京都市下京区", "cityCode": "26106", "prefCode": 26, "bigCityFlag": "1"}, {"cityName": "京都市南区", "cityCode": "26107", "prefCode": 26, "bigCityFlag": "1"}, {"cityName": "京都市右京区", "cityCode": "26108", "prefCode": 26, "bigCityFlag": "1"}, {"cityName": "京都市伏見区", "cityCode": "26109", "prefCode": 26, "bigCityFlag": "1"}, {"cityName": "京都市山科区", "cityCode": "26110", "prefCode": 26, "bigCityFlag": "1"}, {"cityName": "京都市西京区", "cityCode": "26111", "prefCode": 26, "bigCityFlag": "1"}, {"cityName": "福知山市", "cityCode": "26201", "prefCode": 26, "bigCityFlag": "0"}, {"cityName": "舞鶴市", "cityCode": "26202", "prefCode": 26, "bigCityFlag": "0"}, {"cityName": "綾部市", "cityCode": "26203", "prefCode": 26, "bigCityFlag": "0"}, {"cityName": "宇治市", "cityCode": "26204", "prefCode": 26, "bigCityFlag": "0"}, {"cityName": "宮津市", "cityCode": "26205", "prefCode": 26, "bigCityFlag": "0"}, {"cityName": "亀岡市", "cityCode": "26206", "prefCode": 26, "bigCityFlag": "0"}, {"cityName": "城陽市", "cityCode": "26207", "prefCode": 26, "bigCityFlag": "0"}, {"cityName": "向日市", "cityCode": "26208", "prefCode": 26, "bigCityFlag": "0"}, {"cityName": "長岡京市", "cityCode": "26209", "prefCode": 26, "bigCityFlag": "0"}, {"cityName": "八幡市", "cityCode": "26210", "prefCode": 26, "bigCityFlag": "0"}, {"cityName": "京田辺市", "cityCode": "26211", "prefCode": 26, "bigCityFlag": "0"}, {"cityName": "京丹後市", "cityCode": "26212", "prefCode": 26, "bigCityFlag": "0"}, {"cityName": "南丹市", "cityCode": "26213", "prefCode": 26, "bigCityFlag": "0"}, {"cityName": "木津川市", "cityCode": "26214", "prefCode": 26, "bigCityFlag": "0"}, {"cityName": "大山崎町", "cityCode": "26303", "prefCode": 26, "bigCityFlag": "0"}, {"cityName": "久御山町", "cityCode": "26322", "prefCode": 26, "bigCityFlag": "0"}, {"cityName": "井手町", "cityCode": "26343", "prefCode": 26, "bigCityFlag": "0"}, {"cityName": "宇治田原町", "cityCode": "26344", "prefCode": 26, "bigCityFlag": "0"}, {"cityName": "笠置町", "cityCode": "26364", "prefCode": 26, "bigCityFlag": "0"}, {"cityName": "和束町", "cityCode": "26365", "prefCode": 26, "bigCityFlag": "0"}, {"cityName": "精華町", "cityCode": "26366", "prefCode": 26, "bigCityFlag": "0"}, {"cityName": "南山城村", "cityCode": "26367", "prefCode": 26, "bigCityFlag": "0"}, {"cityName": "京丹波町", "cityCode": "26407", "prefCode": 26, "bigCityFlag": "0"}, {"cityName": "伊根町", "cityCode": "26463", "prefCode": 26, "bigCityFlag": "0"}, {"cityName": "与謝野町", "cityCode": "26465", "prefCode": 26, "bigCityFlag": "0"}]}
+{
+  "message": null, 
+  "result": [
+    {
+      "cityName": "京都市", 
+      "cityCode": "26100", 
+      "prefCode": 26, 
+      "bigCityFlag": "2"
+    }, 
+    {
+      "cityName": "京都市北区", 
+      "cityCode": "26101", 
+      "prefCode": 26, 
+      "bigCityFlag": "1"
+    }, 
+    {
+      "cityName": "京都市上京区", 
+      "cityCode": "26102", 
+      "prefCode": 26, 
+      "bigCityFlag": "1"
+    }, 
+    {
+      "cityName": "京都市左京区", 
+      "cityCode": "26103", 
+      "prefCode": 26, 
+      "bigCityFlag": "1"
+    }, 
+    {
+      "cityName": "京都市中京区", 
+      "cityCode": "26104", 
+      "prefCode": 26, 
+      "bigCityFlag": "1"
+    }, 
+    {
+      "cityName": "京都市東山区", 
+      "cityCode": "26105", 
+      "prefCode": 26, 
+      "bigCityFlag": "1"
+    }, 
+    {
+      "cityName": "京都市下京区", 
+      "cityCode": "26106", 
+      "prefCode": 26, 
+      "bigCityFlag": "1"
+    }, 
+    {
+      "cityName": "京都市南区", 
+      "cityCode": "26107", 
+      "prefCode": 26, 
+      "bigCityFlag": "1"
+    }, 
+    {
+      "cityName": "京都市右京区", 
+      "cityCode": "26108", 
+      "prefCode": 26, 
+      "bigCityFlag": "1"
+    }, 
+    {
+      "cityName": "京都市伏見区", 
+      "cityCode": "26109", 
+      "prefCode": 26, 
+      "bigCityFlag": "1"
+    }, 
+    {
+      "cityName": "京都市山科区", 
+      "cityCode": "26110", 
+      "prefCode": 26, 
+      "bigCityFlag": "1"
+    }, 
+    {
+      "cityName": "京都市西京区", 
+      "cityCode": "26111", 
+      "prefCode": 26, 
+      "bigCityFlag": "1"
+    }, 
+    {
+      "cityName": "福知山市", 
+      "cityCode": "26201", 
+      "prefCode": 26, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "舞鶴市", 
+      "cityCode": "26202", 
+      "prefCode": 26, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "綾部市", 
+      "cityCode": "26203", 
+      "prefCode": 26, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "宇治市", 
+      "cityCode": "26204", 
+      "prefCode": 26, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "宮津市", 
+      "cityCode": "26205", 
+      "prefCode": 26, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "亀岡市", 
+      "cityCode": "26206", 
+      "prefCode": 26, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "城陽市", 
+      "cityCode": "26207", 
+      "prefCode": 26, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "向日市", 
+      "cityCode": "26208", 
+      "prefCode": 26, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "長岡京市", 
+      "cityCode": "26209", 
+      "prefCode": 26, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "八幡市", 
+      "cityCode": "26210", 
+      "prefCode": 26, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "京田辺市", 
+      "cityCode": "26211", 
+      "prefCode": 26, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "京丹後市", 
+      "cityCode": "26212", 
+      "prefCode": 26, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "南丹市", 
+      "cityCode": "26213", 
+      "prefCode": 26, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "木津川市", 
+      "cityCode": "26214", 
+      "prefCode": 26, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "大山崎町", 
+      "cityCode": "26303", 
+      "prefCode": 26, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "久御山町", 
+      "cityCode": "26322", 
+      "prefCode": 26, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "井手町", 
+      "cityCode": "26343", 
+      "prefCode": 26, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "宇治田原町", 
+      "cityCode": "26344", 
+      "prefCode": 26, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "笠置町", 
+      "cityCode": "26364", 
+      "prefCode": 26, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "和束町", 
+      "cityCode": "26365", 
+      "prefCode": 26, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "精華町", 
+      "cityCode": "26366", 
+      "prefCode": 26, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "南山城村", 
+      "cityCode": "26367", 
+      "prefCode": 26, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "京丹波町", 
+      "cityCode": "26407", 
+      "prefCode": 26, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "伊根町", 
+      "cityCode": "26463", 
+      "prefCode": 26, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "与謝野町", 
+      "cityCode": "26465", 
+      "prefCode": 26, 
+      "bigCityFlag": "0"
+    }
+  ]
+}

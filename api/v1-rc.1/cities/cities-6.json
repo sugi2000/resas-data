@@ -1,1 +1,215 @@
-{"message": null, "result": [{"cityName": "山形市", "cityCode": "06201", "prefCode": 6, "bigCityFlag": "0"}, {"cityName": "米沢市", "cityCode": "06202", "prefCode": 6, "bigCityFlag": "0"}, {"cityName": "鶴岡市", "cityCode": "06203", "prefCode": 6, "bigCityFlag": "0"}, {"cityName": "酒田市", "cityCode": "06204", "prefCode": 6, "bigCityFlag": "0"}, {"cityName": "新庄市", "cityCode": "06205", "prefCode": 6, "bigCityFlag": "0"}, {"cityName": "寒河江市", "cityCode": "06206", "prefCode": 6, "bigCityFlag": "0"}, {"cityName": "上山市", "cityCode": "06207", "prefCode": 6, "bigCityFlag": "0"}, {"cityName": "村山市", "cityCode": "06208", "prefCode": 6, "bigCityFlag": "0"}, {"cityName": "長井市", "cityCode": "06209", "prefCode": 6, "bigCityFlag": "0"}, {"cityName": "天童市", "cityCode": "06210", "prefCode": 6, "bigCityFlag": "0"}, {"cityName": "東根市", "cityCode": "06211", "prefCode": 6, "bigCityFlag": "0"}, {"cityName": "尾花沢市", "cityCode": "06212", "prefCode": 6, "bigCityFlag": "0"}, {"cityName": "南陽市", "cityCode": "06213", "prefCode": 6, "bigCityFlag": "0"}, {"cityName": "山辺町", "cityCode": "06301", "prefCode": 6, "bigCityFlag": "0"}, {"cityName": "中山町", "cityCode": "06302", "prefCode": 6, "bigCityFlag": "0"}, {"cityName": "河北町", "cityCode": "06321", "prefCode": 6, "bigCityFlag": "0"}, {"cityName": "西川町", "cityCode": "06322", "prefCode": 6, "bigCityFlag": "0"}, {"cityName": "朝日町", "cityCode": "06323", "prefCode": 6, "bigCityFlag": "0"}, {"cityName": "大江町", "cityCode": "06324", "prefCode": 6, "bigCityFlag": "0"}, {"cityName": "大石田町", "cityCode": "06341", "prefCode": 6, "bigCityFlag": "0"}, {"cityName": "金山町", "cityCode": "06361", "prefCode": 6, "bigCityFlag": "0"}, {"cityName": "最上町", "cityCode": "06362", "prefCode": 6, "bigCityFlag": "0"}, {"cityName": "舟形町", "cityCode": "06363", "prefCode": 6, "bigCityFlag": "0"}, {"cityName": "真室川町", "cityCode": "06364", "prefCode": 6, "bigCityFlag": "0"}, {"cityName": "大蔵村", "cityCode": "06365", "prefCode": 6, "bigCityFlag": "0"}, {"cityName": "鮭川村", "cityCode": "06366", "prefCode": 6, "bigCityFlag": "0"}, {"cityName": "戸沢村", "cityCode": "06367", "prefCode": 6, "bigCityFlag": "0"}, {"cityName": "高畠町", "cityCode": "06381", "prefCode": 6, "bigCityFlag": "0"}, {"cityName": "川西町", "cityCode": "06382", "prefCode": 6, "bigCityFlag": "0"}, {"cityName": "小国町", "cityCode": "06401", "prefCode": 6, "bigCityFlag": "0"}, {"cityName": "白鷹町", "cityCode": "06402", "prefCode": 6, "bigCityFlag": "0"}, {"cityName": "飯豊町", "cityCode": "06403", "prefCode": 6, "bigCityFlag": "0"}, {"cityName": "三川町", "cityCode": "06426", "prefCode": 6, "bigCityFlag": "0"}, {"cityName": "庄内町", "cityCode": "06428", "prefCode": 6, "bigCityFlag": "0"}, {"cityName": "遊佐町", "cityCode": "06461", "prefCode": 6, "bigCityFlag": "0"}]}
+{
+  "message": null, 
+  "result": [
+    {
+      "cityName": "山形市", 
+      "cityCode": "06201", 
+      "prefCode": 6, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "米沢市", 
+      "cityCode": "06202", 
+      "prefCode": 6, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "鶴岡市", 
+      "cityCode": "06203", 
+      "prefCode": 6, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "酒田市", 
+      "cityCode": "06204", 
+      "prefCode": 6, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "新庄市", 
+      "cityCode": "06205", 
+      "prefCode": 6, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "寒河江市", 
+      "cityCode": "06206", 
+      "prefCode": 6, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "上山市", 
+      "cityCode": "06207", 
+      "prefCode": 6, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "村山市", 
+      "cityCode": "06208", 
+      "prefCode": 6, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "長井市", 
+      "cityCode": "06209", 
+      "prefCode": 6, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "天童市", 
+      "cityCode": "06210", 
+      "prefCode": 6, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "東根市", 
+      "cityCode": "06211", 
+      "prefCode": 6, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "尾花沢市", 
+      "cityCode": "06212", 
+      "prefCode": 6, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "南陽市", 
+      "cityCode": "06213", 
+      "prefCode": 6, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "山辺町", 
+      "cityCode": "06301", 
+      "prefCode": 6, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "中山町", 
+      "cityCode": "06302", 
+      "prefCode": 6, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "河北町", 
+      "cityCode": "06321", 
+      "prefCode": 6, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "西川町", 
+      "cityCode": "06322", 
+      "prefCode": 6, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "朝日町", 
+      "cityCode": "06323", 
+      "prefCode": 6, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "大江町", 
+      "cityCode": "06324", 
+      "prefCode": 6, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "大石田町", 
+      "cityCode": "06341", 
+      "prefCode": 6, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "金山町", 
+      "cityCode": "06361", 
+      "prefCode": 6, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "最上町", 
+      "cityCode": "06362", 
+      "prefCode": 6, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "舟形町", 
+      "cityCode": "06363", 
+      "prefCode": 6, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "真室川町", 
+      "cityCode": "06364", 
+      "prefCode": 6, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "大蔵村", 
+      "cityCode": "06365", 
+      "prefCode": 6, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "鮭川村", 
+      "cityCode": "06366", 
+      "prefCode": 6, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "戸沢村", 
+      "cityCode": "06367", 
+      "prefCode": 6, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "高畠町", 
+      "cityCode": "06381", 
+      "prefCode": 6, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "川西町", 
+      "cityCode": "06382", 
+      "prefCode": 6, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "小国町", 
+      "cityCode": "06401", 
+      "prefCode": 6, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "白鷹町", 
+      "cityCode": "06402", 
+      "prefCode": 6, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "飯豊町", 
+      "cityCode": "06403", 
+      "prefCode": 6, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "三川町", 
+      "cityCode": "06426", 
+      "prefCode": 6, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "庄内町", 
+      "cityCode": "06428", 
+      "prefCode": 6, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "遊佐町", 
+      "cityCode": "06461", 
+      "prefCode": 6, 
+      "bigCityFlag": "0"
+    }
+  ]
+}

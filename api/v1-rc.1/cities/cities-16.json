@@ -1,1 +1,95 @@
-{"message": null, "result": [{"cityName": "富山市", "cityCode": "16201", "prefCode": 16, "bigCityFlag": "0"}, {"cityName": "高岡市", "cityCode": "16202", "prefCode": 16, "bigCityFlag": "0"}, {"cityName": "魚津市", "cityCode": "16204", "prefCode": 16, "bigCityFlag": "0"}, {"cityName": "氷見市", "cityCode": "16205", "prefCode": 16, "bigCityFlag": "0"}, {"cityName": "滑川市", "cityCode": "16206", "prefCode": 16, "bigCityFlag": "0"}, {"cityName": "黒部市", "cityCode": "16207", "prefCode": 16, "bigCityFlag": "0"}, {"cityName": "砺波市", "cityCode": "16208", "prefCode": 16, "bigCityFlag": "0"}, {"cityName": "小矢部市", "cityCode": "16209", "prefCode": 16, "bigCityFlag": "0"}, {"cityName": "南砺市", "cityCode": "16210", "prefCode": 16, "bigCityFlag": "0"}, {"cityName": "射水市", "cityCode": "16211", "prefCode": 16, "bigCityFlag": "0"}, {"cityName": "舟橋村", "cityCode": "16321", "prefCode": 16, "bigCityFlag": "0"}, {"cityName": "上市町", "cityCode": "16322", "prefCode": 16, "bigCityFlag": "0"}, {"cityName": "立山町", "cityCode": "16323", "prefCode": 16, "bigCityFlag": "0"}, {"cityName": "入善町", "cityCode": "16342", "prefCode": 16, "bigCityFlag": "0"}, {"cityName": "朝日町", "cityCode": "16343", "prefCode": 16, "bigCityFlag": "0"}]}
+{
+  "message": null, 
+  "result": [
+    {
+      "cityName": "富山市", 
+      "cityCode": "16201", 
+      "prefCode": 16, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "高岡市", 
+      "cityCode": "16202", 
+      "prefCode": 16, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "魚津市", 
+      "cityCode": "16204", 
+      "prefCode": 16, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "氷見市", 
+      "cityCode": "16205", 
+      "prefCode": 16, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "滑川市", 
+      "cityCode": "16206", 
+      "prefCode": 16, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "黒部市", 
+      "cityCode": "16207", 
+      "prefCode": 16, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "砺波市", 
+      "cityCode": "16208", 
+      "prefCode": 16, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "小矢部市", 
+      "cityCode": "16209", 
+      "prefCode": 16, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "南砺市", 
+      "cityCode": "16210", 
+      "prefCode": 16, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "射水市", 
+      "cityCode": "16211", 
+      "prefCode": 16, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "舟橋村", 
+      "cityCode": "16321", 
+      "prefCode": 16, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "上市町", 
+      "cityCode": "16322", 
+      "prefCode": 16, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "立山町", 
+      "cityCode": "16323", 
+      "prefCode": 16, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "入善町", 
+      "cityCode": "16342", 
+      "prefCode": 16, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "朝日町", 
+      "cityCode": "16343", 
+      "prefCode": 16, 
+      "bigCityFlag": "0"
+    }
+  ]
+}

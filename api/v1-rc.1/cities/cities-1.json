@@ -1,1 +1,1157 @@
-{"message": null, "result": [{"cityName": "札幌市", "cityCode": "01100", "prefCode": 1, "bigCityFlag": "2"}, {"cityName": "札幌市中央区", "cityCode": "01101", "prefCode": 1, "bigCityFlag": "1"}, {"cityName": "札幌市北区", "cityCode": "01102", "prefCode": 1, "bigCityFlag": "1"}, {"cityName": "札幌市東区", "cityCode": "01103", "prefCode": 1, "bigCityFlag": "1"}, {"cityName": "札幌市白石区", "cityCode": "01104", "prefCode": 1, "bigCityFlag": "1"}, {"cityName": "札幌市豊平区", "cityCode": "01105", "prefCode": 1, "bigCityFlag": "1"}, {"cityName": "札幌市南区", "cityCode": "01106", "prefCode": 1, "bigCityFlag": "1"}, {"cityName": "札幌市西区", "cityCode": "01107", "prefCode": 1, "bigCityFlag": "1"}, {"cityName": "札幌市厚別区", "cityCode": "01108", "prefCode": 1, "bigCityFlag": "1"}, {"cityName": "札幌市手稲区", "cityCode": "01109", "prefCode": 1, "bigCityFlag": "1"}, {"cityName": "札幌市清田区", "cityCode": "01110", "prefCode": 1, "bigCityFlag": "1"}, {"cityName": "函館市", "cityCode": "01202", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "小樽市", "cityCode": "01203", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "旭川市", "cityCode": "01204", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "室蘭市", "cityCode": "01205", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "釧路市", "cityCode": "01206", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "帯広市", "cityCode": "01207", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "北見市", "cityCode": "01208", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "夕張市", "cityCode": "01209", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "岩見沢市", "cityCode": "01210", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "網走市", "cityCode": "01211", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "留萌市", "cityCode": "01212", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "苫小牧市", "cityCode": "01213", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "稚内市", "cityCode": "01214", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "美唄市", "cityCode": "01215", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "芦別市", "cityCode": "01216", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "江別市", "cityCode": "01217", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "赤平市", "cityCode": "01218", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "紋別市", "cityCode": "01219", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "士別市", "cityCode": "01220", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "名寄市", "cityCode": "01221", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "三笠市", "cityCode": "01222", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "根室市", "cityCode": "01223", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "千歳市", "cityCode": "01224", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "滝川市", "cityCode": "01225", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "砂川市", "cityCode": "01226", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "歌志内市", "cityCode": "01227", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "深川市", "cityCode": "01228", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "富良野市", "cityCode": "01229", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "登別市", "cityCode": "01230", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "恵庭市", "cityCode": "01231", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "伊達市", "cityCode": "01233", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "北広島市", "cityCode": "01234", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "石狩市", "cityCode": "01235", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "北斗市", "cityCode": "01236", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "当別町", "cityCode": "01303", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "新篠津村", "cityCode": "01304", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "松前町", "cityCode": "01331", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "福島町", "cityCode": "01332", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "知内町", "cityCode": "01333", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "木古内町", "cityCode": "01334", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "七飯町", "cityCode": "01337", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "鹿部町", "cityCode": "01343", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "森町", "cityCode": "01345", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "八雲町", "cityCode": "01346", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "長万部町", "cityCode": "01347", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "江差町", "cityCode": "01361", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "上ノ国町", "cityCode": "01362", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "厚沢部町", "cityCode": "01363", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "乙部町", "cityCode": "01364", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "奥尻町", "cityCode": "01367", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "今金町", "cityCode": "01370", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "せたな町", "cityCode": "01371", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "島牧村", "cityCode": "01391", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "寿都町", "cityCode": "01392", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "黒松内町", "cityCode": "01393", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "蘭越町", "cityCode": "01394", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "ニセコ町", "cityCode": "01395", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "真狩村", "cityCode": "01396", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "留寿都村", "cityCode": "01397", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "喜茂別町", "cityCode": "01398", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "京極町", "cityCode": "01399", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "倶知安町", "cityCode": "01400", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "共和町", "cityCode": "01401", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "岩内町", "cityCode": "01402", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "泊村", "cityCode": "01403", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "神恵内村", "cityCode": "01404", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "積丹町", "cityCode": "01405", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "古平町", "cityCode": "01406", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "仁木町", "cityCode": "01407", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "余市町", "cityCode": "01408", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "赤井川村", "cityCode": "01409", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "南幌町", "cityCode": "01423", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "奈井江町", "cityCode": "01424", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "上砂川町", "cityCode": "01425", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "由仁町", "cityCode": "01427", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "長沼町", "cityCode": "01428", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "栗山町", "cityCode": "01429", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "月形町", "cityCode": "01430", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "浦臼町", "cityCode": "01431", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "新十津川町", "cityCode": "01432", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "妹背牛町", "cityCode": "01433", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "秩父別町", "cityCode": "01434", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "雨竜町", "cityCode": "01436", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "北竜町", "cityCode": "01437", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "沼田町", "cityCode": "01438", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "鷹栖町", "cityCode": "01452", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "東神楽町", "cityCode": "01453", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "当麻町", "cityCode": "01454", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "比布町", "cityCode": "01455", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "愛別町", "cityCode": "01456", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "上川町", "cityCode": "01457", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "東川町", "cityCode": "01458", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "美瑛町", "cityCode": "01459", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "上富良野町", "cityCode": "01460", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "中富良野町", "cityCode": "01461", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "南富良野町", "cityCode": "01462", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "占冠村", "cityCode": "01463", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "和寒町", "cityCode": "01464", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "剣淵町", "cityCode": "01465", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "下川町", "cityCode": "01468", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "美深町", "cityCode": "01469", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "音威子府村", "cityCode": "01470", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "中川町", "cityCode": "01471", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "幌加内町", "cityCode": "01472", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "増毛町", "cityCode": "01481", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "小平町", "cityCode": "01482", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "苫前町", "cityCode": "01483", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "羽幌町", "cityCode": "01484", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "初山別村", "cityCode": "01485", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "遠別町", "cityCode": "01486", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "天塩町", "cityCode": "01487", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "猿払村", "cityCode": "01511", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "浜頓別町", "cityCode": "01512", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "中頓別町", "cityCode": "01513", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "枝幸町", "cityCode": "01514", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "豊富町", "cityCode": "01516", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "礼文町", "cityCode": "01517", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "利尻町", "cityCode": "01518", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "利尻富士町", "cityCode": "01519", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "幌延町", "cityCode": "01520", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "美幌町", "cityCode": "01543", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "津別町", "cityCode": "01544", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "斜里町", "cityCode": "01545", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "清里町", "cityCode": "01546", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "小清水町", "cityCode": "01547", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "訓子府町", "cityCode": "01549", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "置戸町", "cityCode": "01550", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "佐呂間町", "cityCode": "01552", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "遠軽町", "cityCode": "01555", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "湧別町", "cityCode": "01559", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "滝上町", "cityCode": "01560", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "興部町", "cityCode": "01561", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "西興部村", "cityCode": "01562", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "雄武町", "cityCode": "01563", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "大空町", "cityCode": "01564", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "豊浦町", "cityCode": "01571", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "壮瞥町", "cityCode": "01575", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "白老町", "cityCode": "01578", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "厚真町", "cityCode": "01581", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "洞爺湖町", "cityCode": "01584", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "安平町", "cityCode": "01585", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "むかわ町", "cityCode": "01586", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "日高町", "cityCode": "01601", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "平取町", "cityCode": "01602", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "新冠町", "cityCode": "01604", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "浦河町", "cityCode": "01607", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "様似町", "cityCode": "01608", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "えりも町", "cityCode": "01609", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "新ひだか町", "cityCode": "01610", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "音更町", "cityCode": "01631", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "士幌町", "cityCode": "01632", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "上士幌町", "cityCode": "01633", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "鹿追町", "cityCode": "01634", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "新得町", "cityCode": "01635", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "清水町", "cityCode": "01636", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "芽室町", "cityCode": "01637", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "中札内村", "cityCode": "01638", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "更別村", "cityCode": "01639", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "大樹町", "cityCode": "01641", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "広尾町", "cityCode": "01642", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "幕別町", "cityCode": "01643", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "池田町", "cityCode": "01644", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "豊頃町", "cityCode": "01645", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "本別町", "cityCode": "01646", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "足寄町", "cityCode": "01647", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "陸別町", "cityCode": "01648", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "浦幌町", "cityCode": "01649", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "釧路町", "cityCode": "01661", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "厚岸町", "cityCode": "01662", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "浜中町", "cityCode": "01663", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "標茶町", "cityCode": "01664", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "弟子屈町", "cityCode": "01665", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "鶴居村", "cityCode": "01667", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "白糠町", "cityCode": "01668", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "別海町", "cityCode": "01691", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "中標津町", "cityCode": "01692", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "標津町", "cityCode": "01693", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "羅臼町", "cityCode": "01694", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "色丹郡色丹村", "cityCode": "01695", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "国後郡泊村・留夜別村", "cityCode": "01696", "prefCode": 1, "bigCityFlag": "0"}, {"cityName": "択捉郡留別村・紗那村・蘂取", "cityCode": "01698", "prefCode": 1, "bigCityFlag": "0"}]}
+{
+  "message": null, 
+  "result": [
+    {
+      "cityName": "札幌市", 
+      "cityCode": "01100", 
+      "prefCode": 1, 
+      "bigCityFlag": "2"
+    }, 
+    {
+      "cityName": "札幌市中央区", 
+      "cityCode": "01101", 
+      "prefCode": 1, 
+      "bigCityFlag": "1"
+    }, 
+    {
+      "cityName": "札幌市北区", 
+      "cityCode": "01102", 
+      "prefCode": 1, 
+      "bigCityFlag": "1"
+    }, 
+    {
+      "cityName": "札幌市東区", 
+      "cityCode": "01103", 
+      "prefCode": 1, 
+      "bigCityFlag": "1"
+    }, 
+    {
+      "cityName": "札幌市白石区", 
+      "cityCode": "01104", 
+      "prefCode": 1, 
+      "bigCityFlag": "1"
+    }, 
+    {
+      "cityName": "札幌市豊平区", 
+      "cityCode": "01105", 
+      "prefCode": 1, 
+      "bigCityFlag": "1"
+    }, 
+    {
+      "cityName": "札幌市南区", 
+      "cityCode": "01106", 
+      "prefCode": 1, 
+      "bigCityFlag": "1"
+    }, 
+    {
+      "cityName": "札幌市西区", 
+      "cityCode": "01107", 
+      "prefCode": 1, 
+      "bigCityFlag": "1"
+    }, 
+    {
+      "cityName": "札幌市厚別区", 
+      "cityCode": "01108", 
+      "prefCode": 1, 
+      "bigCityFlag": "1"
+    }, 
+    {
+      "cityName": "札幌市手稲区", 
+      "cityCode": "01109", 
+      "prefCode": 1, 
+      "bigCityFlag": "1"
+    }, 
+    {
+      "cityName": "札幌市清田区", 
+      "cityCode": "01110", 
+      "prefCode": 1, 
+      "bigCityFlag": "1"
+    }, 
+    {
+      "cityName": "函館市", 
+      "cityCode": "01202", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "小樽市", 
+      "cityCode": "01203", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "旭川市", 
+      "cityCode": "01204", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "室蘭市", 
+      "cityCode": "01205", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "釧路市", 
+      "cityCode": "01206", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "帯広市", 
+      "cityCode": "01207", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "北見市", 
+      "cityCode": "01208", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "夕張市", 
+      "cityCode": "01209", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "岩見沢市", 
+      "cityCode": "01210", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "網走市", 
+      "cityCode": "01211", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "留萌市", 
+      "cityCode": "01212", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "苫小牧市", 
+      "cityCode": "01213", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "稚内市", 
+      "cityCode": "01214", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "美唄市", 
+      "cityCode": "01215", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "芦別市", 
+      "cityCode": "01216", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "江別市", 
+      "cityCode": "01217", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "赤平市", 
+      "cityCode": "01218", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "紋別市", 
+      "cityCode": "01219", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "士別市", 
+      "cityCode": "01220", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "名寄市", 
+      "cityCode": "01221", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "三笠市", 
+      "cityCode": "01222", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "根室市", 
+      "cityCode": "01223", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "千歳市", 
+      "cityCode": "01224", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "滝川市", 
+      "cityCode": "01225", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "砂川市", 
+      "cityCode": "01226", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "歌志内市", 
+      "cityCode": "01227", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "深川市", 
+      "cityCode": "01228", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "富良野市", 
+      "cityCode": "01229", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "登別市", 
+      "cityCode": "01230", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "恵庭市", 
+      "cityCode": "01231", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "伊達市", 
+      "cityCode": "01233", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "北広島市", 
+      "cityCode": "01234", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "石狩市", 
+      "cityCode": "01235", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "北斗市", 
+      "cityCode": "01236", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "当別町", 
+      "cityCode": "01303", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "新篠津村", 
+      "cityCode": "01304", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "松前町", 
+      "cityCode": "01331", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "福島町", 
+      "cityCode": "01332", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "知内町", 
+      "cityCode": "01333", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "木古内町", 
+      "cityCode": "01334", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "七飯町", 
+      "cityCode": "01337", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "鹿部町", 
+      "cityCode": "01343", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "森町", 
+      "cityCode": "01345", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "八雲町", 
+      "cityCode": "01346", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "長万部町", 
+      "cityCode": "01347", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "江差町", 
+      "cityCode": "01361", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "上ノ国町", 
+      "cityCode": "01362", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "厚沢部町", 
+      "cityCode": "01363", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "乙部町", 
+      "cityCode": "01364", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "奥尻町", 
+      "cityCode": "01367", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "今金町", 
+      "cityCode": "01370", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "せたな町", 
+      "cityCode": "01371", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "島牧村", 
+      "cityCode": "01391", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "寿都町", 
+      "cityCode": "01392", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "黒松内町", 
+      "cityCode": "01393", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "蘭越町", 
+      "cityCode": "01394", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "ニセコ町", 
+      "cityCode": "01395", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "真狩村", 
+      "cityCode": "01396", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "留寿都村", 
+      "cityCode": "01397", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "喜茂別町", 
+      "cityCode": "01398", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "京極町", 
+      "cityCode": "01399", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "倶知安町", 
+      "cityCode": "01400", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "共和町", 
+      "cityCode": "01401", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "岩内町", 
+      "cityCode": "01402", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "泊村", 
+      "cityCode": "01403", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "神恵内村", 
+      "cityCode": "01404", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "積丹町", 
+      "cityCode": "01405", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "古平町", 
+      "cityCode": "01406", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "仁木町", 
+      "cityCode": "01407", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "余市町", 
+      "cityCode": "01408", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "赤井川村", 
+      "cityCode": "01409", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "南幌町", 
+      "cityCode": "01423", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "奈井江町", 
+      "cityCode": "01424", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "上砂川町", 
+      "cityCode": "01425", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "由仁町", 
+      "cityCode": "01427", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "長沼町", 
+      "cityCode": "01428", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "栗山町", 
+      "cityCode": "01429", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "月形町", 
+      "cityCode": "01430", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "浦臼町", 
+      "cityCode": "01431", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "新十津川町", 
+      "cityCode": "01432", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "妹背牛町", 
+      "cityCode": "01433", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "秩父別町", 
+      "cityCode": "01434", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "雨竜町", 
+      "cityCode": "01436", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "北竜町", 
+      "cityCode": "01437", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "沼田町", 
+      "cityCode": "01438", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "鷹栖町", 
+      "cityCode": "01452", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "東神楽町", 
+      "cityCode": "01453", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "当麻町", 
+      "cityCode": "01454", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "比布町", 
+      "cityCode": "01455", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "愛別町", 
+      "cityCode": "01456", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "上川町", 
+      "cityCode": "01457", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "東川町", 
+      "cityCode": "01458", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "美瑛町", 
+      "cityCode": "01459", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "上富良野町", 
+      "cityCode": "01460", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "中富良野町", 
+      "cityCode": "01461", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "南富良野町", 
+      "cityCode": "01462", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "占冠村", 
+      "cityCode": "01463", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "和寒町", 
+      "cityCode": "01464", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "剣淵町", 
+      "cityCode": "01465", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "下川町", 
+      "cityCode": "01468", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "美深町", 
+      "cityCode": "01469", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "音威子府村", 
+      "cityCode": "01470", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "中川町", 
+      "cityCode": "01471", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "幌加内町", 
+      "cityCode": "01472", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "増毛町", 
+      "cityCode": "01481", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "小平町", 
+      "cityCode": "01482", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "苫前町", 
+      "cityCode": "01483", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "羽幌町", 
+      "cityCode": "01484", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "初山別村", 
+      "cityCode": "01485", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "遠別町", 
+      "cityCode": "01486", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "天塩町", 
+      "cityCode": "01487", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "猿払村", 
+      "cityCode": "01511", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "浜頓別町", 
+      "cityCode": "01512", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "中頓別町", 
+      "cityCode": "01513", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "枝幸町", 
+      "cityCode": "01514", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "豊富町", 
+      "cityCode": "01516", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "礼文町", 
+      "cityCode": "01517", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "利尻町", 
+      "cityCode": "01518", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "利尻富士町", 
+      "cityCode": "01519", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "幌延町", 
+      "cityCode": "01520", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "美幌町", 
+      "cityCode": "01543", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "津別町", 
+      "cityCode": "01544", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "斜里町", 
+      "cityCode": "01545", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "清里町", 
+      "cityCode": "01546", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "小清水町", 
+      "cityCode": "01547", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "訓子府町", 
+      "cityCode": "01549", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "置戸町", 
+      "cityCode": "01550", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "佐呂間町", 
+      "cityCode": "01552", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "遠軽町", 
+      "cityCode": "01555", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "湧別町", 
+      "cityCode": "01559", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "滝上町", 
+      "cityCode": "01560", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "興部町", 
+      "cityCode": "01561", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "西興部村", 
+      "cityCode": "01562", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "雄武町", 
+      "cityCode": "01563", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "大空町", 
+      "cityCode": "01564", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "豊浦町", 
+      "cityCode": "01571", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "壮瞥町", 
+      "cityCode": "01575", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "白老町", 
+      "cityCode": "01578", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "厚真町", 
+      "cityCode": "01581", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "洞爺湖町", 
+      "cityCode": "01584", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "安平町", 
+      "cityCode": "01585", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "むかわ町", 
+      "cityCode": "01586", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "日高町", 
+      "cityCode": "01601", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "平取町", 
+      "cityCode": "01602", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "新冠町", 
+      "cityCode": "01604", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "浦河町", 
+      "cityCode": "01607", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "様似町", 
+      "cityCode": "01608", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "えりも町", 
+      "cityCode": "01609", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "新ひだか町", 
+      "cityCode": "01610", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "音更町", 
+      "cityCode": "01631", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "士幌町", 
+      "cityCode": "01632", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "上士幌町", 
+      "cityCode": "01633", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "鹿追町", 
+      "cityCode": "01634", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "新得町", 
+      "cityCode": "01635", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "清水町", 
+      "cityCode": "01636", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "芽室町", 
+      "cityCode": "01637", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "中札内村", 
+      "cityCode": "01638", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "更別村", 
+      "cityCode": "01639", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "大樹町", 
+      "cityCode": "01641", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "広尾町", 
+      "cityCode": "01642", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "幕別町", 
+      "cityCode": "01643", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "池田町", 
+      "cityCode": "01644", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "豊頃町", 
+      "cityCode": "01645", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "本別町", 
+      "cityCode": "01646", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "足寄町", 
+      "cityCode": "01647", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "陸別町", 
+      "cityCode": "01648", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "浦幌町", 
+      "cityCode": "01649", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "釧路町", 
+      "cityCode": "01661", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "厚岸町", 
+      "cityCode": "01662", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "浜中町", 
+      "cityCode": "01663", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "標茶町", 
+      "cityCode": "01664", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "弟子屈町", 
+      "cityCode": "01665", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "鶴居村", 
+      "cityCode": "01667", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "白糠町", 
+      "cityCode": "01668", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "別海町", 
+      "cityCode": "01691", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "中標津町", 
+      "cityCode": "01692", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "標津町", 
+      "cityCode": "01693", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "羅臼町", 
+      "cityCode": "01694", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "色丹郡色丹村", 
+      "cityCode": "01695", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "国後郡泊村・留夜別村", 
+      "cityCode": "01696", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "択捉郡留別村・紗那村・蘂取", 
+      "cityCode": "01698", 
+      "prefCode": 1, 
+      "bigCityFlag": "0"
+    }
+  ]
+}

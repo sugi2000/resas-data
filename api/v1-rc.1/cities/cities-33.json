@@ -1,1 +1,191 @@
-{"message": null, "result": [{"cityName": "岡山市", "cityCode": "33100", "prefCode": 33, "bigCityFlag": "2"}, {"cityName": "岡山市北区", "cityCode": "33101", "prefCode": 33, "bigCityFlag": "1"}, {"cityName": "岡山市中区", "cityCode": "33102", "prefCode": 33, "bigCityFlag": "1"}, {"cityName": "岡山市東区", "cityCode": "33103", "prefCode": 33, "bigCityFlag": "1"}, {"cityName": "岡山市南区", "cityCode": "33104", "prefCode": 33, "bigCityFlag": "1"}, {"cityName": "倉敷市", "cityCode": "33202", "prefCode": 33, "bigCityFlag": "0"}, {"cityName": "津山市", "cityCode": "33203", "prefCode": 33, "bigCityFlag": "0"}, {"cityName": "玉野市", "cityCode": "33204", "prefCode": 33, "bigCityFlag": "0"}, {"cityName": "笠岡市", "cityCode": "33205", "prefCode": 33, "bigCityFlag": "0"}, {"cityName": "井原市", "cityCode": "33207", "prefCode": 33, "bigCityFlag": "0"}, {"cityName": "総社市", "cityCode": "33208", "prefCode": 33, "bigCityFlag": "0"}, {"cityName": "高梁市", "cityCode": "33209", "prefCode": 33, "bigCityFlag": "0"}, {"cityName": "新見市", "cityCode": "33210", "prefCode": 33, "bigCityFlag": "0"}, {"cityName": "備前市", "cityCode": "33211", "prefCode": 33, "bigCityFlag": "0"}, {"cityName": "瀬戸内市", "cityCode": "33212", "prefCode": 33, "bigCityFlag": "0"}, {"cityName": "赤磐市", "cityCode": "33213", "prefCode": 33, "bigCityFlag": "0"}, {"cityName": "真庭市", "cityCode": "33214", "prefCode": 33, "bigCityFlag": "0"}, {"cityName": "美作市", "cityCode": "33215", "prefCode": 33, "bigCityFlag": "0"}, {"cityName": "浅口市", "cityCode": "33216", "prefCode": 33, "bigCityFlag": "0"}, {"cityName": "和気町", "cityCode": "33346", "prefCode": 33, "bigCityFlag": "0"}, {"cityName": "早島町", "cityCode": "33423", "prefCode": 33, "bigCityFlag": "0"}, {"cityName": "里庄町", "cityCode": "33445", "prefCode": 33, "bigCityFlag": "0"}, {"cityName": "矢掛町", "cityCode": "33461", "prefCode": 33, "bigCityFlag": "0"}, {"cityName": "新庄村", "cityCode": "33586", "prefCode": 33, "bigCityFlag": "0"}, {"cityName": "鏡野町", "cityCode": "33606", "prefCode": 33, "bigCityFlag": "0"}, {"cityName": "勝央町", "cityCode": "33622", "prefCode": 33, "bigCityFlag": "0"}, {"cityName": "奈義町", "cityCode": "33623", "prefCode": 33, "bigCityFlag": "0"}, {"cityName": "西粟倉村", "cityCode": "33643", "prefCode": 33, "bigCityFlag": "0"}, {"cityName": "久米南町", "cityCode": "33663", "prefCode": 33, "bigCityFlag": "0"}, {"cityName": "美咲町", "cityCode": "33666", "prefCode": 33, "bigCityFlag": "0"}, {"cityName": "吉備中央町", "cityCode": "33681", "prefCode": 33, "bigCityFlag": "0"}]}
+{
+  "message": null, 
+  "result": [
+    {
+      "cityName": "岡山市", 
+      "cityCode": "33100", 
+      "prefCode": 33, 
+      "bigCityFlag": "2"
+    }, 
+    {
+      "cityName": "岡山市北区", 
+      "cityCode": "33101", 
+      "prefCode": 33, 
+      "bigCityFlag": "1"
+    }, 
+    {
+      "cityName": "岡山市中区", 
+      "cityCode": "33102", 
+      "prefCode": 33, 
+      "bigCityFlag": "1"
+    }, 
+    {
+      "cityName": "岡山市東区", 
+      "cityCode": "33103", 
+      "prefCode": 33, 
+      "bigCityFlag": "1"
+    }, 
+    {
+      "cityName": "岡山市南区", 
+      "cityCode": "33104", 
+      "prefCode": 33, 
+      "bigCityFlag": "1"
+    }, 
+    {
+      "cityName": "倉敷市", 
+      "cityCode": "33202", 
+      "prefCode": 33, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "津山市", 
+      "cityCode": "33203", 
+      "prefCode": 33, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "玉野市", 
+      "cityCode": "33204", 
+      "prefCode": 33, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "笠岡市", 
+      "cityCode": "33205", 
+      "prefCode": 33, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "井原市", 
+      "cityCode": "33207", 
+      "prefCode": 33, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "総社市", 
+      "cityCode": "33208", 
+      "prefCode": 33, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "高梁市", 
+      "cityCode": "33209", 
+      "prefCode": 33, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "新見市", 
+      "cityCode": "33210", 
+      "prefCode": 33, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "備前市", 
+      "cityCode": "33211", 
+      "prefCode": 33, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "瀬戸内市", 
+      "cityCode": "33212", 
+      "prefCode": 33, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "赤磐市", 
+      "cityCode": "33213", 
+      "prefCode": 33, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "真庭市", 
+      "cityCode": "33214", 
+      "prefCode": 33, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "美作市", 
+      "cityCode": "33215", 
+      "prefCode": 33, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "浅口市", 
+      "cityCode": "33216", 
+      "prefCode": 33, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "和気町", 
+      "cityCode": "33346", 
+      "prefCode": 33, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "早島町", 
+      "cityCode": "33423", 
+      "prefCode": 33, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "里庄町", 
+      "cityCode": "33445", 
+      "prefCode": 33, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "矢掛町", 
+      "cityCode": "33461", 
+      "prefCode": 33, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "新庄村", 
+      "cityCode": "33586", 
+      "prefCode": 33, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "鏡野町", 
+      "cityCode": "33606", 
+      "prefCode": 33, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "勝央町", 
+      "cityCode": "33622", 
+      "prefCode": 33, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "奈義町", 
+      "cityCode": "33623", 
+      "prefCode": 33, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "西粟倉村", 
+      "cityCode": "33643", 
+      "prefCode": 33, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "久米南町", 
+      "cityCode": "33663", 
+      "prefCode": 33, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "美咲町", 
+      "cityCode": "33666", 
+      "prefCode": 33, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "吉備中央町", 
+      "cityCode": "33681", 
+      "prefCode": 33, 
+      "bigCityFlag": "0"
+    }
+  ]
+}

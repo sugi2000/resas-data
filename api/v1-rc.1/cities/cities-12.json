@@ -1,1 +1,365 @@
-{"message": null, "result": [{"cityName": "千葉市", "cityCode": "12100", "prefCode": 12, "bigCityFlag": "2"}, {"cityName": "千葉市中央区", "cityCode": "12101", "prefCode": 12, "bigCityFlag": "1"}, {"cityName": "千葉市花見川区", "cityCode": "12102", "prefCode": 12, "bigCityFlag": "1"}, {"cityName": "千葉市稲毛区", "cityCode": "12103", "prefCode": 12, "bigCityFlag": "1"}, {"cityName": "千葉市若葉区", "cityCode": "12104", "prefCode": 12, "bigCityFlag": "1"}, {"cityName": "千葉市緑区", "cityCode": "12105", "prefCode": 12, "bigCityFlag": "1"}, {"cityName": "千葉市美浜区", "cityCode": "12106", "prefCode": 12, "bigCityFlag": "1"}, {"cityName": "銚子市", "cityCode": "12202", "prefCode": 12, "bigCityFlag": "0"}, {"cityName": "市川市", "cityCode": "12203", "prefCode": 12, "bigCityFlag": "0"}, {"cityName": "船橋市", "cityCode": "12204", "prefCode": 12, "bigCityFlag": "0"}, {"cityName": "館山市", "cityCode": "12205", "prefCode": 12, "bigCityFlag": "0"}, {"cityName": "木更津市", "cityCode": "12206", "prefCode": 12, "bigCityFlag": "0"}, {"cityName": "松戸市", "cityCode": "12207", "prefCode": 12, "bigCityFlag": "0"}, {"cityName": "野田市", "cityCode": "12208", "prefCode": 12, "bigCityFlag": "0"}, {"cityName": "茂原市", "cityCode": "12210", "prefCode": 12, "bigCityFlag": "0"}, {"cityName": "成田市", "cityCode": "12211", "prefCode": 12, "bigCityFlag": "0"}, {"cityName": "佐倉市", "cityCode": "12212", "prefCode": 12, "bigCityFlag": "0"}, {"cityName": "東金市", "cityCode": "12213", "prefCode": 12, "bigCityFlag": "0"}, {"cityName": "旭市", "cityCode": "12215", "prefCode": 12, "bigCityFlag": "0"}, {"cityName": "習志野市", "cityCode": "12216", "prefCode": 12, "bigCityFlag": "0"}, {"cityName": "柏市", "cityCode": "12217", "prefCode": 12, "bigCityFlag": "0"}, {"cityName": "勝浦市", "cityCode": "12218", "prefCode": 12, "bigCityFlag": "0"}, {"cityName": "市原市", "cityCode": "12219", "prefCode": 12, "bigCityFlag": "0"}, {"cityName": "流山市", "cityCode": "12220", "prefCode": 12, "bigCityFlag": "0"}, {"cityName": "八千代市", "cityCode": "12221", "prefCode": 12, "bigCityFlag": "0"}, {"cityName": "我孫子市", "cityCode": "12222", "prefCode": 12, "bigCityFlag": "0"}, {"cityName": "鴨川市", "cityCode": "12223", "prefCode": 12, "bigCityFlag": "0"}, {"cityName": "鎌ケ谷市", "cityCode": "12224", "prefCode": 12, "bigCityFlag": "0"}, {"cityName": "君津市", "cityCode": "12225", "prefCode": 12, "bigCityFlag": "0"}, {"cityName": "富津市", "cityCode": "12226", "prefCode": 12, "bigCityFlag": "0"}, {"cityName": "浦安市", "cityCode": "12227", "prefCode": 12, "bigCityFlag": "0"}, {"cityName": "四街道市", "cityCode": "12228", "prefCode": 12, "bigCityFlag": "0"}, {"cityName": "袖ケ浦市", "cityCode": "12229", "prefCode": 12, "bigCityFlag": "0"}, {"cityName": "八街市", "cityCode": "12230", "prefCode": 12, "bigCityFlag": "0"}, {"cityName": "印西市", "cityCode": "12231", "prefCode": 12, "bigCityFlag": "0"}, {"cityName": "白井市", "cityCode": "12232", "prefCode": 12, "bigCityFlag": "0"}, {"cityName": "富里市", "cityCode": "12233", "prefCode": 12, "bigCityFlag": "0"}, {"cityName": "南房総市", "cityCode": "12234", "prefCode": 12, "bigCityFlag": "0"}, {"cityName": "匝瑳市", "cityCode": "12235", "prefCode": 12, "bigCityFlag": "0"}, {"cityName": "香取市", "cityCode": "12236", "prefCode": 12, "bigCityFlag": "0"}, {"cityName": "山武市", "cityCode": "12237", "prefCode": 12, "bigCityFlag": "0"}, {"cityName": "いすみ市", "cityCode": "12238", "prefCode": 12, "bigCityFlag": "0"}, {"cityName": "大網白里市", "cityCode": "12239", "prefCode": 12, "bigCityFlag": "0"}, {"cityName": "酒々井町", "cityCode": "12322", "prefCode": 12, "bigCityFlag": "0"}, {"cityName": "栄町", "cityCode": "12329", "prefCode": 12, "bigCityFlag": "0"}, {"cityName": "神崎町", "cityCode": "12342", "prefCode": 12, "bigCityFlag": "0"}, {"cityName": "多古町", "cityCode": "12347", "prefCode": 12, "bigCityFlag": "0"}, {"cityName": "東庄町", "cityCode": "12349", "prefCode": 12, "bigCityFlag": "0"}, {"cityName": "九十九里町", "cityCode": "12403", "prefCode": 12, "bigCityFlag": "0"}, {"cityName": "芝山町", "cityCode": "12409", "prefCode": 12, "bigCityFlag": "0"}, {"cityName": "横芝光町", "cityCode": "12410", "prefCode": 12, "bigCityFlag": "0"}, {"cityName": "一宮町", "cityCode": "12421", "prefCode": 12, "bigCityFlag": "0"}, {"cityName": "睦沢町", "cityCode": "12422", "prefCode": 12, "bigCityFlag": "0"}, {"cityName": "長生村", "cityCode": "12423", "prefCode": 12, "bigCityFlag": "0"}, {"cityName": "白子町", "cityCode": "12424", "prefCode": 12, "bigCityFlag": "0"}, {"cityName": "長柄町", "cityCode": "12426", "prefCode": 12, "bigCityFlag": "0"}, {"cityName": "長南町", "cityCode": "12427", "prefCode": 12, "bigCityFlag": "0"}, {"cityName": "大多喜町", "cityCode": "12441", "prefCode": 12, "bigCityFlag": "0"}, {"cityName": "御宿町", "cityCode": "12443", "prefCode": 12, "bigCityFlag": "0"}, {"cityName": "鋸南町", "cityCode": "12463", "prefCode": 12, "bigCityFlag": "0"}]}
+{
+  "message": null, 
+  "result": [
+    {
+      "cityName": "千葉市", 
+      "cityCode": "12100", 
+      "prefCode": 12, 
+      "bigCityFlag": "2"
+    }, 
+    {
+      "cityName": "千葉市中央区", 
+      "cityCode": "12101", 
+      "prefCode": 12, 
+      "bigCityFlag": "1"
+    }, 
+    {
+      "cityName": "千葉市花見川区", 
+      "cityCode": "12102", 
+      "prefCode": 12, 
+      "bigCityFlag": "1"
+    }, 
+    {
+      "cityName": "千葉市稲毛区", 
+      "cityCode": "12103", 
+      "prefCode": 12, 
+      "bigCityFlag": "1"
+    }, 
+    {
+      "cityName": "千葉市若葉区", 
+      "cityCode": "12104", 
+      "prefCode": 12, 
+      "bigCityFlag": "1"
+    }, 
+    {
+      "cityName": "千葉市緑区", 
+      "cityCode": "12105", 
+      "prefCode": 12, 
+      "bigCityFlag": "1"
+    }, 
+    {
+      "cityName": "千葉市美浜区", 
+      "cityCode": "12106", 
+      "prefCode": 12, 
+      "bigCityFlag": "1"
+    }, 
+    {
+      "cityName": "銚子市", 
+      "cityCode": "12202", 
+      "prefCode": 12, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "市川市", 
+      "cityCode": "12203", 
+      "prefCode": 12, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "船橋市", 
+      "cityCode": "12204", 
+      "prefCode": 12, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "館山市", 
+      "cityCode": "12205", 
+      "prefCode": 12, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "木更津市", 
+      "cityCode": "12206", 
+      "prefCode": 12, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "松戸市", 
+      "cityCode": "12207", 
+      "prefCode": 12, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "野田市", 
+      "cityCode": "12208", 
+      "prefCode": 12, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "茂原市", 
+      "cityCode": "12210", 
+      "prefCode": 12, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "成田市", 
+      "cityCode": "12211", 
+      "prefCode": 12, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "佐倉市", 
+      "cityCode": "12212", 
+      "prefCode": 12, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "東金市", 
+      "cityCode": "12213", 
+      "prefCode": 12, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "旭市", 
+      "cityCode": "12215", 
+      "prefCode": 12, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "習志野市", 
+      "cityCode": "12216", 
+      "prefCode": 12, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "柏市", 
+      "cityCode": "12217", 
+      "prefCode": 12, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "勝浦市", 
+      "cityCode": "12218", 
+      "prefCode": 12, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "市原市", 
+      "cityCode": "12219", 
+      "prefCode": 12, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "流山市", 
+      "cityCode": "12220", 
+      "prefCode": 12, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "八千代市", 
+      "cityCode": "12221", 
+      "prefCode": 12, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "我孫子市", 
+      "cityCode": "12222", 
+      "prefCode": 12, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "鴨川市", 
+      "cityCode": "12223", 
+      "prefCode": 12, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "鎌ケ谷市", 
+      "cityCode": "12224", 
+      "prefCode": 12, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "君津市", 
+      "cityCode": "12225", 
+      "prefCode": 12, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "富津市", 
+      "cityCode": "12226", 
+      "prefCode": 12, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "浦安市", 
+      "cityCode": "12227", 
+      "prefCode": 12, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "四街道市", 
+      "cityCode": "12228", 
+      "prefCode": 12, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "袖ケ浦市", 
+      "cityCode": "12229", 
+      "prefCode": 12, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "八街市", 
+      "cityCode": "12230", 
+      "prefCode": 12, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "印西市", 
+      "cityCode": "12231", 
+      "prefCode": 12, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "白井市", 
+      "cityCode": "12232", 
+      "prefCode": 12, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "富里市", 
+      "cityCode": "12233", 
+      "prefCode": 12, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "南房総市", 
+      "cityCode": "12234", 
+      "prefCode": 12, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "匝瑳市", 
+      "cityCode": "12235", 
+      "prefCode": 12, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "香取市", 
+      "cityCode": "12236", 
+      "prefCode": 12, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "山武市", 
+      "cityCode": "12237", 
+      "prefCode": 12, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "いすみ市", 
+      "cityCode": "12238", 
+      "prefCode": 12, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "大網白里市", 
+      "cityCode": "12239", 
+      "prefCode": 12, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "酒々井町", 
+      "cityCode": "12322", 
+      "prefCode": 12, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "栄町", 
+      "cityCode": "12329", 
+      "prefCode": 12, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "神崎町", 
+      "cityCode": "12342", 
+      "prefCode": 12, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "多古町", 
+      "cityCode": "12347", 
+      "prefCode": 12, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "東庄町", 
+      "cityCode": "12349", 
+      "prefCode": 12, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "九十九里町", 
+      "cityCode": "12403", 
+      "prefCode": 12, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "芝山町", 
+      "cityCode": "12409", 
+      "prefCode": 12, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "横芝光町", 
+      "cityCode": "12410", 
+      "prefCode": 12, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "一宮町", 
+      "cityCode": "12421", 
+      "prefCode": 12, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "睦沢町", 
+      "cityCode": "12422", 
+      "prefCode": 12, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "長生村", 
+      "cityCode": "12423", 
+      "prefCode": 12, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "白子町", 
+      "cityCode": "12424", 
+      "prefCode": 12, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "長柄町", 
+      "cityCode": "12426", 
+      "prefCode": 12, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "長南町", 
+      "cityCode": "12427", 
+      "prefCode": 12, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "大多喜町", 
+      "cityCode": "12441", 
+      "prefCode": 12, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "御宿町", 
+      "cityCode": "12443", 
+      "prefCode": 12, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "鋸南町", 
+      "cityCode": "12463", 
+      "prefCode": 12, 
+      "bigCityFlag": "0"
+    }
+  ]
+}

@@ -1,1 +1,377 @@
-{"message": null, "result": [{"cityName": "千代田区", "cityCode": "13101", "prefCode": 13, "bigCityFlag": "3"}, {"cityName": "中央区", "cityCode": "13102", "prefCode": 13, "bigCityFlag": "3"}, {"cityName": "港区", "cityCode": "13103", "prefCode": 13, "bigCityFlag": "3"}, {"cityName": "新宿区", "cityCode": "13104", "prefCode": 13, "bigCityFlag": "3"}, {"cityName": "文京区", "cityCode": "13105", "prefCode": 13, "bigCityFlag": "3"}, {"cityName": "台東区", "cityCode": "13106", "prefCode": 13, "bigCityFlag": "3"}, {"cityName": "墨田区", "cityCode": "13107", "prefCode": 13, "bigCityFlag": "3"}, {"cityName": "江東区", "cityCode": "13108", "prefCode": 13, "bigCityFlag": "3"}, {"cityName": "品川区", "cityCode": "13109", "prefCode": 13, "bigCityFlag": "3"}, {"cityName": "目黒区", "cityCode": "13110", "prefCode": 13, "bigCityFlag": "3"}, {"cityName": "大田区", "cityCode": "13111", "prefCode": 13, "bigCityFlag": "3"}, {"cityName": "世田谷区", "cityCode": "13112", "prefCode": 13, "bigCityFlag": "3"}, {"cityName": "渋谷区", "cityCode": "13113", "prefCode": 13, "bigCityFlag": "3"}, {"cityName": "中野区", "cityCode": "13114", "prefCode": 13, "bigCityFlag": "3"}, {"cityName": "杉並区", "cityCode": "13115", "prefCode": 13, "bigCityFlag": "3"}, {"cityName": "豊島区", "cityCode": "13116", "prefCode": 13, "bigCityFlag": "3"}, {"cityName": "北区", "cityCode": "13117", "prefCode": 13, "bigCityFlag": "3"}, {"cityName": "荒川区", "cityCode": "13118", "prefCode": 13, "bigCityFlag": "3"}, {"cityName": "板橋区", "cityCode": "13119", "prefCode": 13, "bigCityFlag": "3"}, {"cityName": "練馬区", "cityCode": "13120", "prefCode": 13, "bigCityFlag": "3"}, {"cityName": "足立区", "cityCode": "13121", "prefCode": 13, "bigCityFlag": "3"}, {"cityName": "葛飾区", "cityCode": "13122", "prefCode": 13, "bigCityFlag": "3"}, {"cityName": "江戸川区", "cityCode": "13123", "prefCode": 13, "bigCityFlag": "3"}, {"cityName": "八王子市", "cityCode": "13201", "prefCode": 13, "bigCityFlag": "0"}, {"cityName": "立川市", "cityCode": "13202", "prefCode": 13, "bigCityFlag": "0"}, {"cityName": "武蔵野市", "cityCode": "13203", "prefCode": 13, "bigCityFlag": "0"}, {"cityName": "三鷹市", "cityCode": "13204", "prefCode": 13, "bigCityFlag": "0"}, {"cityName": "青梅市", "cityCode": "13205", "prefCode": 13, "bigCityFlag": "0"}, {"cityName": "府中市", "cityCode": "13206", "prefCode": 13, "bigCityFlag": "0"}, {"cityName": "昭島市", "cityCode": "13207", "prefCode": 13, "bigCityFlag": "0"}, {"cityName": "調布市", "cityCode": "13208", "prefCode": 13, "bigCityFlag": "0"}, {"cityName": "町田市", "cityCode": "13209", "prefCode": 13, "bigCityFlag": "0"}, {"cityName": "小金井市", "cityCode": "13210", "prefCode": 13, "bigCityFlag": "0"}, {"cityName": "小平市", "cityCode": "13211", "prefCode": 13, "bigCityFlag": "0"}, {"cityName": "日野市", "cityCode": "13212", "prefCode": 13, "bigCityFlag": "0"}, {"cityName": "東村山市", "cityCode": "13213", "prefCode": 13, "bigCityFlag": "0"}, {"cityName": "国分寺市", "cityCode": "13214", "prefCode": 13, "bigCityFlag": "0"}, {"cityName": "国立市", "cityCode": "13215", "prefCode": 13, "bigCityFlag": "0"}, {"cityName": "福生市", "cityCode": "13218", "prefCode": 13, "bigCityFlag": "0"}, {"cityName": "狛江市", "cityCode": "13219", "prefCode": 13, "bigCityFlag": "0"}, {"cityName": "東大和市", "cityCode": "13220", "prefCode": 13, "bigCityFlag": "0"}, {"cityName": "清瀬市", "cityCode": "13221", "prefCode": 13, "bigCityFlag": "0"}, {"cityName": "東久留米市", "cityCode": "13222", "prefCode": 13, "bigCityFlag": "0"}, {"cityName": "武蔵村山市", "cityCode": "13223", "prefCode": 13, "bigCityFlag": "0"}, {"cityName": "多摩市", "cityCode": "13224", "prefCode": 13, "bigCityFlag": "0"}, {"cityName": "稲城市", "cityCode": "13225", "prefCode": 13, "bigCityFlag": "0"}, {"cityName": "羽村市", "cityCode": "13227", "prefCode": 13, "bigCityFlag": "0"}, {"cityName": "あきる野市", "cityCode": "13228", "prefCode": 13, "bigCityFlag": "0"}, {"cityName": "西東京市", "cityCode": "13229", "prefCode": 13, "bigCityFlag": "0"}, {"cityName": "瑞穂町", "cityCode": "13303", "prefCode": 13, "bigCityFlag": "0"}, {"cityName": "日の出町", "cityCode": "13305", "prefCode": 13, "bigCityFlag": "0"}, {"cityName": "檜原村", "cityCode": "13307", "prefCode": 13, "bigCityFlag": "0"}, {"cityName": "奥多摩町", "cityCode": "13308", "prefCode": 13, "bigCityFlag": "0"}, {"cityName": "大島町", "cityCode": "13361", "prefCode": 13, "bigCityFlag": "0"}, {"cityName": "利島村", "cityCode": "13362", "prefCode": 13, "bigCityFlag": "0"}, {"cityName": "新島村", "cityCode": "13363", "prefCode": 13, "bigCityFlag": "0"}, {"cityName": "神津島村", "cityCode": "13364", "prefCode": 13, "bigCityFlag": "0"}, {"cityName": "三宅村", "cityCode": "13381", "prefCode": 13, "bigCityFlag": "0"}, {"cityName": "御蔵島村", "cityCode": "13382", "prefCode": 13, "bigCityFlag": "0"}, {"cityName": "八丈町", "cityCode": "13401", "prefCode": 13, "bigCityFlag": "0"}, {"cityName": "青ヶ島村", "cityCode": "13402", "prefCode": 13, "bigCityFlag": "0"}, {"cityName": "小笠原村", "cityCode": "13421", "prefCode": 13, "bigCityFlag": "0"}]}
+{
+  "message": null, 
+  "result": [
+    {
+      "cityName": "千代田区", 
+      "cityCode": "13101", 
+      "prefCode": 13, 
+      "bigCityFlag": "3"
+    }, 
+    {
+      "cityName": "中央区", 
+      "cityCode": "13102", 
+      "prefCode": 13, 
+      "bigCityFlag": "3"
+    }, 
+    {
+      "cityName": "港区", 
+      "cityCode": "13103", 
+      "prefCode": 13, 
+      "bigCityFlag": "3"
+    }, 
+    {
+      "cityName": "新宿区", 
+      "cityCode": "13104", 
+      "prefCode": 13, 
+      "bigCityFlag": "3"
+    }, 
+    {
+      "cityName": "文京区", 
+      "cityCode": "13105", 
+      "prefCode": 13, 
+      "bigCityFlag": "3"
+    }, 
+    {
+      "cityName": "台東区", 
+      "cityCode": "13106", 
+      "prefCode": 13, 
+      "bigCityFlag": "3"
+    }, 
+    {
+      "cityName": "墨田区", 
+      "cityCode": "13107", 
+      "prefCode": 13, 
+      "bigCityFlag": "3"
+    }, 
+    {
+      "cityName": "江東区", 
+      "cityCode": "13108", 
+      "prefCode": 13, 
+      "bigCityFlag": "3"
+    }, 
+    {
+      "cityName": "品川区", 
+      "cityCode": "13109", 
+      "prefCode": 13, 
+      "bigCityFlag": "3"
+    }, 
+    {
+      "cityName": "目黒区", 
+      "cityCode": "13110", 
+      "prefCode": 13, 
+      "bigCityFlag": "3"
+    }, 
+    {
+      "cityName": "大田区", 
+      "cityCode": "13111", 
+      "prefCode": 13, 
+      "bigCityFlag": "3"
+    }, 
+    {
+      "cityName": "世田谷区", 
+      "cityCode": "13112", 
+      "prefCode": 13, 
+      "bigCityFlag": "3"
+    }, 
+    {
+      "cityName": "渋谷区", 
+      "cityCode": "13113", 
+      "prefCode": 13, 
+      "bigCityFlag": "3"
+    }, 
+    {
+      "cityName": "中野区", 
+      "cityCode": "13114", 
+      "prefCode": 13, 
+      "bigCityFlag": "3"
+    }, 
+    {
+      "cityName": "杉並区", 
+      "cityCode": "13115", 
+      "prefCode": 13, 
+      "bigCityFlag": "3"
+    }, 
+    {
+      "cityName": "豊島区", 
+      "cityCode": "13116", 
+      "prefCode": 13, 
+      "bigCityFlag": "3"
+    }, 
+    {
+      "cityName": "北区", 
+      "cityCode": "13117", 
+      "prefCode": 13, 
+      "bigCityFlag": "3"
+    }, 
+    {
+      "cityName": "荒川区", 
+      "cityCode": "13118", 
+      "prefCode": 13, 
+      "bigCityFlag": "3"
+    }, 
+    {
+      "cityName": "板橋区", 
+      "cityCode": "13119", 
+      "prefCode": 13, 
+      "bigCityFlag": "3"
+    }, 
+    {
+      "cityName": "練馬区", 
+      "cityCode": "13120", 
+      "prefCode": 13, 
+      "bigCityFlag": "3"
+    }, 
+    {
+      "cityName": "足立区", 
+      "cityCode": "13121", 
+      "prefCode": 13, 
+      "bigCityFlag": "3"
+    }, 
+    {
+      "cityName": "葛飾区", 
+      "cityCode": "13122", 
+      "prefCode": 13, 
+      "bigCityFlag": "3"
+    }, 
+    {
+      "cityName": "江戸川区", 
+      "cityCode": "13123", 
+      "prefCode": 13, 
+      "bigCityFlag": "3"
+    }, 
+    {
+      "cityName": "八王子市", 
+      "cityCode": "13201", 
+      "prefCode": 13, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "立川市", 
+      "cityCode": "13202", 
+      "prefCode": 13, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "武蔵野市", 
+      "cityCode": "13203", 
+      "prefCode": 13, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "三鷹市", 
+      "cityCode": "13204", 
+      "prefCode": 13, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "青梅市", 
+      "cityCode": "13205", 
+      "prefCode": 13, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "府中市", 
+      "cityCode": "13206", 
+      "prefCode": 13, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "昭島市", 
+      "cityCode": "13207", 
+      "prefCode": 13, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "調布市", 
+      "cityCode": "13208", 
+      "prefCode": 13, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "町田市", 
+      "cityCode": "13209", 
+      "prefCode": 13, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "小金井市", 
+      "cityCode": "13210", 
+      "prefCode": 13, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "小平市", 
+      "cityCode": "13211", 
+      "prefCode": 13, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "日野市", 
+      "cityCode": "13212", 
+      "prefCode": 13, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "東村山市", 
+      "cityCode": "13213", 
+      "prefCode": 13, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "国分寺市", 
+      "cityCode": "13214", 
+      "prefCode": 13, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "国立市", 
+      "cityCode": "13215", 
+      "prefCode": 13, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "福生市", 
+      "cityCode": "13218", 
+      "prefCode": 13, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "狛江市", 
+      "cityCode": "13219", 
+      "prefCode": 13, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "東大和市", 
+      "cityCode": "13220", 
+      "prefCode": 13, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "清瀬市", 
+      "cityCode": "13221", 
+      "prefCode": 13, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "東久留米市", 
+      "cityCode": "13222", 
+      "prefCode": 13, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "武蔵村山市", 
+      "cityCode": "13223", 
+      "prefCode": 13, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "多摩市", 
+      "cityCode": "13224", 
+      "prefCode": 13, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "稲城市", 
+      "cityCode": "13225", 
+      "prefCode": 13, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "羽村市", 
+      "cityCode": "13227", 
+      "prefCode": 13, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "あきる野市", 
+      "cityCode": "13228", 
+      "prefCode": 13, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "西東京市", 
+      "cityCode": "13229", 
+      "prefCode": 13, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "瑞穂町", 
+      "cityCode": "13303", 
+      "prefCode": 13, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "日の出町", 
+      "cityCode": "13305", 
+      "prefCode": 13, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "檜原村", 
+      "cityCode": "13307", 
+      "prefCode": 13, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "奥多摩町", 
+      "cityCode": "13308", 
+      "prefCode": 13, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "大島町", 
+      "cityCode": "13361", 
+      "prefCode": 13, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "利島村", 
+      "cityCode": "13362", 
+      "prefCode": 13, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "新島村", 
+      "cityCode": "13363", 
+      "prefCode": 13, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "神津島村", 
+      "cityCode": "13364", 
+      "prefCode": 13, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "三宅村", 
+      "cityCode": "13381", 
+      "prefCode": 13, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "御蔵島村", 
+      "cityCode": "13382", 
+      "prefCode": 13, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "八丈町", 
+      "cityCode": "13401", 
+      "prefCode": 13, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "青ヶ島村", 
+      "cityCode": "13402", 
+      "prefCode": 13, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "小笠原村", 
+      "cityCode": "13421", 
+      "prefCode": 13, 
+      "bigCityFlag": "0"
+    }
+  ]
+}

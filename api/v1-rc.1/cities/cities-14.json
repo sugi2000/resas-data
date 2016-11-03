@@ -1,1 +1,371 @@
-{"message": null, "result": [{"cityName": "横浜市", "cityCode": "14100", "prefCode": 14, "bigCityFlag": "2"}, {"cityName": "横浜市鶴見区", "cityCode": "14101", "prefCode": 14, "bigCityFlag": "1"}, {"cityName": "横浜市神奈川区", "cityCode": "14102", "prefCode": 14, "bigCityFlag": "1"}, {"cityName": "横浜市西区", "cityCode": "14103", "prefCode": 14, "bigCityFlag": "1"}, {"cityName": "横浜市中区", "cityCode": "14104", "prefCode": 14, "bigCityFlag": "1"}, {"cityName": "横浜市南区", "cityCode": "14105", "prefCode": 14, "bigCityFlag": "1"}, {"cityName": "横浜市保土ケ谷区", "cityCode": "14106", "prefCode": 14, "bigCityFlag": "1"}, {"cityName": "横浜市磯子区", "cityCode": "14107", "prefCode": 14, "bigCityFlag": "1"}, {"cityName": "横浜市金沢区", "cityCode": "14108", "prefCode": 14, "bigCityFlag": "1"}, {"cityName": "横浜市港北区", "cityCode": "14109", "prefCode": 14, "bigCityFlag": "1"}, {"cityName": "横浜市戸塚区", "cityCode": "14110", "prefCode": 14, "bigCityFlag": "1"}, {"cityName": "横浜市港南区", "cityCode": "14111", "prefCode": 14, "bigCityFlag": "1"}, {"cityName": "横浜市旭区", "cityCode": "14112", "prefCode": 14, "bigCityFlag": "1"}, {"cityName": "横浜市緑区", "cityCode": "14113", "prefCode": 14, "bigCityFlag": "1"}, {"cityName": "横浜市瀬谷区", "cityCode": "14114", "prefCode": 14, "bigCityFlag": "1"}, {"cityName": "横浜市栄区", "cityCode": "14115", "prefCode": 14, "bigCityFlag": "1"}, {"cityName": "横浜市泉区", "cityCode": "14116", "prefCode": 14, "bigCityFlag": "1"}, {"cityName": "横浜市青葉区", "cityCode": "14117", "prefCode": 14, "bigCityFlag": "1"}, {"cityName": "横浜市都筑区", "cityCode": "14118", "prefCode": 14, "bigCityFlag": "1"}, {"cityName": "川崎市", "cityCode": "14130", "prefCode": 14, "bigCityFlag": "2"}, {"cityName": "川崎市川崎区", "cityCode": "14131", "prefCode": 14, "bigCityFlag": "1"}, {"cityName": "川崎市幸区", "cityCode": "14132", "prefCode": 14, "bigCityFlag": "1"}, {"cityName": "川崎市中原区", "cityCode": "14133", "prefCode": 14, "bigCityFlag": "1"}, {"cityName": "川崎市高津区", "cityCode": "14134", "prefCode": 14, "bigCityFlag": "1"}, {"cityName": "川崎市多摩区", "cityCode": "14135", "prefCode": 14, "bigCityFlag": "1"}, {"cityName": "川崎市宮前区", "cityCode": "14136", "prefCode": 14, "bigCityFlag": "1"}, {"cityName": "川崎市麻生区", "cityCode": "14137", "prefCode": 14, "bigCityFlag": "1"}, {"cityName": "相模原市", "cityCode": "14150", "prefCode": 14, "bigCityFlag": "2"}, {"cityName": "相模原市緑区", "cityCode": "14151", "prefCode": 14, "bigCityFlag": "1"}, {"cityName": "相模原市中央区", "cityCode": "14152", "prefCode": 14, "bigCityFlag": "1"}, {"cityName": "相模原市南区", "cityCode": "14153", "prefCode": 14, "bigCityFlag": "1"}, {"cityName": "横須賀市", "cityCode": "14201", "prefCode": 14, "bigCityFlag": "0"}, {"cityName": "平塚市", "cityCode": "14203", "prefCode": 14, "bigCityFlag": "0"}, {"cityName": "鎌倉市", "cityCode": "14204", "prefCode": 14, "bigCityFlag": "0"}, {"cityName": "藤沢市", "cityCode": "14205", "prefCode": 14, "bigCityFlag": "0"}, {"cityName": "小田原市", "cityCode": "14206", "prefCode": 14, "bigCityFlag": "0"}, {"cityName": "茅ヶ崎市", "cityCode": "14207", "prefCode": 14, "bigCityFlag": "0"}, {"cityName": "逗子市", "cityCode": "14208", "prefCode": 14, "bigCityFlag": "0"}, {"cityName": "三浦市", "cityCode": "14210", "prefCode": 14, "bigCityFlag": "0"}, {"cityName": "秦野市", "cityCode": "14211", "prefCode": 14, "bigCityFlag": "0"}, {"cityName": "厚木市", "cityCode": "14212", "prefCode": 14, "bigCityFlag": "0"}, {"cityName": "大和市", "cityCode": "14213", "prefCode": 14, "bigCityFlag": "0"}, {"cityName": "伊勢原市", "cityCode": "14214", "prefCode": 14, "bigCityFlag": "0"}, {"cityName": "海老名市", "cityCode": "14215", "prefCode": 14, "bigCityFlag": "0"}, {"cityName": "座間市", "cityCode": "14216", "prefCode": 14, "bigCityFlag": "0"}, {"cityName": "南足柄市", "cityCode": "14217", "prefCode": 14, "bigCityFlag": "0"}, {"cityName": "綾瀬市", "cityCode": "14218", "prefCode": 14, "bigCityFlag": "0"}, {"cityName": "葉山町", "cityCode": "14301", "prefCode": 14, "bigCityFlag": "0"}, {"cityName": "寒川町", "cityCode": "14321", "prefCode": 14, "bigCityFlag": "0"}, {"cityName": "大磯町", "cityCode": "14341", "prefCode": 14, "bigCityFlag": "0"}, {"cityName": "二宮町", "cityCode": "14342", "prefCode": 14, "bigCityFlag": "0"}, {"cityName": "中井町", "cityCode": "14361", "prefCode": 14, "bigCityFlag": "0"}, {"cityName": "大井町", "cityCode": "14362", "prefCode": 14, "bigCityFlag": "0"}, {"cityName": "松田町", "cityCode": "14363", "prefCode": 14, "bigCityFlag": "0"}, {"cityName": "山北町", "cityCode": "14364", "prefCode": 14, "bigCityFlag": "0"}, {"cityName": "開成町", "cityCode": "14366", "prefCode": 14, "bigCityFlag": "0"}, {"cityName": "箱根町", "cityCode": "14382", "prefCode": 14, "bigCityFlag": "0"}, {"cityName": "真鶴町", "cityCode": "14383", "prefCode": 14, "bigCityFlag": "0"}, {"cityName": "湯河原町", "cityCode": "14384", "prefCode": 14, "bigCityFlag": "0"}, {"cityName": "愛川町", "cityCode": "14401", "prefCode": 14, "bigCityFlag": "0"}, {"cityName": "清川村", "cityCode": "14402", "prefCode": 14, "bigCityFlag": "0"}]}
+{
+  "message": null, 
+  "result": [
+    {
+      "cityName": "横浜市", 
+      "cityCode": "14100", 
+      "prefCode": 14, 
+      "bigCityFlag": "2"
+    }, 
+    {
+      "cityName": "横浜市鶴見区", 
+      "cityCode": "14101", 
+      "prefCode": 14, 
+      "bigCityFlag": "1"
+    }, 
+    {
+      "cityName": "横浜市神奈川区", 
+      "cityCode": "14102", 
+      "prefCode": 14, 
+      "bigCityFlag": "1"
+    }, 
+    {
+      "cityName": "横浜市西区", 
+      "cityCode": "14103", 
+      "prefCode": 14, 
+      "bigCityFlag": "1"
+    }, 
+    {
+      "cityName": "横浜市中区", 
+      "cityCode": "14104", 
+      "prefCode": 14, 
+      "bigCityFlag": "1"
+    }, 
+    {
+      "cityName": "横浜市南区", 
+      "cityCode": "14105", 
+      "prefCode": 14, 
+      "bigCityFlag": "1"
+    }, 
+    {
+      "cityName": "横浜市保土ケ谷区", 
+      "cityCode": "14106", 
+      "prefCode": 14, 
+      "bigCityFlag": "1"
+    }, 
+    {
+      "cityName": "横浜市磯子区", 
+      "cityCode": "14107", 
+      "prefCode": 14, 
+      "bigCityFlag": "1"
+    }, 
+    {
+      "cityName": "横浜市金沢区", 
+      "cityCode": "14108", 
+      "prefCode": 14, 
+      "bigCityFlag": "1"
+    }, 
+    {
+      "cityName": "横浜市港北区", 
+      "cityCode": "14109", 
+      "prefCode": 14, 
+      "bigCityFlag": "1"
+    }, 
+    {
+      "cityName": "横浜市戸塚区", 
+      "cityCode": "14110", 
+      "prefCode": 14, 
+      "bigCityFlag": "1"
+    }, 
+    {
+      "cityName": "横浜市港南区", 
+      "cityCode": "14111", 
+      "prefCode": 14, 
+      "bigCityFlag": "1"
+    }, 
+    {
+      "cityName": "横浜市旭区", 
+      "cityCode": "14112", 
+      "prefCode": 14, 
+      "bigCityFlag": "1"
+    }, 
+    {
+      "cityName": "横浜市緑区", 
+      "cityCode": "14113", 
+      "prefCode": 14, 
+      "bigCityFlag": "1"
+    }, 
+    {
+      "cityName": "横浜市瀬谷区", 
+      "cityCode": "14114", 
+      "prefCode": 14, 
+      "bigCityFlag": "1"
+    }, 
+    {
+      "cityName": "横浜市栄区", 
+      "cityCode": "14115", 
+      "prefCode": 14, 
+      "bigCityFlag": "1"
+    }, 
+    {
+      "cityName": "横浜市泉区", 
+      "cityCode": "14116", 
+      "prefCode": 14, 
+      "bigCityFlag": "1"
+    }, 
+    {
+      "cityName": "横浜市青葉区", 
+      "cityCode": "14117", 
+      "prefCode": 14, 
+      "bigCityFlag": "1"
+    }, 
+    {
+      "cityName": "横浜市都筑区", 
+      "cityCode": "14118", 
+      "prefCode": 14, 
+      "bigCityFlag": "1"
+    }, 
+    {
+      "cityName": "川崎市", 
+      "cityCode": "14130", 
+      "prefCode": 14, 
+      "bigCityFlag": "2"
+    }, 
+    {
+      "cityName": "川崎市川崎区", 
+      "cityCode": "14131", 
+      "prefCode": 14, 
+      "bigCityFlag": "1"
+    }, 
+    {
+      "cityName": "川崎市幸区", 
+      "cityCode": "14132", 
+      "prefCode": 14, 
+      "bigCityFlag": "1"
+    }, 
+    {
+      "cityName": "川崎市中原区", 
+      "cityCode": "14133", 
+      "prefCode": 14, 
+      "bigCityFlag": "1"
+    }, 
+    {
+      "cityName": "川崎市高津区", 
+      "cityCode": "14134", 
+      "prefCode": 14, 
+      "bigCityFlag": "1"
+    }, 
+    {
+      "cityName": "川崎市多摩区", 
+      "cityCode": "14135", 
+      "prefCode": 14, 
+      "bigCityFlag": "1"
+    }, 
+    {
+      "cityName": "川崎市宮前区", 
+      "cityCode": "14136", 
+      "prefCode": 14, 
+      "bigCityFlag": "1"
+    }, 
+    {
+      "cityName": "川崎市麻生区", 
+      "cityCode": "14137", 
+      "prefCode": 14, 
+      "bigCityFlag": "1"
+    }, 
+    {
+      "cityName": "相模原市", 
+      "cityCode": "14150", 
+      "prefCode": 14, 
+      "bigCityFlag": "2"
+    }, 
+    {
+      "cityName": "相模原市緑区", 
+      "cityCode": "14151", 
+      "prefCode": 14, 
+      "bigCityFlag": "1"
+    }, 
+    {
+      "cityName": "相模原市中央区", 
+      "cityCode": "14152", 
+      "prefCode": 14, 
+      "bigCityFlag": "1"
+    }, 
+    {
+      "cityName": "相模原市南区", 
+      "cityCode": "14153", 
+      "prefCode": 14, 
+      "bigCityFlag": "1"
+    }, 
+    {
+      "cityName": "横須賀市", 
+      "cityCode": "14201", 
+      "prefCode": 14, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "平塚市", 
+      "cityCode": "14203", 
+      "prefCode": 14, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "鎌倉市", 
+      "cityCode": "14204", 
+      "prefCode": 14, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "藤沢市", 
+      "cityCode": "14205", 
+      "prefCode": 14, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "小田原市", 
+      "cityCode": "14206", 
+      "prefCode": 14, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "茅ヶ崎市", 
+      "cityCode": "14207", 
+      "prefCode": 14, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "逗子市", 
+      "cityCode": "14208", 
+      "prefCode": 14, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "三浦市", 
+      "cityCode": "14210", 
+      "prefCode": 14, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "秦野市", 
+      "cityCode": "14211", 
+      "prefCode": 14, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "厚木市", 
+      "cityCode": "14212", 
+      "prefCode": 14, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "大和市", 
+      "cityCode": "14213", 
+      "prefCode": 14, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "伊勢原市", 
+      "cityCode": "14214", 
+      "prefCode": 14, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "海老名市", 
+      "cityCode": "14215", 
+      "prefCode": 14, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "座間市", 
+      "cityCode": "14216", 
+      "prefCode": 14, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "南足柄市", 
+      "cityCode": "14217", 
+      "prefCode": 14, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "綾瀬市", 
+      "cityCode": "14218", 
+      "prefCode": 14, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "葉山町", 
+      "cityCode": "14301", 
+      "prefCode": 14, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "寒川町", 
+      "cityCode": "14321", 
+      "prefCode": 14, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "大磯町", 
+      "cityCode": "14341", 
+      "prefCode": 14, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "二宮町", 
+      "cityCode": "14342", 
+      "prefCode": 14, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "中井町", 
+      "cityCode": "14361", 
+      "prefCode": 14, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "大井町", 
+      "cityCode": "14362", 
+      "prefCode": 14, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "松田町", 
+      "cityCode": "14363", 
+      "prefCode": 14, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "山北町", 
+      "cityCode": "14364", 
+      "prefCode": 14, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "開成町", 
+      "cityCode": "14366", 
+      "prefCode": 14, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "箱根町", 
+      "cityCode": "14382", 
+      "prefCode": 14, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "真鶴町", 
+      "cityCode": "14383", 
+      "prefCode": 14, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "湯河原町", 
+      "cityCode": "14384", 
+      "prefCode": 14, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "愛川町", 
+      "cityCode": "14401", 
+      "prefCode": 14, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "清川村", 
+      "cityCode": "14402", 
+      "prefCode": 14, 
+      "bigCityFlag": "0"
+    }
+  ]
+}

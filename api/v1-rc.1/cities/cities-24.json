@@ -1,1 +1,179 @@
-{"message": null, "result": [{"cityName": "津市", "cityCode": "24201", "prefCode": 24, "bigCityFlag": "0"}, {"cityName": "四日市市", "cityCode": "24202", "prefCode": 24, "bigCityFlag": "0"}, {"cityName": "伊勢市", "cityCode": "24203", "prefCode": 24, "bigCityFlag": "0"}, {"cityName": "松阪市", "cityCode": "24204", "prefCode": 24, "bigCityFlag": "0"}, {"cityName": "桑名市", "cityCode": "24205", "prefCode": 24, "bigCityFlag": "0"}, {"cityName": "鈴鹿市", "cityCode": "24207", "prefCode": 24, "bigCityFlag": "0"}, {"cityName": "名張市", "cityCode": "24208", "prefCode": 24, "bigCityFlag": "0"}, {"cityName": "尾鷲市", "cityCode": "24209", "prefCode": 24, "bigCityFlag": "0"}, {"cityName": "亀山市", "cityCode": "24210", "prefCode": 24, "bigCityFlag": "0"}, {"cityName": "鳥羽市", "cityCode": "24211", "prefCode": 24, "bigCityFlag": "0"}, {"cityName": "熊野市", "cityCode": "24212", "prefCode": 24, "bigCityFlag": "0"}, {"cityName": "いなべ市", "cityCode": "24214", "prefCode": 24, "bigCityFlag": "0"}, {"cityName": "志摩市", "cityCode": "24215", "prefCode": 24, "bigCityFlag": "0"}, {"cityName": "伊賀市", "cityCode": "24216", "prefCode": 24, "bigCityFlag": "0"}, {"cityName": "木曽岬町", "cityCode": "24303", "prefCode": 24, "bigCityFlag": "0"}, {"cityName": "東員町", "cityCode": "24324", "prefCode": 24, "bigCityFlag": "0"}, {"cityName": "菰野町", "cityCode": "24341", "prefCode": 24, "bigCityFlag": "0"}, {"cityName": "朝日町", "cityCode": "24343", "prefCode": 24, "bigCityFlag": "0"}, {"cityName": "川越町", "cityCode": "24344", "prefCode": 24, "bigCityFlag": "0"}, {"cityName": "多気町", "cityCode": "24441", "prefCode": 24, "bigCityFlag": "0"}, {"cityName": "明和町", "cityCode": "24442", "prefCode": 24, "bigCityFlag": "0"}, {"cityName": "大台町", "cityCode": "24443", "prefCode": 24, "bigCityFlag": "0"}, {"cityName": "玉城町", "cityCode": "24461", "prefCode": 24, "bigCityFlag": "0"}, {"cityName": "度会町", "cityCode": "24470", "prefCode": 24, "bigCityFlag": "0"}, {"cityName": "大紀町", "cityCode": "24471", "prefCode": 24, "bigCityFlag": "0"}, {"cityName": "南伊勢町", "cityCode": "24472", "prefCode": 24, "bigCityFlag": "0"}, {"cityName": "紀北町", "cityCode": "24543", "prefCode": 24, "bigCityFlag": "0"}, {"cityName": "御浜町", "cityCode": "24561", "prefCode": 24, "bigCityFlag": "0"}, {"cityName": "紀宝町", "cityCode": "24562", "prefCode": 24, "bigCityFlag": "0"}]}
+{
+  "message": null, 
+  "result": [
+    {
+      "cityName": "津市", 
+      "cityCode": "24201", 
+      "prefCode": 24, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "四日市市", 
+      "cityCode": "24202", 
+      "prefCode": 24, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "伊勢市", 
+      "cityCode": "24203", 
+      "prefCode": 24, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "松阪市", 
+      "cityCode": "24204", 
+      "prefCode": 24, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "桑名市", 
+      "cityCode": "24205", 
+      "prefCode": 24, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "鈴鹿市", 
+      "cityCode": "24207", 
+      "prefCode": 24, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "名張市", 
+      "cityCode": "24208", 
+      "prefCode": 24, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "尾鷲市", 
+      "cityCode": "24209", 
+      "prefCode": 24, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "亀山市", 
+      "cityCode": "24210", 
+      "prefCode": 24, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "鳥羽市", 
+      "cityCode": "24211", 
+      "prefCode": 24, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "熊野市", 
+      "cityCode": "24212", 
+      "prefCode": 24, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "いなべ市", 
+      "cityCode": "24214", 
+      "prefCode": 24, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "志摩市", 
+      "cityCode": "24215", 
+      "prefCode": 24, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "伊賀市", 
+      "cityCode": "24216", 
+      "prefCode": 24, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "木曽岬町", 
+      "cityCode": "24303", 
+      "prefCode": 24, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "東員町", 
+      "cityCode": "24324", 
+      "prefCode": 24, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "菰野町", 
+      "cityCode": "24341", 
+      "prefCode": 24, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "朝日町", 
+      "cityCode": "24343", 
+      "prefCode": 24, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "川越町", 
+      "cityCode": "24344", 
+      "prefCode": 24, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "多気町", 
+      "cityCode": "24441", 
+      "prefCode": 24, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "明和町", 
+      "cityCode": "24442", 
+      "prefCode": 24, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "大台町", 
+      "cityCode": "24443", 
+      "prefCode": 24, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "玉城町", 
+      "cityCode": "24461", 
+      "prefCode": 24, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "度会町", 
+      "cityCode": "24470", 
+      "prefCode": 24, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "大紀町", 
+      "cityCode": "24471", 
+      "prefCode": 24, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "南伊勢町", 
+      "cityCode": "24472", 
+      "prefCode": 24, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "紀北町", 
+      "cityCode": "24543", 
+      "prefCode": 24, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "御浜町", 
+      "cityCode": "24561", 
+      "prefCode": 24, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "紀宝町", 
+      "cityCode": "24562", 
+      "prefCode": 24, 
+      "bigCityFlag": "0"
+    }
+  ]
+}

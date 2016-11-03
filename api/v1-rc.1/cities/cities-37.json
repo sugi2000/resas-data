@@ -1,1 +1,107 @@
-{"message": null, "result": [{"cityName": "高松市", "cityCode": "37201", "prefCode": 37, "bigCityFlag": "0"}, {"cityName": "丸亀市", "cityCode": "37202", "prefCode": 37, "bigCityFlag": "0"}, {"cityName": "坂出市", "cityCode": "37203", "prefCode": 37, "bigCityFlag": "0"}, {"cityName": "善通寺市", "cityCode": "37204", "prefCode": 37, "bigCityFlag": "0"}, {"cityName": "観音寺市", "cityCode": "37205", "prefCode": 37, "bigCityFlag": "0"}, {"cityName": "さぬき市", "cityCode": "37206", "prefCode": 37, "bigCityFlag": "0"}, {"cityName": "東かがわ市", "cityCode": "37207", "prefCode": 37, "bigCityFlag": "0"}, {"cityName": "三豊市", "cityCode": "37208", "prefCode": 37, "bigCityFlag": "0"}, {"cityName": "土庄町", "cityCode": "37322", "prefCode": 37, "bigCityFlag": "0"}, {"cityName": "小豆島町", "cityCode": "37324", "prefCode": 37, "bigCityFlag": "0"}, {"cityName": "三木町", "cityCode": "37341", "prefCode": 37, "bigCityFlag": "0"}, {"cityName": "直島町", "cityCode": "37364", "prefCode": 37, "bigCityFlag": "0"}, {"cityName": "宇多津町", "cityCode": "37386", "prefCode": 37, "bigCityFlag": "0"}, {"cityName": "綾川町", "cityCode": "37387", "prefCode": 37, "bigCityFlag": "0"}, {"cityName": "琴平町", "cityCode": "37403", "prefCode": 37, "bigCityFlag": "0"}, {"cityName": "多度津町", "cityCode": "37404", "prefCode": 37, "bigCityFlag": "0"}, {"cityName": "まんのう町", "cityCode": "37406", "prefCode": 37, "bigCityFlag": "0"}]}
+{
+  "message": null, 
+  "result": [
+    {
+      "cityName": "高松市", 
+      "cityCode": "37201", 
+      "prefCode": 37, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "丸亀市", 
+      "cityCode": "37202", 
+      "prefCode": 37, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "坂出市", 
+      "cityCode": "37203", 
+      "prefCode": 37, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "善通寺市", 
+      "cityCode": "37204", 
+      "prefCode": 37, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "観音寺市", 
+      "cityCode": "37205", 
+      "prefCode": 37, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "さぬき市", 
+      "cityCode": "37206", 
+      "prefCode": 37, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "東かがわ市", 
+      "cityCode": "37207", 
+      "prefCode": 37, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "三豊市", 
+      "cityCode": "37208", 
+      "prefCode": 37, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "土庄町", 
+      "cityCode": "37322", 
+      "prefCode": 37, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "小豆島町", 
+      "cityCode": "37324", 
+      "prefCode": 37, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "三木町", 
+      "cityCode": "37341", 
+      "prefCode": 37, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "直島町", 
+      "cityCode": "37364", 
+      "prefCode": 37, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "宇多津町", 
+      "cityCode": "37386", 
+      "prefCode": 37, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "綾川町", 
+      "cityCode": "37387", 
+      "prefCode": 37, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "琴平町", 
+      "cityCode": "37403", 
+      "prefCode": 37, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "多度津町", 
+      "cityCode": "37404", 
+      "prefCode": 37, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "まんのう町", 
+      "cityCode": "37406", 
+      "prefCode": 37, 
+      "bigCityFlag": "0"
+    }
+  ]
+}

@@ -1,1 +1,155 @@
-{"message": null, "result": [{"cityName": "秋田市", "cityCode": "05201", "prefCode": 5, "bigCityFlag": "0"}, {"cityName": "能代市", "cityCode": "05202", "prefCode": 5, "bigCityFlag": "0"}, {"cityName": "横手市", "cityCode": "05203", "prefCode": 5, "bigCityFlag": "0"}, {"cityName": "大館市", "cityCode": "05204", "prefCode": 5, "bigCityFlag": "0"}, {"cityName": "男鹿市", "cityCode": "05206", "prefCode": 5, "bigCityFlag": "0"}, {"cityName": "湯沢市", "cityCode": "05207", "prefCode": 5, "bigCityFlag": "0"}, {"cityName": "鹿角市", "cityCode": "05209", "prefCode": 5, "bigCityFlag": "0"}, {"cityName": "由利本荘市", "cityCode": "05210", "prefCode": 5, "bigCityFlag": "0"}, {"cityName": "潟上市", "cityCode": "05211", "prefCode": 5, "bigCityFlag": "0"}, {"cityName": "大仙市", "cityCode": "05212", "prefCode": 5, "bigCityFlag": "0"}, {"cityName": "北秋田市", "cityCode": "05213", "prefCode": 5, "bigCityFlag": "0"}, {"cityName": "にかほ市", "cityCode": "05214", "prefCode": 5, "bigCityFlag": "0"}, {"cityName": "仙北市", "cityCode": "05215", "prefCode": 5, "bigCityFlag": "0"}, {"cityName": "小坂町", "cityCode": "05303", "prefCode": 5, "bigCityFlag": "0"}, {"cityName": "上小阿仁村", "cityCode": "05327", "prefCode": 5, "bigCityFlag": "0"}, {"cityName": "藤里町", "cityCode": "05346", "prefCode": 5, "bigCityFlag": "0"}, {"cityName": "三種町", "cityCode": "05348", "prefCode": 5, "bigCityFlag": "0"}, {"cityName": "八峰町", "cityCode": "05349", "prefCode": 5, "bigCityFlag": "0"}, {"cityName": "五城目町", "cityCode": "05361", "prefCode": 5, "bigCityFlag": "0"}, {"cityName": "八郎潟町", "cityCode": "05363", "prefCode": 5, "bigCityFlag": "0"}, {"cityName": "井川町", "cityCode": "05366", "prefCode": 5, "bigCityFlag": "0"}, {"cityName": "大潟村", "cityCode": "05368", "prefCode": 5, "bigCityFlag": "0"}, {"cityName": "美郷町", "cityCode": "05434", "prefCode": 5, "bigCityFlag": "0"}, {"cityName": "羽後町", "cityCode": "05463", "prefCode": 5, "bigCityFlag": "0"}, {"cityName": "東成瀬村", "cityCode": "05464", "prefCode": 5, "bigCityFlag": "0"}]}
+{
+  "message": null, 
+  "result": [
+    {
+      "cityName": "秋田市", 
+      "cityCode": "05201", 
+      "prefCode": 5, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "能代市", 
+      "cityCode": "05202", 
+      "prefCode": 5, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "横手市", 
+      "cityCode": "05203", 
+      "prefCode": 5, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "大館市", 
+      "cityCode": "05204", 
+      "prefCode": 5, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "男鹿市", 
+      "cityCode": "05206", 
+      "prefCode": 5, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "湯沢市", 
+      "cityCode": "05207", 
+      "prefCode": 5, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "鹿角市", 
+      "cityCode": "05209", 
+      "prefCode": 5, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "由利本荘市", 
+      "cityCode": "05210", 
+      "prefCode": 5, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "潟上市", 
+      "cityCode": "05211", 
+      "prefCode": 5, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "大仙市", 
+      "cityCode": "05212", 
+      "prefCode": 5, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "北秋田市", 
+      "cityCode": "05213", 
+      "prefCode": 5, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "にかほ市", 
+      "cityCode": "05214", 
+      "prefCode": 5, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "仙北市", 
+      "cityCode": "05215", 
+      "prefCode": 5, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "小坂町", 
+      "cityCode": "05303", 
+      "prefCode": 5, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "上小阿仁村", 
+      "cityCode": "05327", 
+      "prefCode": 5, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "藤里町", 
+      "cityCode": "05346", 
+      "prefCode": 5, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "三種町", 
+      "cityCode": "05348", 
+      "prefCode": 5, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "八峰町", 
+      "cityCode": "05349", 
+      "prefCode": 5, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "五城目町", 
+      "cityCode": "05361", 
+      "prefCode": 5, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "八郎潟町", 
+      "cityCode": "05363", 
+      "prefCode": 5, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "井川町", 
+      "cityCode": "05366", 
+      "prefCode": 5, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "大潟村", 
+      "cityCode": "05368", 
+      "prefCode": 5, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "美郷町", 
+      "cityCode": "05434", 
+      "prefCode": 5, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "羽後町", 
+      "cityCode": "05463", 
+      "prefCode": 5, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "東成瀬村", 
+      "cityCode": "05464", 
+      "prefCode": 5, 
+      "bigCityFlag": "0"
+    }
+  ]
+}
