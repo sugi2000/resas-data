@@ -4,6 +4,7 @@ RESAS-API利用規約に従って自由に利用できます。
 
 出典：RESAS（地域経済分析システム）
 
+共通
 - [都道府県一覧](api/v1-rc.1/prefectures/)
 - [市区町村一覧](api/v1-rc.1/cities/)
 - 旧市区町村一覧
@@ -21,7 +22,17 @@ RESAS-API利用規約に従って自由に利用できます。
 - 特許権者の所在地
 - [輸出入花火図.品目_大分類](api/v1-rc.1/tradeInfoItemTypes/broad/)
 - [輸出入花火図.品目_中分類](api/v1-rc.1/tradeInfoItemTypes/middle/)
-- [輸出入花火図.品目_小分類](api/v1-rc.1/tradeInfoItemTypes/narrow/)
+- 輸出入花火図.品目_小分類
+
+産業
+
+農林水産業
+
+観光
+
+人口
+
+自治体比較
 
 --
 
