@@ -1,0 +1,17 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "tecCode": "H", 
+      "themeName": "電気", 
+      "themeCode": "H0", 
+      "tecName": "電気"
+    }, 
+    {
+      "tecCode": "H", 
+      "themeName": "その他", 
+      "themeCode": "H9", 
+      "tecName": "電気"
+    }
+  ]
+}

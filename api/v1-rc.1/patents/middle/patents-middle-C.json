@@ -1,0 +1,29 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "tecCode": "C", 
+      "themeName": "化学", 
+      "themeCode": "C0", 
+      "tecName": "化学；冶金"
+    }, 
+    {
+      "tecCode": "C", 
+      "themeName": "冶金", 
+      "themeCode": "C2", 
+      "tecName": "化学；冶金"
+    }, 
+    {
+      "tecCode": "C", 
+      "themeName": "コンビナトリアル技術", 
+      "themeCode": "C4", 
+      "tecName": "化学；冶金"
+    }, 
+    {
+      "tecCode": "C", 
+      "themeName": "その他", 
+      "themeCode": "C9", 
+      "tecName": "化学；冶金"
+    }
+  ]
+}

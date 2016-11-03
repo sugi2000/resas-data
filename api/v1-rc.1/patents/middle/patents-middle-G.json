@@ -1,0 +1,23 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "tecCode": "G", 
+      "themeName": "器械", 
+      "themeCode": "G0", 
+      "tecName": "物理学"
+    }, 
+    {
+      "tecCode": "G", 
+      "themeName": "原子核工学", 
+      "themeCode": "G2", 
+      "tecName": "物理学"
+    }, 
+    {
+      "tecCode": "G", 
+      "themeName": "その他", 
+      "themeCode": "G9", 
+      "tecName": "物理学"
+    }
+  ]
+}

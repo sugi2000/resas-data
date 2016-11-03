@@ -1,0 +1,23 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "tecCode": "E", 
+      "themeName": "建造物", 
+      "themeCode": "E0", 
+      "tecName": "固定構造物"
+    }, 
+    {
+      "tecCode": "E", 
+      "themeName": "地中もしくは岩石の削孔；採鉱", 
+      "themeCode": "E2", 
+      "tecName": "固定構造物"
+    }, 
+    {
+      "tecCode": "E", 
+      "themeName": "その他", 
+      "themeCode": "E9", 
+      "tecName": "固定構造物"
+    }
+  ]
+}

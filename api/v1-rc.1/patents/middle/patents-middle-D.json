@@ -1,0 +1,23 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "tecCode": "D", 
+      "themeName": "繊維または他に分類されない可とう性材料", 
+      "themeCode": "D0", 
+      "tecName": "繊維；紙"
+    }, 
+    {
+      "tecCode": "D", 
+      "themeName": "紙", 
+      "themeCode": "D2", 
+      "tecName": "繊維；紙"
+    }, 
+    {
+      "tecCode": "D", 
+      "themeName": "その他", 
+      "themeCode": "D9", 
+      "tecName": "繊維；紙"
+    }
+  ]
+}

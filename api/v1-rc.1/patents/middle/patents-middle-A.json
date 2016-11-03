@@ -1,0 +1,35 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "tecCode": "A", 
+      "themeName": "農業", 
+      "themeCode": "A0", 
+      "tecName": "生活必需品"
+    }, 
+    {
+      "tecCode": "A", 
+      "themeName": "食料品，たばこ", 
+      "themeCode": "A2", 
+      "tecName": "生活必需品"
+    }, 
+    {
+      "tecCode": "A", 
+      "themeName": "個人用品または家庭用品", 
+      "themeCode": "A4", 
+      "tecName": "生活必需品"
+    }, 
+    {
+      "tecCode": "A", 
+      "themeName": "健康；人命救助；娯楽", 
+      "themeCode": "A6", 
+      "tecName": "生活必需品"
+    }, 
+    {
+      "tecCode": "A", 
+      "themeName": "その他", 
+      "themeCode": "A9", 
+      "tecName": "生活必需品"
+    }
+  ]
+}

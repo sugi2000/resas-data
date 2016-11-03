@@ -1,0 +1,35 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "tecCode": "F", 
+      "themeName": "機関またはポンプ", 
+      "themeCode": "F0", 
+      "tecName": "機械工学；照明；加熱；武器；爆破"
+    }, 
+    {
+      "tecCode": "F", 
+      "themeName": "工学一般", 
+      "themeCode": "F1", 
+      "tecName": "機械工学；照明；加熱；武器；爆破"
+    }, 
+    {
+      "tecCode": "F", 
+      "themeName": "照明；加熱", 
+      "themeCode": "F2", 
+      "tecName": "機械工学；照明；加熱；武器；爆破"
+    }, 
+    {
+      "tecCode": "F", 
+      "themeName": "武器；爆破", 
+      "themeCode": "F4", 
+      "tecName": "機械工学；照明；加熱；武器；爆破"
+    }, 
+    {
+      "tecCode": "F", 
+      "themeName": "その他", 
+      "themeCode": "F9", 
+      "tecName": "機械工学；照明；加熱；武器；爆破"
+    }
+  ]
+}

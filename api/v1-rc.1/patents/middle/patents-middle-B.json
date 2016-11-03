@@ -1,0 +1,41 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "tecCode": "B", 
+      "themeName": "分離；混合", 
+      "themeCode": "B0", 
+      "tecName": "処理操作；運輸"
+    }, 
+    {
+      "tecCode": "B", 
+      "themeName": "成形", 
+      "themeCode": "B2", 
+      "tecName": "処理操作；運輸"
+    }, 
+    {
+      "tecCode": "B", 
+      "themeName": "印刷", 
+      "themeCode": "B4", 
+      "tecName": "処理操作；運輸"
+    }, 
+    {
+      "tecCode": "B", 
+      "themeName": "運輸", 
+      "themeCode": "B6", 
+      "tecName": "処理操作；運輸"
+    }, 
+    {
+      "tecCode": "B", 
+      "themeName": "マイクロ構造技術；ナノ技術", 
+      "themeCode": "B8", 
+      "tecName": "処理操作；運輸"
+    }, 
+    {
+      "tecCode": "B", 
+      "themeName": "その他", 
+      "themeCode": "B9", 
+      "tecName": "処理操作；運輸"
+    }
+  ]
+}

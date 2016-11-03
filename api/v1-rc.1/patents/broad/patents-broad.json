@@ -1,0 +1,41 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "tecCode": "", 
+      "tecName": ""
+    }, 
+    {
+      "tecCode": "A", 
+      "tecName": "生活必需品"
+    }, 
+    {
+      "tecCode": "B", 
+      "tecName": "処理操作；運輸"
+    }, 
+    {
+      "tecCode": "C", 
+      "tecName": "化学；冶金"
+    }, 
+    {
+      "tecCode": "D", 
+      "tecName": "繊維；紙"
+    }, 
+    {
+      "tecCode": "E", 
+      "tecName": "固定構造物"
+    }, 
+    {
+      "tecCode": "F", 
+      "tecName": "機械工学；照明；加熱；武器；爆破"
+    }, 
+    {
+      "tecCode": "G", 
+      "tecName": "物理学"
+    }, 
+    {
+      "tecCode": "H", 
+      "tecName": "電気"
+    }
+  ]
+}
