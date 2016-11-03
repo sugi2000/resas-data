@@ -1,0 +1,59 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "itemName1": "植物性生産品", 
+      "itemCode2": 6, 
+      "itemCode1": 2, 
+      "itemName2": "生きている樹木その他の植物及びりん茎、根その他これらに類する物品並びに切花及び装飾用の葉"
+    }, 
+    {
+      "itemName1": "植物性生産品", 
+      "itemCode2": 7, 
+      "itemCode1": 2, 
+      "itemName2": "食用の野菜、根及び塊茎"
+    }, 
+    {
+      "itemName1": "植物性生産品", 
+      "itemCode2": 8, 
+      "itemCode1": 2, 
+      "itemName2": "食用の果実及びナット、かんきつ類の果皮並びにメロンの皮"
+    }, 
+    {
+      "itemName1": "植物性生産品", 
+      "itemCode2": 9, 
+      "itemCode1": 2, 
+      "itemName2": "コーヒー、茶、マテ及び香辛料"
+    }, 
+    {
+      "itemName1": "植物性生産品", 
+      "itemCode2": 10, 
+      "itemCode1": 2, 
+      "itemName2": "穀物"
+    }, 
+    {
+      "itemName1": "植物性生産品", 
+      "itemCode2": 11, 
+      "itemCode1": 2, 
+      "itemName2": "穀粉、加工穀物、麦芽、でん粉、イヌリン及び小麦グルテン"
+    }, 
+    {
+      "itemName1": "植物性生産品", 
+      "itemCode2": 12, 
+      "itemCode1": 2, 
+      "itemName2": "採油用の種及び果実、各種の種及び果実、工業用又は医薬用の植物並びにわら及び飼料用植物"
+    }, 
+    {
+      "itemName1": "植物性生産品", 
+      "itemCode2": 13, 
+      "itemCode1": 2, 
+      "itemName2": "ラック並びにガム、樹脂その他の植物性の液汁及びエキス"
+    }, 
+    {
+      "itemName1": "植物性生産品", 
+      "itemCode2": 14, 
+      "itemCode1": 2, 
+      "itemName2": "植物性の組物材料及び他の類に該当しない植物性生産品"
+    }
+  ]
+}

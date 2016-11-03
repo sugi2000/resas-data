@@ -1,0 +1,23 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "itemName1": "鉱物性生産品", 
+      "itemCode2": 25, 
+      "itemCode1": 5, 
+      "itemName2": "塩、硫黄、土石類、プラスター、石灰及びセメント"
+    }, 
+    {
+      "itemName1": "鉱物性生産品", 
+      "itemCode2": 26, 
+      "itemCode1": 5, 
+      "itemName2": "鉱石、スラグ及び灰"
+    }, 
+    {
+      "itemName1": "鉱物性生産品", 
+      "itemCode2": 27, 
+      "itemCode1": 5, 
+      "itemName2": "鉱物性燃料及び鉱物油並びにこれらの蒸留物、歴青物質並びに鉱物性ろう"
+    }
+  ]
+}

@@ -6,6 +6,7 @@ RESAS-API利用規約に従って自由に利用できます。
 
 - [都道府県一覧](api/v1-rc.1/prefectures/)
 - [市区町村一覧](api/v1-rc.1/cities/)
+- 旧市区町村一覧
 - [産業大分類](api/v1-rc.1/industries/broad/)
 - [産業中分類](api/v1-rc.1/industries/middle/)
 - [産業小分類](api/v1-rc.1/industries/narrow/)
@@ -16,6 +17,13 @@ RESAS-API利用規約に従って自由に利用できます。
 - [税関](api/v1-rc.1/customs/)
 - [輸出入花火図.取引国_地域](api/v1-rc.1/regions/broad/)
 - [輸出入花火図.取引国_国](api/v1-rc.1/regions/middle/)
+- [農業部門](api/v1-rc.1/regions/agricultureDepartments/)
+- 特許権者の所在地
+- [輸出入花火図.品目_大分類](api/v1-rc.1/tradeInfoItemTypes/broad/)
+- [輸出入花火図.品目_中分類](api/v1-rc.1/tradeInfoItemTypes/middle/)
+- [輸出入花火図.品目_小分類](api/v1-rc.1/tradeInfoItemTypes/narrow/)
+
+--
 
 参考
 - [RESAS-API](https://opendata.resas-portal.go.jp/)

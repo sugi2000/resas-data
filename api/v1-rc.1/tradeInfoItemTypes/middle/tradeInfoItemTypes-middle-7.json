@@ -1,0 +1,17 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "itemName1": "プラスチック及びゴム並びにこれらの製品", 
+      "itemCode2": 39, 
+      "itemCode1": 7, 
+      "itemName2": "プラスチック及びその製品"
+    }, 
+    {
+      "itemName1": "プラスチック及びゴム並びにこれらの製品", 
+      "itemCode2": 40, 
+      "itemCode1": 7, 
+      "itemName2": "ゴム及びその製品"
+    }
+  ]
+}

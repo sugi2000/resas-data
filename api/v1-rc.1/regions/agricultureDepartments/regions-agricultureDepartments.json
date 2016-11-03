@@ -1,0 +1,69 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "sectionCode": "A", 
+      "sectionName": "稲作"
+    }, 
+    {
+      "sectionCode": "B", 
+      "sectionName": "麦類作"
+    }, 
+    {
+      "sectionCode": "C", 
+      "sectionName": "雑穀・いも類・豆類"
+    }, 
+    {
+      "sectionCode": "D", 
+      "sectionName": "工芸農作物"
+    }, 
+    {
+      "sectionCode": "E", 
+      "sectionName": "露地野菜"
+    }, 
+    {
+      "sectionCode": "F", 
+      "sectionName": "施設野菜"
+    }, 
+    {
+      "sectionCode": "G", 
+      "sectionName": "果樹類"
+    }, 
+    {
+      "sectionCode": "H", 
+      "sectionName": "花き・花木"
+    }, 
+    {
+      "sectionCode": "I", 
+      "sectionName": "その他の作物"
+    }, 
+    {
+      "sectionCode": "J", 
+      "sectionName": "酪農"
+    }, 
+    {
+      "sectionCode": "K", 
+      "sectionName": "肉用牛"
+    }, 
+    {
+      "sectionCode": "L", 
+      "sectionName": "養豚"
+    }, 
+    {
+      "sectionCode": "M", 
+      "sectionName": "養鶏"
+    }, 
+    {
+      "sectionCode": "N", 
+      "sectionName": "養蚕"
+    }, 
+    {
+      "sectionCode": "O", 
+      "sectionName": "その他の畜産"
+    }, 
+    {
+      "sectionCode": "P", 
+      "sectionName": "農作業請負収入"
+    }
+  ]
+}

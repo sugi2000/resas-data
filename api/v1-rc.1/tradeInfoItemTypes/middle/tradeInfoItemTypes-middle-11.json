@@ -1,0 +1,89 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "itemName1": "紡織用繊維及びその製品", 
+      "itemCode2": 50, 
+      "itemCode1": 11, 
+      "itemName2": "絹及び絹織物"
+    }, 
+    {
+      "itemName1": "紡織用繊維及びその製品", 
+      "itemCode2": 51, 
+      "itemCode1": 11, 
+      "itemName2": "羊毛、繊獣毛、粗獣毛及び馬毛の糸並びにこれらの織物"
+    }, 
+    {
+      "itemName1": "紡織用繊維及びその製品", 
+      "itemCode2": 52, 
+      "itemCode1": 11, 
+      "itemName2": "綿及び綿織物"
+    }, 
+    {
+      "itemName1": "紡織用繊維及びその製品", 
+      "itemCode2": 53, 
+      "itemCode1": 11, 
+      "itemName2": "その他の植物性紡織用繊維及びその織物並びに紙糸及びその織物"
+    }, 
+    {
+      "itemName1": "紡織用繊維及びその製品", 
+      "itemCode2": 54, 
+      "itemCode1": 11, 
+      "itemName2": "人造繊維の長繊維並びに人造繊維の織物及びストリップその他これに類する人造繊維製品"
+    }, 
+    {
+      "itemName1": "紡織用繊維及びその製品", 
+      "itemCode2": 55, 
+      "itemCode1": 11, 
+      "itemName2": "人造繊維の短繊維及びその織物"
+    }, 
+    {
+      "itemName1": "紡織用繊維及びその製品", 
+      "itemCode2": 56, 
+      "itemCode1": 11, 
+      "itemName2": "ウォッディング、フェルト、不織布及び特殊糸並びにひも、綱及びケーブル並びにこれらの製品"
+    }, 
+    {
+      "itemName1": "紡織用繊維及びその製品", 
+      "itemCode2": 57, 
+      "itemCode1": 11, 
+      "itemName2": "じゆうたんその他の紡織用繊維の床用敷物"
+    }, 
+    {
+      "itemName1": "紡織用繊維及びその製品", 
+      "itemCode2": 58, 
+      "itemCode1": 11, 
+      "itemName2": "特殊織物、タフテッド織物類、レース、つづれ織物、トリミング及びししゆう布"
+    }, 
+    {
+      "itemName1": "紡織用繊維及びその製品", 
+      "itemCode2": 59, 
+      "itemCode1": 11, 
+      "itemName2": "染み込ませ、塗布し、被覆し又は積層した紡織用繊維の織物類及び工業用の紡織用繊維製品"
+    }, 
+    {
+      "itemName1": "紡織用繊維及びその製品", 
+      "itemCode2": 60, 
+      "itemCode1": 11, 
+      "itemName2": "メリヤス編物及びクロセ編物"
+    }, 
+    {
+      "itemName1": "紡織用繊維及びその製品", 
+      "itemCode2": 61, 
+      "itemCode1": 11, 
+      "itemName2": "衣類及び衣類附属品（メリヤス編み又はクロセ編みのものに限る。）"
+    }, 
+    {
+      "itemName1": "紡織用繊維及びその製品", 
+      "itemCode2": 62, 
+      "itemCode1": 11, 
+      "itemName2": "衣類及び衣類附属品（メリヤス編み又はクロセ編みのものを除く。）"
+    }, 
+    {
+      "itemName1": "紡織用繊維及びその製品", 
+      "itemCode2": 63, 
+      "itemCode1": 11, 
+      "itemName2": "紡織用繊維のその他の製品、セット、中古の衣類、紡織用繊維の中古の物品及びぼろ"
+    }
+  ]
+}

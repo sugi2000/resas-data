@@ -1,0 +1,71 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "itemName1": "卑金属及びその製品", 
+      "itemCode2": 72, 
+      "itemCode1": 15, 
+      "itemName2": "鉄鋼"
+    }, 
+    {
+      "itemName1": "卑金属及びその製品", 
+      "itemCode2": 73, 
+      "itemCode1": 15, 
+      "itemName2": "鉄鋼製品"
+    }, 
+    {
+      "itemName1": "卑金属及びその製品", 
+      "itemCode2": 74, 
+      "itemCode1": 15, 
+      "itemName2": "銅及びその製品"
+    }, 
+    {
+      "itemName1": "卑金属及びその製品", 
+      "itemCode2": 75, 
+      "itemCode1": 15, 
+      "itemName2": "ニッケル及びその製品"
+    }, 
+    {
+      "itemName1": "卑金属及びその製品", 
+      "itemCode2": 76, 
+      "itemCode1": 15, 
+      "itemName2": "アルミニウム及びその製品"
+    }, 
+    {
+      "itemName1": "卑金属及びその製品", 
+      "itemCode2": 78, 
+      "itemCode1": 15, 
+      "itemName2": "鉛及びその製品"
+    }, 
+    {
+      "itemName1": "卑金属及びその製品", 
+      "itemCode2": 79, 
+      "itemCode1": 15, 
+      "itemName2": "亜鉛及びその製品"
+    }, 
+    {
+      "itemName1": "卑金属及びその製品", 
+      "itemCode2": 80, 
+      "itemCode1": 15, 
+      "itemName2": "すず及びその製品"
+    }, 
+    {
+      "itemName1": "卑金属及びその製品", 
+      "itemCode2": 81, 
+      "itemCode1": 15, 
+      "itemName2": "その他の卑金属及びサーメット並びにこれらの製品"
+    }, 
+    {
+      "itemName1": "卑金属及びその製品", 
+      "itemCode2": 82, 
+      "itemCode1": 15, 
+      "itemName2": "卑金属製の工具、道具、刃物、スプーン及びフォーク並びにこれらの部分品"
+    }, 
+    {
+      "itemName1": "卑金属及びその製品", 
+      "itemCode2": 83, 
+      "itemCode1": 15, 
+      "itemName2": "各種の卑金属製品"
+    }
+  ]
+}
