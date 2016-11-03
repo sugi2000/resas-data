@@ -1,0 +1,110 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "countryName": "コロンビア", 
+      "regionCode": 4, 
+      "remarks": "", 
+      "countryCode": 401, 
+      "regionName": "南アメリカ州"
+    }, 
+    {
+      "countryName": "ベネズエラ", 
+      "regionCode": 4, 
+      "remarks": "", 
+      "countryCode": 402, 
+      "regionName": "南アメリカ州"
+    }, 
+    {
+      "countryName": "ガイアナ", 
+      "regionCode": 4, 
+      "remarks": "", 
+      "countryCode": 403, 
+      "regionName": "南アメリカ州"
+    }, 
+    {
+      "countryName": "スリナム", 
+      "regionCode": 4, 
+      "remarks": "", 
+      "countryCode": 404, 
+      "regionName": "南アメリカ州"
+    }, 
+    {
+      "countryName": "仏領ギアナ", 
+      "regionCode": 4, 
+      "remarks": "", 
+      "countryCode": 405, 
+      "regionName": "南アメリカ州"
+    }, 
+    {
+      "countryName": "エクアドル", 
+      "regionCode": 4, 
+      "remarks": "", 
+      "countryCode": 406, 
+      "regionName": "南アメリカ州"
+    }, 
+    {
+      "countryName": "ペルー", 
+      "regionCode": 4, 
+      "remarks": "", 
+      "countryCode": 407, 
+      "regionName": "南アメリカ州"
+    }, 
+    {
+      "countryName": "ボリビア", 
+      "regionCode": 4, 
+      "remarks": "", 
+      "countryCode": 408, 
+      "regionName": "南アメリカ州"
+    }, 
+    {
+      "countryName": "チリ", 
+      "regionCode": 4, 
+      "remarks": "", 
+      "countryCode": 409, 
+      "regionName": "南アメリカ州"
+    }, 
+    {
+      "countryName": "ブラジル", 
+      "regionCode": 4, 
+      "remarks": "", 
+      "countryCode": 410, 
+      "regionName": "南アメリカ州"
+    }, 
+    {
+      "countryName": "パラグアイ", 
+      "regionCode": 4, 
+      "remarks": "", 
+      "countryCode": 411, 
+      "regionName": "南アメリカ州"
+    }, 
+    {
+      "countryName": "ウルグアイ", 
+      "regionCode": 4, 
+      "remarks": "", 
+      "countryCode": 412, 
+      "regionName": "南アメリカ州"
+    }, 
+    {
+      "countryName": "アルゼンチン", 
+      "regionCode": 4, 
+      "remarks": "", 
+      "countryCode": 413, 
+      "regionName": "南アメリカ州"
+    }, 
+    {
+      "countryName": "フォークランド諸島及びその附属諸島（英）", 
+      "regionCode": 4, 
+      "remarks": "The East and West Falklands South Georgia及びSouth Sandwichを含む。", 
+      "countryCode": 414, 
+      "regionName": "南アメリカ州"
+    }, 
+    {
+      "countryName": "英領南極地域", 
+      "regionCode": 4, 
+      "remarks": "Graham Land、South Orkneys及びSouth Shetland島を含む。（旧414 フォークランド諸島(英)の一部）", 
+      "countryCode": 415, 
+      "regionName": "南アメリカ州"
+    }
+  ]
+}

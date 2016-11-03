@@ -1,0 +1,257 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "countryName": "グリーンランド(デンマーク)", 
+      "regionCode": 3, 
+      "remarks": "Disko島を含む。", 
+      "countryCode": 301, 
+      "regionName": "北アメリカ州"
+    }, 
+    {
+      "countryName": "カナダ", 
+      "regionCode": 3, 
+      "remarks": "", 
+      "countryCode": 302, 
+      "regionName": "北アメリカ州"
+    }, 
+    {
+      "countryName": "サンピエール及びミクロン(仏)", 
+      "regionCode": 3, 
+      "remarks": "St.Lawrence湾の仏領諸島をいう。", 
+      "countryCode": 303, 
+      "regionName": "北アメリカ州"
+    }, 
+    {
+      "countryName": "アメリカ合衆国", 
+      "regionCode": 3, 
+      "remarks": "アラスカ及びハワイを含む。", 
+      "countryCode": 304, 
+      "regionName": "北アメリカ州"
+    }, 
+    {
+      "countryName": "メキシコ", 
+      "regionCode": 3, 
+      "remarks": "", 
+      "countryCode": 305, 
+      "regionName": "北アメリカ州"
+    }, 
+    {
+      "countryName": "グアテマラ", 
+      "regionCode": 3, 
+      "remarks": "", 
+      "countryCode": 306, 
+      "regionName": "北アメリカ州"
+    }, 
+    {
+      "countryName": "ホンジュラス", 
+      "regionCode": 3, 
+      "remarks": "Bay諸島を含む。", 
+      "countryCode": 307, 
+      "regionName": "北アメリカ州"
+    }, 
+    {
+      "countryName": "ベリーズ", 
+      "regionCode": 3, 
+      "remarks": "(旧英領ベリーズ)", 
+      "countryCode": 308, 
+      "regionName": "北アメリカ州"
+    }, 
+    {
+      "countryName": "エルサルバドル", 
+      "regionCode": 3, 
+      "remarks": "", 
+      "countryCode": 309, 
+      "regionName": "北アメリカ州"
+    }, 
+    {
+      "countryName": "ニカラグア", 
+      "regionCode": 3, 
+      "remarks": "", 
+      "countryCode": 310, 
+      "regionName": "北アメリカ州"
+    }, 
+    {
+      "countryName": "コスタリカ", 
+      "regionCode": 3, 
+      "remarks": "", 
+      "countryCode": 311, 
+      "regionName": "北アメリカ州"
+    }, 
+    {
+      "countryName": "パナマ", 
+      "regionCode": 3, 
+      "remarks": "旧313運河地帯を含む。", 
+      "countryCode": 312, 
+      "regionName": "北アメリカ州"
+    }, 
+    {
+      "countryName": "バーミュダ(英)", 
+      "regionCode": 3, 
+      "remarks": "", 
+      "countryCode": 314, 
+      "regionName": "北アメリカ州"
+    }, 
+    {
+      "countryName": "バハマ", 
+      "regionCode": 3, 
+      "remarks": "Grand Bahama, Great Abaco, New Providence, Andros, Eleuthera, Cat, Great Exuma, Long, Watling, Croohed, Acklin, Mayaguana, Great Inagua及び近接諸島を含む。", 
+      "countryCode": 315, 
+      "regionName": "北アメリカ州"
+    }, 
+    {
+      "countryName": "ジャマイカ", 
+      "regionCode": 3, 
+      "remarks": "", 
+      "countryCode": 316, 
+      "regionName": "北アメリカ州"
+    }, 
+    {
+      "countryName": "タークス及びカイコス諸島(英)", 
+      "regionCode": 3, 
+      "remarks": "", 
+      "countryCode": 317, 
+      "regionName": "北アメリカ州"
+    }, 
+    {
+      "countryName": "バルバドス", 
+      "regionCode": 3, 
+      "remarks": "", 
+      "countryCode": 319, 
+      "regionName": "北アメリカ州"
+    }, 
+    {
+      "countryName": "トリニダード・トバゴ", 
+      "regionCode": 3, 
+      "remarks": "", 
+      "countryCode": 320, 
+      "regionName": "北アメリカ州"
+    }, 
+    {
+      "countryName": "キューバ", 
+      "regionCode": 3, 
+      "remarks": "", 
+      "countryCode": 321, 
+      "regionName": "北アメリカ州"
+    }, 
+    {
+      "countryName": "ハイチ", 
+      "regionCode": 3, 
+      "remarks": "", 
+      "countryCode": 322, 
+      "regionName": "北アメリカ州"
+    }, 
+    {
+      "countryName": "ドミニカ共和国", 
+      "regionCode": 3, 
+      "remarks": "Dominican Republic", 
+      "countryCode": 323, 
+      "regionName": "北アメリカ州"
+    }, 
+    {
+      "countryName": "プエルトリコ(米)", 
+      "regionCode": 3, 
+      "remarks": "", 
+      "countryCode": 324, 
+      "regionName": "北アメリカ州"
+    }, 
+    {
+      "countryName": "米領ヴァージン諸島", 
+      "regionCode": 3, 
+      "remarks": "St.Thomas, St.John, Croix及び近接諸島を含む。", 
+      "countryCode": 325, 
+      "regionName": "北アメリカ州"
+    }, 
+    {
+      "countryName": "蘭領アンティール", 
+      "regionCode": 3, 
+      "remarks": "Curacao Aruba, Bonaire, Saba, St.Eustatius及びSouthern St.Martinを含む。(旧蘭領西インド諸島)", 
+      "countryCode": 326, 
+      "regionName": "北アメリカ州"
+    }, 
+    {
+      "countryName": "仏領西インド諸島", 
+      "regionCode": 3, 
+      "remarks": "Guadeloupe, Martinique, Desirade, Les Saintes, Marie Galante, St.Barthelemy及びNorthern St.Martin島を含む。", 
+      "countryCode": 327, 
+      "regionName": "北アメリカ州"
+    }, 
+    {
+      "countryName": "ケイマン諸島(英)", 
+      "regionCode": 3, 
+      "remarks": "Grand Cayman, Cayman Brac, Little Cayman島を含む。（旧317タークス・カイコス及びカイマン(英)の一部）", 
+      "countryCode": 328, 
+      "regionName": "北アメリカ州"
+    }, 
+    {
+      "countryName": "グレナダ", 
+      "regionCode": 3, 
+      "remarks": "(旧318 リーワード及びウインドワード諸島(英)の一部)", 
+      "countryCode": 329, 
+      "regionName": "北アメリカ州"
+    }, 
+    {
+      "countryName": "セントルシア", 
+      "regionCode": 3, 
+      "remarks": "", 
+      "countryCode": 330, 
+      "regionName": "北アメリカ州"
+    }, 
+    {
+      "countryName": "アンティグア・バーブーダ", 
+      "regionCode": 3, 
+      "remarks": "(旧英領アンテイグア)", 
+      "countryCode": 331, 
+      "regionName": "北アメリカ州"
+    }, 
+    {
+      "countryName": "英領ヴァージン諸島", 
+      "regionCode": 3, 
+      "remarks": "Tortola, Anegada Jost Van Dykes, Virgin Gorda及び近接英領諸島をいう。（旧318 リーワード及びウインドワード諸島(英)の一部）", 
+      "countryCode": 332, 
+      "regionName": "北アメリカ州"
+    }, 
+    {
+      "countryName": "ドミニカ", 
+      "regionCode": 3, 
+      "remarks": "Commonwealth of Dominica", 
+      "countryCode": 333, 
+      "regionName": "北アメリカ州"
+    }, 
+    {
+      "countryName": "モントセラト(英)", 
+      "regionCode": 3, 
+      "remarks": "(旧318 リーワード及びウインドワード諸島(英)の一部)", 
+      "countryCode": 334, 
+      "regionName": "北アメリカ州"
+    }, 
+    {
+      "countryName": "セントクリストファー・ネーヴィス", 
+      "regionCode": 3, 
+      "remarks": "(旧335 セント・キッツ、ネヴイス及び英領アンギラの一部)", 
+      "countryCode": 335, 
+      "regionName": "北アメリカ州"
+    }, 
+    {
+      "countryName": "セントビンセント", 
+      "regionCode": 3, 
+      "remarks": "St.Vincent, Bequia, Mustique, Canouan, Union島,Grenadines諸島及び近接諸島を含む。", 
+      "countryCode": 336, 
+      "regionName": "北アメリカ州"
+    }, 
+    {
+      "countryName": "英領アンギラ", 
+      "regionCode": 3, 
+      "remarks": "Sombrero島を含む。（旧335 セント・キッツ、ネヴイス及び英領アンギラの一部）", 
+      "countryCode": 337, 
+      "regionName": "北アメリカ州"
+    }, 
+    {
+      "countryName": "その他の北アメリカ州", 
+      "regionCode": 3, 
+      "remarks": "", 
+      "countryCode": 399, 
+      "regionName": "北アメリカ州"
+    }
+  ]
+}

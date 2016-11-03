@@ -1,0 +1,187 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "countryName": "オーストラリア", 
+      "regionCode": 6, 
+      "remarks": "", 
+      "countryCode": 601, 
+      "regionName": "大洋州"
+    }, 
+    {
+      "countryName": "パプアニューギニア", 
+      "regionCode": 6, 
+      "remarks": "Woodlark Trobriand, D’Entrecasteaux Louisade, New Britain, New Ireland, Manus, Bougainville, Buka及び近接諸島を含む。", 
+      "countryCode": 602, 
+      "regionName": "大洋州"
+    }, 
+    {
+      "countryName": "その他のオーストラリア領", 
+      "regionCode": 6, 
+      "remarks": "Cocos, Ashmore, Cartier, Norfolk, Heard, Christmas及びMc Donald島を含む。", 
+      "countryCode": 605, 
+      "regionName": "大洋州"
+    }, 
+    {
+      "countryName": "ニュージーランド", 
+      "regionCode": 6, 
+      "remarks": "Kermadec, Raoul, Macauley, Curtis, Chatham, Bounty, Antipedes, Auckland, Campbell Three Kings Solonder及びSnares島を含む。(旧609 その他のニュージーランド自治領の一部を含む。)", 
+      "countryCode": 606, 
+      "regionName": "大洋州"
+    }, 
+    {
+      "countryName": "クック", 
+      "regionCode": 6, 
+      "remarks": "Rarotonga, Aitutaki, Penrhyn (Tongareva), Manihiki, Pukapuka, Nassau, Suvarov, Palmerston, Manuae, Takutea, Atiu, Mangaia, Mitiars及びMauke島を含む。", 
+      "countryCode": 607, 
+      "regionName": "大洋州"
+    }, 
+    {
+      "countryName": "トケラウ諸島(ニュージーランド)", 
+      "regionCode": 6, 
+      "remarks": "Atafu, Nukunonu及びFakaofu島を含む。", 
+      "countryCode": 608, 
+      "regionName": "大洋州"
+    }, 
+    {
+      "countryName": "ニウエ島(ニュージーランド)", 
+      "regionCode": 6, 
+      "remarks": "(旧その他のニュージーランド自治領の一部)", 
+      "countryCode": 609, 
+      "regionName": "大洋州"
+    }, 
+    {
+      "countryName": "サモア", 
+      "regionCode": 6, 
+      "remarks": "", 
+      "countryCode": 610, 
+      "regionName": "大洋州"
+    }, 
+    {
+      "countryName": "バヌアツ", 
+      "regionCode": 6, 
+      "remarks": "(旧英仏共同統治地域ニューヘブリデス)", 
+      "countryCode": 611, 
+      "regionName": "大洋州"
+    }, 
+    {
+      "countryName": "フィジー", 
+      "regionCode": 6, 
+      "remarks": "Viti Levu, Vanua Levu及び近接諸島を含む。", 
+      "countryCode": 612, 
+      "regionName": "大洋州"
+    }, 
+    {
+      "countryName": "ソロモン", 
+      "regionCode": 6, 
+      "remarks": "Guadalcanar, Choiseul, New Georgia, Santo Isabe, Malaita, San Cristobal島及びその近接諸島を含む。", 
+      "countryCode": 613, 
+      "regionName": "大洋州"
+    }, 
+    {
+      "countryName": "トンガ", 
+      "regionCode": 6, 
+      "remarks": "Tongatapu, Vavau, Haapai及びTofoa島を含む。", 
+      "countryCode": 614, 
+      "regionName": "大洋州"
+    }, 
+    {
+      "countryName": "キリバス", 
+      "regionCode": 6, 
+      "remarks": "Canton及びEnderbury島を含む。", 
+      "countryCode": 615, 
+      "regionName": "大洋州"
+    }, 
+    {
+      "countryName": "ピットケルン(英)", 
+      "regionCode": 6, 
+      "remarks": "Henderson, Ducie及びOeno島を含む。", 
+      "countryCode": 616, 
+      "regionName": "大洋州"
+    }, 
+    {
+      "countryName": "ナウル", 
+      "regionCode": 6, 
+      "remarks": "", 
+      "countryCode": 617, 
+      "regionName": "大洋州"
+    }, 
+    {
+      "countryName": "ニューカレドニア(仏)", 
+      "regionCode": 6, 
+      "remarks": "Chesterfield (Avon), Belep, Huon, Loyalty, Pines (Kunie), Wallis (Uvea), Fortuna (Futuna) Alofa及びHorn島を含む。", 
+      "countryCode": 618, 
+      "regionName": "大洋州"
+    }, 
+    {
+      "countryName": "仏領ポリネシア", 
+      "regionCode": 6, 
+      "remarks": "Society, Marquesas, Clipperton, Tubuai, Tuamoto, Gambier, Rapa及びLeeward諸島を含む。", 
+      "countryCode": 619, 
+      "regionName": "大洋州"
+    }, 
+    {
+      "countryName": "グアム(米)", 
+      "regionCode": 6, 
+      "remarks": "", 
+      "countryCode": 620, 
+      "regionName": "大洋州"
+    }, 
+    {
+      "countryName": "米領サモア", 
+      "regionCode": 6, 
+      "remarks": "Tutuila, Rose, Swains及びManua島を含む。", 
+      "countryCode": 621, 
+      "regionName": "大洋州"
+    }, 
+    {
+      "countryName": "米領オセアニア", 
+      "regionCode": 6, 
+      "remarks": "Midway, Wake, Johnston, Kingman, Palmyra, Howland, Baker, Jarvis, Malden, Starbuck, Flint, Vostok及びCaroline島を含む。", 
+      "countryCode": 622, 
+      "regionName": "大洋州"
+    }, 
+    {
+      "countryName": "ツバル", 
+      "regionCode": 6, 
+      "remarks": "Funafiti Nanomea島及び近接諸島を含む。", 
+      "countryCode": 624, 
+      "regionName": "大洋州"
+    }, 
+    {
+      "countryName": "マーシャル", 
+      "regionCode": 6, 
+      "remarks": "", 
+      "countryCode": 625, 
+      "regionName": "大洋州"
+    }, 
+    {
+      "countryName": "ミクロネシア", 
+      "regionCode": 6, 
+      "remarks": "", 
+      "countryCode": 626, 
+      "regionName": "大洋州"
+    }, 
+    {
+      "countryName": "北マリアナ諸島(米)", 
+      "regionCode": 6, 
+      "remarks": "", 
+      "countryCode": 627, 
+      "regionName": "大洋州"
+    }, 
+    {
+      "countryName": "パラオ", 
+      "regionCode": 6, 
+      "remarks": "", 
+      "countryCode": 628, 
+      "regionName": "大洋州"
+    }, 
+    {
+      "countryName": "その他のオセアニア", 
+      "regionCode": 6, 
+      "remarks": "", 
+      "countryCode": 699, 
+      "regionName": "大洋州"
+    }
+  ]
+}

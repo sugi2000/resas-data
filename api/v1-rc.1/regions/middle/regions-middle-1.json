@@ -1,0 +1,355 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "countryName": "大韓民国", 
+      "regionCode": 1, 
+      "remarks": "", 
+      "countryCode": 103, 
+      "regionName": "アジア州"
+    }, 
+    {
+      "countryName": "北朝鮮", 
+      "regionCode": 1, 
+      "remarks": "", 
+      "countryCode": 104, 
+      "regionName": "アジア州"
+    }, 
+    {
+      "countryName": "中華人民共和国", 
+      "regionCode": 1, 
+      "remarks": "香港及びマカオを含まない。", 
+      "countryCode": 105, 
+      "regionName": "アジア州"
+    }, 
+    {
+      "countryName": "台湾", 
+      "regionCode": 1, 
+      "remarks": "", 
+      "countryCode": 106, 
+      "regionName": "アジア州"
+    }, 
+    {
+      "countryName": "モンゴル", 
+      "regionCode": 1, 
+      "remarks": "", 
+      "countryCode": 107, 
+      "regionName": "アジア州"
+    }, 
+    {
+      "countryName": "香港", 
+      "regionCode": 1, 
+      "remarks": "", 
+      "countryCode": 108, 
+      "regionName": "アジア州"
+    }, 
+    {
+      "countryName": "ベトナム", 
+      "regionCode": 1, 
+      "remarks": "", 
+      "countryCode": 110, 
+      "regionName": "アジア州"
+    }, 
+    {
+      "countryName": "タイ", 
+      "regionCode": 1, 
+      "remarks": "", 
+      "countryCode": 111, 
+      "regionName": "アジア州"
+    }, 
+    {
+      "countryName": "シンガポール", 
+      "regionCode": 1, 
+      "remarks": "", 
+      "countryCode": 112, 
+      "regionName": "アジア州"
+    }, 
+    {
+      "countryName": "マレーシア", 
+      "regionCode": 1, 
+      "remarks": "", 
+      "countryCode": 113, 
+      "regionName": "アジア州"
+    }, 
+    {
+      "countryName": "ブルネイ", 
+      "regionCode": 1, 
+      "remarks": "(旧英領ブルネイ)", 
+      "countryCode": 116, 
+      "regionName": "アジア州"
+    }, 
+    {
+      "countryName": "フィリピン", 
+      "regionCode": 1, 
+      "remarks": "", 
+      "countryCode": 117, 
+      "regionName": "アジア州"
+    }, 
+    {
+      "countryName": "インドネシア", 
+      "regionCode": 1, 
+      "remarks": "West Irianを含む。", 
+      "countryCode": 118, 
+      "regionName": "アジア州"
+    }, 
+    {
+      "countryName": "カンボジア", 
+      "regionCode": 1, 
+      "remarks": "", 
+      "countryCode": 120, 
+      "regionName": "アジア州"
+    }, 
+    {
+      "countryName": "ラオス", 
+      "regionCode": 1, 
+      "remarks": "", 
+      "countryCode": 121, 
+      "regionName": "アジア州"
+    }, 
+    {
+      "countryName": "ミャンマー", 
+      "regionCode": 1, 
+      "remarks": "(旧ビルマ)", 
+      "countryCode": 122, 
+      "regionName": "アジア州"
+    }, 
+    {
+      "countryName": "インド", 
+      "regionCode": 1, 
+      "remarks": "(旧葡領インドを含む。)", 
+      "countryCode": 123, 
+      "regionName": "アジア州"
+    }, 
+    {
+      "countryName": "パキスタン", 
+      "regionCode": 1, 
+      "remarks": "", 
+      "countryCode": 124, 
+      "regionName": "アジア州"
+    }, 
+    {
+      "countryName": "スリランカ", 
+      "regionCode": 1, 
+      "remarks": "(旧セイロン)", 
+      "countryCode": 125, 
+      "regionName": "アジア州"
+    }, 
+    {
+      "countryName": "モルディブ", 
+      "regionCode": 1, 
+      "remarks": "", 
+      "countryCode": 126, 
+      "regionName": "アジア州"
+    }, 
+    {
+      "countryName": "バングラデシュ", 
+      "regionCode": 1, 
+      "remarks": "", 
+      "countryCode": 127, 
+      "regionName": "アジア州"
+    }, 
+    {
+      "countryName": "東ティモール", 
+      "regionCode": 1, 
+      "remarks": "", 
+      "countryCode": 128, 
+      "regionName": "アジア州"
+    }, 
+    {
+      "countryName": "マカオ", 
+      "regionCode": 1, 
+      "remarks": "", 
+      "countryCode": 129, 
+      "regionName": "アジア州"
+    }, 
+    {
+      "countryName": "アフガニスタン", 
+      "regionCode": 1, 
+      "remarks": "", 
+      "countryCode": 130, 
+      "regionName": "アジア州"
+    }, 
+    {
+      "countryName": "ネパール", 
+      "regionCode": 1, 
+      "remarks": "", 
+      "countryCode": 131, 
+      "regionName": "アジア州"
+    }, 
+    {
+      "countryName": "ブータン", 
+      "regionCode": 1, 
+      "remarks": "", 
+      "countryCode": 132, 
+      "regionName": "アジア州"
+    }, 
+    {
+      "countryName": "イラン", 
+      "regionCode": 1, 
+      "remarks": "", 
+      "countryCode": 133, 
+      "regionName": "アジア州"
+    }, 
+    {
+      "countryName": "イラク", 
+      "regionCode": 1, 
+      "remarks": "", 
+      "countryCode": 134, 
+      "regionName": "アジア州"
+    }, 
+    {
+      "countryName": "バーレーン", 
+      "regionCode": 1, 
+      "remarks": "", 
+      "countryCode": 135, 
+      "regionName": "アジア州"
+    }, 
+    {
+      "countryName": "サウジアラビア", 
+      "regionCode": 1, 
+      "remarks": "", 
+      "countryCode": 137, 
+      "regionName": "アジア州"
+    }, 
+    {
+      "countryName": "クウェート", 
+      "regionCode": 1, 
+      "remarks": "", 
+      "countryCode": 138, 
+      "regionName": "アジア州"
+    }, 
+    {
+      "countryName": "カタール", 
+      "regionCode": 1, 
+      "remarks": "", 
+      "countryCode": 140, 
+      "regionName": "アジア州"
+    }, 
+    {
+      "countryName": "オマーン", 
+      "regionCode": 1, 
+      "remarks": "", 
+      "countryCode": 141, 
+      "regionName": "アジア州"
+    }, 
+    {
+      "countryName": "イスラエル", 
+      "regionCode": 1, 
+      "remarks": "ヨルダン川西岸を含まない。", 
+      "countryCode": 143, 
+      "regionName": "アジア州"
+    }, 
+    {
+      "countryName": "ヨルダン", 
+      "regionCode": 1, 
+      "remarks": "", 
+      "countryCode": 144, 
+      "regionName": "アジア州"
+    }, 
+    {
+      "countryName": "シリア", 
+      "regionCode": 1, 
+      "remarks": "", 
+      "countryCode": 145, 
+      "regionName": "アジア州"
+    }, 
+    {
+      "countryName": "レバノン", 
+      "regionCode": 1, 
+      "remarks": "", 
+      "countryCode": 146, 
+      "regionName": "アジア州"
+    }, 
+    {
+      "countryName": "アラブ首長国連邦", 
+      "regionCode": 1, 
+      "remarks": "(旧トルシアルオーマン）", 
+      "countryCode": 147, 
+      "regionName": "アジア州"
+    }, 
+    {
+      "countryName": "イエメン", 
+      "regionCode": 1, 
+      "remarks": "Perim, Kamaran, Socotra及びKuria Muria諸島を含む。", 
+      "countryCode": 149, 
+      "regionName": "アジア州"
+    }, 
+    {
+      "countryName": "アゼルバイジャン", 
+      "regionCode": 1, 
+      "remarks": "", 
+      "countryCode": 150, 
+      "regionName": "アジア州"
+    }, 
+    {
+      "countryName": "アルメニア", 
+      "regionCode": 1, 
+      "remarks": "", 
+      "countryCode": 151, 
+      "regionName": "アジア州"
+    }, 
+    {
+      "countryName": "ウズベキスタン", 
+      "regionCode": 1, 
+      "remarks": "", 
+      "countryCode": 152, 
+      "regionName": "アジア州"
+    }, 
+    {
+      "countryName": "カザフスタン", 
+      "regionCode": 1, 
+      "remarks": "", 
+      "countryCode": 153, 
+      "regionName": "アジア州"
+    }, 
+    {
+      "countryName": "キルギス", 
+      "regionCode": 1, 
+      "remarks": "", 
+      "countryCode": 154, 
+      "regionName": "アジア州"
+    }, 
+    {
+      "countryName": "タジキスタン", 
+      "regionCode": 1, 
+      "remarks": "", 
+      "countryCode": 155, 
+      "regionName": "アジア州"
+    }, 
+    {
+      "countryName": "トルクメニスタン", 
+      "regionCode": 1, 
+      "remarks": "", 
+      "countryCode": 156, 
+      "regionName": "アジア州"
+    }, 
+    {
+      "countryName": "ジョージア", 
+      "regionCode": 1, 
+      "remarks": "（旧グルジア）", 
+      "countryCode": 157, 
+      "regionName": "アジア州"
+    }, 
+    {
+      "countryName": "ヨルダン川西岸及びガザ", 
+      "regionCode": 1, 
+      "remarks": "", 
+      "countryCode": 158, 
+      "regionName": "アジア州"
+    }, 
+    {
+      "countryName": "その他のアジア", 
+      "regionCode": 1, 
+      "remarks": "", 
+      "countryCode": 188, 
+      "regionName": "アジア州"
+    }, 
+    {
+      "countryName": "その他の中東", 
+      "regionCode": 1, 
+      "remarks": "", 
+      "countryCode": 199, 
+      "regionName": "アジア州"
+    }
+  ]
+}

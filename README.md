@@ -14,6 +14,8 @@ RESAS-API利用規約に従って自由に利用できます。
 - [特許.技術分野](api/v1-rc.1/patents/broad/)
 - [特許.技術テーマ](api/v1-rc.1/patents/middle/)
 - [税関](api/v1-rc.1/customs/)
+- [輸出入花火図.取引国_地域](api/v1-rc.1/regions/broad/)
+- [輸出入花火図.取引国_国](api/v1-rc.1/regions/middle/)
 
 参考
 - [RESAS-API](https://opendata.resas-portal.go.jp/)

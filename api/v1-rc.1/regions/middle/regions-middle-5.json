@@ -1,0 +1,432 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "countryName": "モロッコ", 
+      "regionCode": 5, 
+      "remarks": "旧西領Ifniを含む。", 
+      "countryCode": 501, 
+      "regionName": "アフリカ州"
+    }, 
+    {
+      "countryName": "セウタ及びメリリア(西)", 
+      "regionCode": 5, 
+      "remarks": "", 
+      "countryCode": 502, 
+      "regionName": "アフリカ州"
+    }, 
+    {
+      "countryName": "アルジェリア", 
+      "regionCode": 5, 
+      "remarks": "", 
+      "countryCode": 503, 
+      "regionName": "アフリカ州"
+    }, 
+    {
+      "countryName": "チュニジア", 
+      "regionCode": 5, 
+      "remarks": "", 
+      "countryCode": 504, 
+      "regionName": "アフリカ州"
+    }, 
+    {
+      "countryName": "リビア", 
+      "regionCode": 5, 
+      "remarks": "", 
+      "countryCode": 505, 
+      "regionName": "アフリカ州"
+    }, 
+    {
+      "countryName": "エジプト", 
+      "regionCode": 5, 
+      "remarks": "", 
+      "countryCode": 506, 
+      "regionName": "アフリカ州"
+    }, 
+    {
+      "countryName": "スーダン", 
+      "regionCode": 5, 
+      "remarks": "", 
+      "countryCode": 507, 
+      "regionName": "アフリカ州"
+    }, 
+    {
+      "countryName": "西サハラ", 
+      "regionCode": 5, 
+      "remarks": "Cabo Juby, Aguera及びAdrarを含む。", 
+      "countryCode": 508, 
+      "regionName": "アフリカ州"
+    }, 
+    {
+      "countryName": "モーリタニア", 
+      "regionCode": 5, 
+      "remarks": "", 
+      "countryCode": 509, 
+      "regionName": "アフリカ州"
+    }, 
+    {
+      "countryName": "セネガル", 
+      "regionCode": 5, 
+      "remarks": "", 
+      "countryCode": 510, 
+      "regionName": "アフリカ州"
+    }, 
+    {
+      "countryName": "ガンビア", 
+      "regionCode": 5, 
+      "remarks": "", 
+      "countryCode": 511, 
+      "regionName": "アフリカ州"
+    }, 
+    {
+      "countryName": "ギニア・ビサウ", 
+      "regionCode": 5, 
+      "remarks": "Bissago諸島を含む。", 
+      "countryCode": 512, 
+      "regionName": "アフリカ州"
+    }, 
+    {
+      "countryName": "ギニア", 
+      "regionCode": 5, 
+      "remarks": "Iles Tristao及びLos諸島を含む。", 
+      "countryCode": 513, 
+      "regionName": "アフリカ州"
+    }, 
+    {
+      "countryName": "シエラレオネ", 
+      "regionCode": 5, 
+      "remarks": "", 
+      "countryCode": 514, 
+      "regionName": "アフリカ州"
+    }, 
+    {
+      "countryName": "リベリア", 
+      "regionCode": 5, 
+      "remarks": "", 
+      "countryCode": 515, 
+      "regionName": "アフリカ州"
+    }, 
+    {
+      "countryName": "コートジボワール", 
+      "regionCode": 5, 
+      "remarks": "（旧象牙海岸共和国）", 
+      "countryCode": 516, 
+      "regionName": "アフリカ州"
+    }, 
+    {
+      "countryName": "ガーナ", 
+      "regionCode": 5, 
+      "remarks": "", 
+      "countryCode": 517, 
+      "regionName": "アフリカ州"
+    }, 
+    {
+      "countryName": "トーゴ", 
+      "regionCode": 5, 
+      "remarks": "", 
+      "countryCode": 518, 
+      "regionName": "アフリカ州"
+    }, 
+    {
+      "countryName": "ベナン", 
+      "regionCode": 5, 
+      "remarks": "", 
+      "countryCode": 519, 
+      "regionName": "アフリカ州"
+    }, 
+    {
+      "countryName": "マリ", 
+      "regionCode": 5, 
+      "remarks": "", 
+      "countryCode": 520, 
+      "regionName": "アフリカ州"
+    }, 
+    {
+      "countryName": "ブルキナファソ", 
+      "regionCode": 5, 
+      "remarks": "", 
+      "countryCode": 521, 
+      "regionName": "アフリカ州"
+    }, 
+    {
+      "countryName": "カーボヴェルデ", 
+      "regionCode": 5, 
+      "remarks": "Santo Antao, St.Vincent, St.Luzia, Santhiago Fogo, Maio及び近接諸島を含む。", 
+      "countryCode": 522, 
+      "regionName": "アフリカ州"
+    }, 
+    {
+      "countryName": "カナリー諸島(西)", 
+      "regionCode": 5, 
+      "remarks": "Teneriffe, Palma, Gran Canaria Fuerteventura, Lanzarote及び近接諸島を含む。", 
+      "countryCode": 523, 
+      "regionName": "アフリカ州"
+    }, 
+    {
+      "countryName": "ナイジェリア", 
+      "regionCode": 5, 
+      "remarks": "", 
+      "countryCode": 524, 
+      "regionName": "アフリカ州"
+    }, 
+    {
+      "countryName": "ニジェール", 
+      "regionCode": 5, 
+      "remarks": "", 
+      "countryCode": 525, 
+      "regionName": "アフリカ州"
+    }, 
+    {
+      "countryName": "ルワンダ", 
+      "regionCode": 5, 
+      "remarks": "", 
+      "countryCode": 526, 
+      "regionName": "アフリカ州"
+    }, 
+    {
+      "countryName": "カメルーン", 
+      "regionCode": 5, 
+      "remarks": "", 
+      "countryCode": 527, 
+      "regionName": "アフリカ州"
+    }, 
+    {
+      "countryName": "チャド", 
+      "regionCode": 5, 
+      "remarks": "", 
+      "countryCode": 528, 
+      "regionName": "アフリカ州"
+    }, 
+    {
+      "countryName": "中央アフリカ", 
+      "regionCode": 5, 
+      "remarks": "", 
+      "countryCode": 529, 
+      "regionName": "アフリカ州"
+    }, 
+    {
+      "countryName": "赤道ギニア", 
+      "regionCode": 5, 
+      "remarks": "Rio Muni及びFernando Poo, Annobon, Corisco島を含む。", 
+      "countryCode": 530, 
+      "regionName": "アフリカ州"
+    }, 
+    {
+      "countryName": "ガボン", 
+      "regionCode": 5, 
+      "remarks": "", 
+      "countryCode": 531, 
+      "regionName": "アフリカ州"
+    }, 
+    {
+      "countryName": "コンゴ共和国", 
+      "regionCode": 5, 
+      "remarks": "", 
+      "countryCode": 532, 
+      "regionName": "アフリカ州"
+    }, 
+    {
+      "countryName": "コンゴ民主共和国", 
+      "regionCode": 5, 
+      "remarks": "(旧ザイール)", 
+      "countryCode": 533, 
+      "regionName": "アフリカ州"
+    }, 
+    {
+      "countryName": "ブルンジ", 
+      "regionCode": 5, 
+      "remarks": "", 
+      "countryCode": 534, 
+      "regionName": "アフリカ州"
+    }, 
+    {
+      "countryName": "アンゴラ", 
+      "regionCode": 5, 
+      "remarks": "Cabindaを含む。", 
+      "countryCode": 535, 
+      "regionName": "アフリカ州"
+    }, 
+    {
+      "countryName": "サントメ・プリンシペ", 
+      "regionCode": 5, 
+      "remarks": "", 
+      "countryCode": 536, 
+      "regionName": "アフリカ州"
+    }, 
+    {
+      "countryName": "セントヘレナ及びその附属諸島(英)", 
+      "regionCode": 5, 
+      "remarks": "Ascension, Tristan da Cunha Gough, Inaccessible及びNightingale島を含む。", 
+      "countryCode": 537, 
+      "regionName": "アフリカ州"
+    }, 
+    {
+      "countryName": "エチオピア", 
+      "regionCode": 5, 
+      "remarks": "", 
+      "countryCode": 538, 
+      "regionName": "アフリカ州"
+    }, 
+    {
+      "countryName": "ジブチ", 
+      "regionCode": 5, 
+      "remarks": "", 
+      "countryCode": 539, 
+      "regionName": "アフリカ州"
+    }, 
+    {
+      "countryName": "ソマリア", 
+      "regionCode": 5, 
+      "remarks": "", 
+      "countryCode": 540, 
+      "regionName": "アフリカ州"
+    }, 
+    {
+      "countryName": "ケニア", 
+      "regionCode": 5, 
+      "remarks": "", 
+      "countryCode": 541, 
+      "regionName": "アフリカ州"
+    }, 
+    {
+      "countryName": "ウガンダ", 
+      "regionCode": 5, 
+      "remarks": "", 
+      "countryCode": 542, 
+      "regionName": "アフリカ州"
+    }, 
+    {
+      "countryName": "タンザニア", 
+      "regionCode": 5, 
+      "remarks": "", 
+      "countryCode": 543, 
+      "regionName": "アフリカ州"
+    }, 
+    {
+      "countryName": "セーシェル", 
+      "regionCode": 5, 
+      "remarks": "", 
+      "countryCode": 544, 
+      "regionName": "アフリカ州"
+    }, 
+    {
+      "countryName": "モザンビーク", 
+      "regionCode": 5, 
+      "remarks": "", 
+      "countryCode": 545, 
+      "regionName": "アフリカ州"
+    }, 
+    {
+      "countryName": "マダガスカル", 
+      "regionCode": 5, 
+      "remarks": "St.Marie, Clorious及びNossi Beを含む。", 
+      "countryCode": 546, 
+      "regionName": "アフリカ州"
+    }, 
+    {
+      "countryName": "モーリシャス", 
+      "regionCode": 5, 
+      "remarks": "Rodrigues, Agalega, Caragados Carajos及び近接諸島を含む。", 
+      "countryCode": 547, 
+      "regionName": "アフリカ州"
+    }, 
+    {
+      "countryName": "レユニオン(仏)", 
+      "regionCode": 5, 
+      "remarks": "", 
+      "countryCode": 548, 
+      "regionName": "アフリカ州"
+    }, 
+    {
+      "countryName": "ジンバブエ", 
+      "regionCode": 5, 
+      "remarks": "", 
+      "countryCode": 549, 
+      "regionName": "アフリカ州"
+    }, 
+    {
+      "countryName": "ナミビア", 
+      "regionCode": 5, 
+      "remarks": "(旧南西アフリカ)", 
+      "countryCode": 550, 
+      "regionName": "アフリカ州"
+    }, 
+    {
+      "countryName": "南アフリカ共和国", 
+      "regionCode": 5, 
+      "remarks": "Prince Edward及びMarion島を含む。", 
+      "countryCode": 551, 
+      "regionName": "アフリカ州"
+    }, 
+    {
+      "countryName": "レソト", 
+      "regionCode": 5, 
+      "remarks": "", 
+      "countryCode": 552, 
+      "regionName": "アフリカ州"
+    }, 
+    {
+      "countryName": "マラウイ", 
+      "regionCode": 5, 
+      "remarks": "", 
+      "countryCode": 553, 
+      "regionName": "アフリカ州"
+    }, 
+    {
+      "countryName": "ザンビア", 
+      "regionCode": 5, 
+      "remarks": "", 
+      "countryCode": 554, 
+      "regionName": "アフリカ州"
+    }, 
+    {
+      "countryName": "ボツワナ", 
+      "regionCode": 5, 
+      "remarks": "", 
+      "countryCode": 555, 
+      "regionName": "アフリカ州"
+    }, 
+    {
+      "countryName": "スワジランド", 
+      "regionCode": 5, 
+      "remarks": "", 
+      "countryCode": 556, 
+      "regionName": "アフリカ州"
+    }, 
+    {
+      "countryName": "英領インド洋地域", 
+      "regionCode": 5, 
+      "remarks": "Chagos, Archipelago (Diego Garcia, Peros Banhos, Solomon)島を含む。", 
+      "countryCode": 557, 
+      "regionName": "アフリカ州"
+    }, 
+    {
+      "countryName": "コモロ", 
+      "regionCode": 5, 
+      "remarks": "", 
+      "countryCode": 558, 
+      "regionName": "アフリカ州"
+    }, 
+    {
+      "countryName": "エリトリア", 
+      "regionCode": 5, 
+      "remarks": "", 
+      "countryCode": 559, 
+      "regionName": "アフリカ州"
+    }, 
+    {
+      "countryName": "南スーダン", 
+      "regionCode": 5, 
+      "remarks": "", 
+      "countryCode": 560, 
+      "regionName": "アフリカ州"
+    }, 
+    {
+      "countryName": "その他のアフリカ", 
+      "regionCode": 5, 
+      "remarks": "", 
+      "countryCode": 599, 
+      "regionName": "アフリカ州"
+    }
+  ]
+}

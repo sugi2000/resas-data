@@ -1,0 +1,348 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "countryName": "アイスランド", 
+      "regionCode": 2, 
+      "remarks": "", 
+      "countryCode": 201, 
+      "regionName": "ヨーロッパ州"
+    }, 
+    {
+      "countryName": "ノルウェー", 
+      "regionCode": 2, 
+      "remarks": "", 
+      "countryCode": 202, 
+      "regionName": "ヨーロッパ州"
+    }, 
+    {
+      "countryName": "スウェーデン", 
+      "regionCode": 2, 
+      "remarks": "", 
+      "countryCode": 203, 
+      "regionName": "ヨーロッパ州"
+    }, 
+    {
+      "countryName": "デンマーク", 
+      "regionCode": 2, 
+      "remarks": "", 
+      "countryCode": 204, 
+      "regionName": "ヨーロッパ州"
+    }, 
+    {
+      "countryName": "英国", 
+      "regionCode": 2, 
+      "remarks": "", 
+      "countryCode": 205, 
+      "regionName": "ヨーロッパ州"
+    }, 
+    {
+      "countryName": "アイルランド", 
+      "regionCode": 2, 
+      "remarks": "Northern Irelandを含まない。", 
+      "countryCode": 206, 
+      "regionName": "ヨーロッパ州"
+    }, 
+    {
+      "countryName": "オランダ", 
+      "regionCode": 2, 
+      "remarks": "", 
+      "countryCode": 207, 
+      "regionName": "ヨーロッパ州"
+    }, 
+    {
+      "countryName": "ベルギー", 
+      "regionCode": 2, 
+      "remarks": "", 
+      "countryCode": 208, 
+      "regionName": "ヨーロッパ州"
+    }, 
+    {
+      "countryName": "ルクセンブルク", 
+      "regionCode": 2, 
+      "remarks": "", 
+      "countryCode": 209, 
+      "regionName": "ヨーロッパ州"
+    }, 
+    {
+      "countryName": "フランス", 
+      "regionCode": 2, 
+      "remarks": "", 
+      "countryCode": 210, 
+      "regionName": "ヨーロッパ州"
+    }, 
+    {
+      "countryName": "モナコ", 
+      "regionCode": 2, 
+      "remarks": "", 
+      "countryCode": 211, 
+      "regionName": "ヨーロッパ州"
+    }, 
+    {
+      "countryName": "アンドラ", 
+      "regionCode": 2, 
+      "remarks": "", 
+      "countryCode": 212, 
+      "regionName": "ヨーロッパ州"
+    }, 
+    {
+      "countryName": "ドイツ", 
+      "regionCode": 2, 
+      "remarks": "", 
+      "countryCode": 213, 
+      "regionName": "ヨーロッパ州"
+    }, 
+    {
+      "countryName": "スイス", 
+      "regionCode": 2, 
+      "remarks": "Liechtensteinを含む。", 
+      "countryCode": 215, 
+      "regionName": "ヨーロッパ州"
+    }, 
+    {
+      "countryName": "アゾレス(葡)", 
+      "regionCode": 2, 
+      "remarks": "Fayal, Rico, San Jorge, Graciosa, Terceira, Sao Miguel等の葡領諸島をいう。", 
+      "countryCode": 216, 
+      "regionName": "ヨーロッパ州"
+    }, 
+    {
+      "countryName": "ポルトガル", 
+      "regionCode": 2, 
+      "remarks": "マディラを含む。", 
+      "countryCode": 217, 
+      "regionName": "ヨーロッパ州"
+    }, 
+    {
+      "countryName": "スペイン", 
+      "regionCode": 2, 
+      "remarks": "Baleares諸島を含む。", 
+      "countryCode": 218, 
+      "regionName": "ヨーロッパ州"
+    }, 
+    {
+      "countryName": "ジブラルタル(英)", 
+      "regionCode": 2, 
+      "remarks": "", 
+      "countryCode": 219, 
+      "regionName": "ヨーロッパ州"
+    }, 
+    {
+      "countryName": "イタリア", 
+      "regionCode": 2, 
+      "remarks": "Vatican City及びSan Marinoを含む。", 
+      "countryCode": 220, 
+      "regionName": "ヨーロッパ州"
+    }, 
+    {
+      "countryName": "マルタ", 
+      "regionCode": 2, 
+      "remarks": "Gozaを含む。", 
+      "countryCode": 221, 
+      "regionName": "ヨーロッパ州"
+    }, 
+    {
+      "countryName": "フィンランド", 
+      "regionCode": 2, 
+      "remarks": "", 
+      "countryCode": 222, 
+      "regionName": "ヨーロッパ州"
+    }, 
+    {
+      "countryName": "ポーランド", 
+      "regionCode": 2, 
+      "remarks": "", 
+      "countryCode": 223, 
+      "regionName": "ヨーロッパ州"
+    }, 
+    {
+      "countryName": "ロシア", 
+      "regionCode": 2, 
+      "remarks": "ロシア領アジアを含む。", 
+      "countryCode": 224, 
+      "regionName": "ヨーロッパ州"
+    }, 
+    {
+      "countryName": "オーストリア", 
+      "regionCode": 2, 
+      "remarks": "", 
+      "countryCode": 225, 
+      "regionName": "ヨーロッパ州"
+    }, 
+    {
+      "countryName": "ハンガリー", 
+      "regionCode": 2, 
+      "remarks": "", 
+      "countryCode": 227, 
+      "regionName": "ヨーロッパ州"
+    }, 
+    {
+      "countryName": "セルビア", 
+      "regionCode": 2, 
+      "remarks": "", 
+      "countryCode": 228, 
+      "regionName": "ヨーロッパ州"
+    }, 
+    {
+      "countryName": "アルバニア", 
+      "regionCode": 2, 
+      "remarks": "", 
+      "countryCode": 229, 
+      "regionName": "ヨーロッパ州"
+    }, 
+    {
+      "countryName": "ギリシャ", 
+      "regionCode": 2, 
+      "remarks": "", 
+      "countryCode": 230, 
+      "regionName": "ヨーロッパ州"
+    }, 
+    {
+      "countryName": "ルーマニア", 
+      "regionCode": 2, 
+      "remarks": "", 
+      "countryCode": 231, 
+      "regionName": "ヨーロッパ州"
+    }, 
+    {
+      "countryName": "ブルガリア", 
+      "regionCode": 2, 
+      "remarks": "", 
+      "countryCode": 232, 
+      "regionName": "ヨーロッパ州"
+    }, 
+    {
+      "countryName": "キプロス", 
+      "regionCode": 2, 
+      "remarks": "", 
+      "countryCode": 233, 
+      "regionName": "ヨーロッパ州"
+    }, 
+    {
+      "countryName": "トルコ", 
+      "regionCode": 2, 
+      "remarks": "", 
+      "countryCode": 234, 
+      "regionName": "ヨーロッパ州"
+    }, 
+    {
+      "countryName": "エストニア", 
+      "regionCode": 2, 
+      "remarks": "", 
+      "countryCode": 235, 
+      "regionName": "ヨーロッパ州"
+    }, 
+    {
+      "countryName": "ラトビア", 
+      "regionCode": 2, 
+      "remarks": "", 
+      "countryCode": 236, 
+      "regionName": "ヨーロッパ州"
+    }, 
+    {
+      "countryName": "リトアニア", 
+      "regionCode": 2, 
+      "remarks": "", 
+      "countryCode": 237, 
+      "regionName": "ヨーロッパ州"
+    }, 
+    {
+      "countryName": "ウクライナ", 
+      "regionCode": 2, 
+      "remarks": "", 
+      "countryCode": 238, 
+      "regionName": "ヨーロッパ州"
+    }, 
+    {
+      "countryName": "ベラルーシ", 
+      "regionCode": 2, 
+      "remarks": "", 
+      "countryCode": 239, 
+      "regionName": "ヨーロッパ州"
+    }, 
+    {
+      "countryName": "モルドバ", 
+      "regionCode": 2, 
+      "remarks": "", 
+      "countryCode": 240, 
+      "regionName": "ヨーロッパ州"
+    }, 
+    {
+      "countryName": "クロアチア", 
+      "regionCode": 2, 
+      "remarks": "", 
+      "countryCode": 241, 
+      "regionName": "ヨーロッパ州"
+    }, 
+    {
+      "countryName": "スロベニア", 
+      "regionCode": 2, 
+      "remarks": "", 
+      "countryCode": 242, 
+      "regionName": "ヨーロッパ州"
+    }, 
+    {
+      "countryName": "ボスニア・ヘルツェゴビナ", 
+      "regionCode": 2, 
+      "remarks": "", 
+      "countryCode": 243, 
+      "regionName": "ヨーロッパ州"
+    }, 
+    {
+      "countryName": "マケドニア旧ユーゴスラビア共和国", 
+      "regionCode": 2, 
+      "remarks": "", 
+      "countryCode": 244, 
+      "regionName": "ヨーロッパ州"
+    }, 
+    {
+      "countryName": "チェコ", 
+      "regionCode": 2, 
+      "remarks": "", 
+      "countryCode": 245, 
+      "regionName": "ヨーロッパ州"
+    }, 
+    {
+      "countryName": "スロバキア", 
+      "regionCode": 2, 
+      "remarks": "", 
+      "countryCode": 246, 
+      "regionName": "ヨーロッパ州"
+    }, 
+    {
+      "countryName": "モンテネグロ", 
+      "regionCode": 2, 
+      "remarks": "", 
+      "countryCode": 247, 
+      "regionName": "ヨーロッパ州"
+    }, 
+    {
+      "countryName": "コソボ", 
+      "regionCode": 2, 
+      "remarks": "", 
+      "countryCode": 248, 
+      "regionName": "ヨーロッパ州"
+    }, 
+    {
+      "countryName": "旧ソ連", 
+      "regionCode": 2, 
+      "remarks": "現在のアゼルバイジャン(150)、アルメニア(151)、ウズベキスタン(152)、カザフスタン(153)、キルギス(154)、タジキスタン(155)、トルクメニスタン(156)、ジョージア(157)、エストニア(235)、ラトビア(236)、リトアニア(237)、ウクライナ(238)、ベラルーシ(239)、モルドバ(240)、ロシア(224)。", 
+      "countryCode": 288, 
+      "regionName": "ヨーロッパ州"
+    }, 
+    {
+      "countryName": "旧ソ連諸国（除ロシア）", 
+      "regionCode": 2, 
+      "remarks": "現在のアゼルバイジャン(150)、アルメニア(151)、ウズベキスタン(152)、カザフスタン(153)、キルギス(154)、タジキスタン(155)、トルクメニスタン(156)、ジョージア(157)、エストニア(235)、ラトビア(236)、リトアニア(237)、ウクライナ(238)、ベラルーシ(239)、モルドバ(240)。", 
+      "countryCode": 289, 
+      "regionName": "ヨーロッパ州"
+    }, 
+    {
+      "countryName": "その他のヨーロッパ", 
+      "regionCode": 2, 
+      "remarks": "", 
+      "countryCode": 299, 
+      "regionName": "ヨーロッパ州"
+    }
+  ]
+}

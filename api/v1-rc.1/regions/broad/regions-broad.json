@@ -1,0 +1,29 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "regionCode": 1, 
+      "regionName": "アジア州"
+    }, 
+    {
+      "regionCode": 2, 
+      "regionName": "ヨーロッパ州"
+    }, 
+    {
+      "regionCode": 3, 
+      "regionName": "北アメリカ州"
+    }, 
+    {
+      "regionCode": 4, 
+      "regionName": "南アメリカ州"
+    }, 
+    {
+      "regionCode": 5, 
+      "regionName": "アフリカ州"
+    }, 
+    {
+      "regionCode": 6, 
+      "regionName": "大洋州"
+    }
+  ]
+}
