@@ -1,0 +1,20 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "ismcoCode": "32", 
+      "iscoCode": "D", 
+      "ismcoName": "商品販売従事者"
+    }, 
+    {
+      "ismcoCode": "33", 
+      "iscoCode": "D", 
+      "ismcoName": "販売類似職業従事者"
+    }, 
+    {
+      "ismcoCode": "34", 
+      "iscoCode": "D", 
+      "ismcoName": "営業職業従事者"
+    }
+  ]
+}

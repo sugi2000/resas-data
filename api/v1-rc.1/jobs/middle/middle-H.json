@@ -1,0 +1,60 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "ismcoCode": "49", 
+      "iscoCode": "H", 
+      "ismcoName": "生産設備制御・監視従事者（金属製品）"
+    }, 
+    {
+      "ismcoCode": "50", 
+      "iscoCode": "H", 
+      "ismcoName": "生産設備制御・監視従事者（金属製品を除く）"
+    }, 
+    {
+      "ismcoCode": "51", 
+      "iscoCode": "H", 
+      "ismcoName": "機械組立設備制御・監視従事者"
+    }, 
+    {
+      "ismcoCode": "52", 
+      "iscoCode": "H", 
+      "ismcoName": "製品製造・加工処理従事者（金属製品）"
+    }, 
+    {
+      "ismcoCode": "53", 
+      "iscoCode": "H", 
+      "ismcoName": "製品製造・加工処理従事者（金属製品を除く）"
+    }, 
+    {
+      "ismcoCode": "54", 
+      "iscoCode": "H", 
+      "ismcoName": "機械組立従事者"
+    }, 
+    {
+      "ismcoCode": "55", 
+      "iscoCode": "H", 
+      "ismcoName": "機械整備・修理従事者"
+    }, 
+    {
+      "ismcoCode": "56", 
+      "iscoCode": "H", 
+      "ismcoName": "製品検査従事者（金属製品）"
+    }, 
+    {
+      "ismcoCode": "57", 
+      "iscoCode": "H", 
+      "ismcoName": "製品検査従事者（金属製品を除く）"
+    }, 
+    {
+      "ismcoCode": "58", 
+      "iscoCode": "H", 
+      "ismcoName": "機械検査従事者"
+    }, 
+    {
+      "ismcoCode": "59", 
+      "iscoCode": "H", 
+      "ismcoName": "生産関連・生産類似作業従事者"
+    }
+  ]
+}

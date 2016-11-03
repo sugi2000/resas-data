@@ -1,0 +1,20 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "ismcoCode": "46", 
+      "iscoCode": "G", 
+      "ismcoName": "農業従事者"
+    }, 
+    {
+      "ismcoCode": "47", 
+      "iscoCode": "G", 
+      "ismcoName": "林業従事者"
+    }, 
+    {
+      "ismcoCode": "48", 
+      "iscoCode": "G", 
+      "ismcoName": "漁業従事者"
+    }
+  ]
+}

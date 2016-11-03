@@ -1,0 +1,25 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "ismcoCode": "01", 
+      "iscoCode": "A", 
+      "ismcoName": "管理的公務員"
+    }, 
+    {
+      "ismcoCode": "02", 
+      "iscoCode": "A", 
+      "ismcoName": "法人・団体役員"
+    }, 
+    {
+      "ismcoCode": "03", 
+      "iscoCode": "A", 
+      "ismcoName": "法人・団体管理職員"
+    }, 
+    {
+      "ismcoCode": "04", 
+      "iscoCode": "A", 
+      "ismcoName": "その他の管理的職業従事者"
+    }
+  ]
+}

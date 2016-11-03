@@ -1,0 +1,40 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "ismcoCode": "25", 
+      "iscoCode": "C", 
+      "ismcoName": "一般事務従事者"
+    }, 
+    {
+      "ismcoCode": "26", 
+      "iscoCode": "C", 
+      "ismcoName": "会計事務従事者"
+    }, 
+    {
+      "ismcoCode": "27", 
+      "iscoCode": "C", 
+      "ismcoName": "生産関連事務従事者"
+    }, 
+    {
+      "ismcoCode": "28", 
+      "iscoCode": "C", 
+      "ismcoName": "営業・販売事務従事者"
+    }, 
+    {
+      "ismcoCode": "29", 
+      "iscoCode": "C", 
+      "ismcoName": "外勤事務従事者"
+    }, 
+    {
+      "ismcoCode": "30", 
+      "iscoCode": "C", 
+      "ismcoName": "運輸・郵便事務従事者"
+    }, 
+    {
+      "ismcoCode": "31", 
+      "iscoCode": "C", 
+      "ismcoName": "事務用機器操作員"
+    }
+  ]
+}

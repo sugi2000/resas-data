@@ -1,0 +1,105 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "ismcoCode": "05", 
+      "iscoCode": "B", 
+      "ismcoName": "研究者"
+    }, 
+    {
+      "ismcoCode": "06", 
+      "iscoCode": "B", 
+      "ismcoName": "農林水産技術者"
+    }, 
+    {
+      "ismcoCode": "07", 
+      "iscoCode": "B", 
+      "ismcoName": "製造技術者（開発）"
+    }, 
+    {
+      "ismcoCode": "08", 
+      "iscoCode": "B", 
+      "ismcoName": "製造技術者（開発を除く）"
+    }, 
+    {
+      "ismcoCode": "09", 
+      "iscoCode": "B", 
+      "ismcoName": "建築・土木・測量技術者"
+    }, 
+    {
+      "ismcoCode": "10", 
+      "iscoCode": "B", 
+      "ismcoName": "情報処理・通信技術者"
+    }, 
+    {
+      "ismcoCode": "11", 
+      "iscoCode": "B", 
+      "ismcoName": "その他の技術者"
+    }, 
+    {
+      "ismcoCode": "12", 
+      "iscoCode": "B", 
+      "ismcoName": "医師，歯科医師，獣医師，薬剤師"
+    }, 
+    {
+      "ismcoCode": "13", 
+      "iscoCode": "B", 
+      "ismcoName": "保健師，助産師，看護師"
+    }, 
+    {
+      "ismcoCode": "14", 
+      "iscoCode": "B", 
+      "ismcoName": "医療技術者"
+    }, 
+    {
+      "ismcoCode": "15", 
+      "iscoCode": "B", 
+      "ismcoName": "その他の保健医療従事者"
+    }, 
+    {
+      "ismcoCode": "16", 
+      "iscoCode": "B", 
+      "ismcoName": "社会福祉専門職業従事者"
+    }, 
+    {
+      "ismcoCode": "17", 
+      "iscoCode": "B", 
+      "ismcoName": "法務従事者"
+    }, 
+    {
+      "ismcoCode": "18", 
+      "iscoCode": "B", 
+      "ismcoName": "経営・金融・保険専門職業従事者"
+    }, 
+    {
+      "ismcoCode": "19", 
+      "iscoCode": "B", 
+      "ismcoName": "教員"
+    }, 
+    {
+      "ismcoCode": "20", 
+      "iscoCode": "B", 
+      "ismcoName": "宗教家"
+    }, 
+    {
+      "ismcoCode": "21", 
+      "iscoCode": "B", 
+      "ismcoName": "著述家，記者，編集者"
+    }, 
+    {
+      "ismcoCode": "22", 
+      "iscoCode": "B", 
+      "ismcoName": "美術家，デザイナー，写真家，映像撮影者"
+    }, 
+    {
+      "ismcoCode": "23", 
+      "iscoCode": "B", 
+      "ismcoName": "音楽家，舞台芸術家"
+    }, 
+    {
+      "ismcoCode": "24", 
+      "iscoCode": "B", 
+      "ismcoName": "その他の専門的職業従事者"
+    }
+  ]
+}

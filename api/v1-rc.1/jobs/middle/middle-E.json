@@ -1,0 +1,45 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "ismcoCode": "35", 
+      "iscoCode": "E", 
+      "ismcoName": "家庭生活支援サービス職業従事者"
+    }, 
+    {
+      "ismcoCode": "36", 
+      "iscoCode": "E", 
+      "ismcoName": "介護サービス職業従事者"
+    }, 
+    {
+      "ismcoCode": "37", 
+      "iscoCode": "E", 
+      "ismcoName": "保健医療サービス職業従事者"
+    }, 
+    {
+      "ismcoCode": "38", 
+      "iscoCode": "E", 
+      "ismcoName": "生活衛生サービス職業従事者"
+    }, 
+    {
+      "ismcoCode": "39", 
+      "iscoCode": "E", 
+      "ismcoName": "飲食物調理従事者"
+    }, 
+    {
+      "ismcoCode": "40", 
+      "iscoCode": "E", 
+      "ismcoName": "接客・給仕職業従事者"
+    }, 
+    {
+      "ismcoCode": "41", 
+      "iscoCode": "E", 
+      "ismcoName": "居住施設・ビル等管理人"
+    }, 
+    {
+      "ismcoCode": "42", 
+      "iscoCode": "E", 
+      "ismcoName": "その他のサービス職業従事者"
+    }
+  ]
+}

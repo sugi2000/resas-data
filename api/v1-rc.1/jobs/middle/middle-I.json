@@ -1,0 +1,30 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "ismcoCode": "60", 
+      "iscoCode": "I", 
+      "ismcoName": "鉄道運転従事者"
+    }, 
+    {
+      "ismcoCode": "61", 
+      "iscoCode": "I", 
+      "ismcoName": "自動車運転従事者"
+    }, 
+    {
+      "ismcoCode": "62", 
+      "iscoCode": "I", 
+      "ismcoName": "船舶・航空機運転従事者"
+    }, 
+    {
+      "ismcoCode": "63", 
+      "iscoCode": "I", 
+      "ismcoName": "その他の輸送従事者"
+    }, 
+    {
+      "ismcoCode": "64", 
+      "iscoCode": "I", 
+      "ismcoName": "定置・建設機械運転従事者"
+    }
+  ]
+}

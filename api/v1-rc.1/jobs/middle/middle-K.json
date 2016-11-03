@@ -1,0 +1,25 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "ismcoCode": "70", 
+      "iscoCode": "K", 
+      "ismcoName": "運搬従事者"
+    }, 
+    {
+      "ismcoCode": "71", 
+      "iscoCode": "K", 
+      "ismcoName": "清掃従事者"
+    }, 
+    {
+      "ismcoCode": "72", 
+      "iscoCode": "K", 
+      "ismcoName": "包装従事者"
+    }, 
+    {
+      "ismcoCode": "73", 
+      "iscoCode": "K", 
+      "ismcoName": "その他の運搬・清掃・包装等従事者"
+    }
+  ]
+}

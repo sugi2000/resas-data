@@ -1,0 +1,20 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "ismcoCode": "43", 
+      "iscoCode": "F", 
+      "ismcoName": "自衛官"
+    }, 
+    {
+      "ismcoCode": "44", 
+      "iscoCode": "F", 
+      "ismcoName": "司法警察職員"
+    }, 
+    {
+      "ismcoCode": "45", 
+      "iscoCode": "F", 
+      "ismcoName": "その他の保安職業従事者"
+    }
+  ]
+}

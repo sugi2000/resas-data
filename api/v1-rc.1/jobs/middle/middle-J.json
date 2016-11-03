@@ -1,0 +1,30 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "ismcoCode": "65", 
+      "iscoCode": "J", 
+      "ismcoName": "建設躯体工事従事者"
+    }, 
+    {
+      "ismcoCode": "66", 
+      "iscoCode": "J", 
+      "ismcoName": "建設従事者（建設躯体工事従事者を除く）"
+    }, 
+    {
+      "ismcoCode": "67", 
+      "iscoCode": "J", 
+      "ismcoName": "電気工事従事者"
+    }, 
+    {
+      "ismcoCode": "68", 
+      "iscoCode": "J", 
+      "ismcoName": "土木作業従事者"
+    }, 
+    {
+      "ismcoCode": "69", 
+      "iscoCode": "J", 
+      "ismcoName": "採掘従事者"
+    }
+  ]
+}
