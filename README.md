@@ -9,6 +9,8 @@ RESAS-API利用規約に従って自由に利用できます。
 - [産業大分類](api/v1-rc.1/industries/broad/)
 - [産業中分類](api/v1-rc.1/industries/middle/)
 - [産業小分類](api/v1-rc.1/industries/narrow/)
+- [職業大分類](api/v1-rc.1/jobs/broad/)
+- [職業中分類](api/v1-rc.1/jobs/middle/)
 
 参考
 - [RESAS-API](https://opendata.resas-portal.go.jp/)
