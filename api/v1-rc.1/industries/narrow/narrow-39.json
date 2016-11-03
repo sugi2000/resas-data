@@ -1,0 +1,20 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "390", 
+      "simcCode": "39", 
+      "siscName": "管理，補助的経済活動を行う事業所（39情報サービス業）"
+    }, 
+    {
+      "siscCode": "391", 
+      "simcCode": "39", 
+      "siscName": "ソフトウェア業"
+    }, 
+    {
+      "siscCode": "392", 
+      "simcCode": "39", 
+      "siscName": "情報処理・提供サービス業"
+    }
+  ]
+}

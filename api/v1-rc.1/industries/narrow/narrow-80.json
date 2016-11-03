@@ -1,0 +1,45 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "800", 
+      "simcCode": "80", 
+      "siscName": "管理，補助的経済活動を行う事業所（80娯楽業）"
+    }, 
+    {
+      "siscCode": "801", 
+      "simcCode": "80", 
+      "siscName": "映画館"
+    }, 
+    {
+      "siscCode": "802", 
+      "simcCode": "80", 
+      "siscName": "興行場（別掲を除く），興行団"
+    }, 
+    {
+      "siscCode": "803", 
+      "simcCode": "80", 
+      "siscName": "競輪・競馬等の競走場，競技団"
+    }, 
+    {
+      "siscCode": "804", 
+      "simcCode": "80", 
+      "siscName": "スポーツ施設提供業"
+    }, 
+    {
+      "siscCode": "805", 
+      "simcCode": "80", 
+      "siscName": "公園，遊園地"
+    }, 
+    {
+      "siscCode": "806", 
+      "simcCode": "80", 
+      "siscName": "遊戯場"
+    }, 
+    {
+      "siscCode": "809", 
+      "simcCode": "80", 
+      "siscName": "その他の娯楽業"
+    }
+  ]
+}

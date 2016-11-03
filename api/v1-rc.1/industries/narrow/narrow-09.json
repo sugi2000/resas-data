@@ -1,0 +1,55 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "090", 
+      "simcCode": "09", 
+      "siscName": "管理，補助的経済活動を行う事業所（09食料品製造業）"
+    }, 
+    {
+      "siscCode": "091", 
+      "simcCode": "09", 
+      "siscName": "畜産食料品製造業"
+    }, 
+    {
+      "siscCode": "092", 
+      "simcCode": "09", 
+      "siscName": "水産食料品製造業"
+    }, 
+    {
+      "siscCode": "093", 
+      "simcCode": "09", 
+      "siscName": "野菜缶詰・果実缶詰・農産保存食料品製造業"
+    }, 
+    {
+      "siscCode": "094", 
+      "simcCode": "09", 
+      "siscName": "調味料製造業"
+    }, 
+    {
+      "siscCode": "095", 
+      "simcCode": "09", 
+      "siscName": "糖類製造業"
+    }, 
+    {
+      "siscCode": "096", 
+      "simcCode": "09", 
+      "siscName": "精穀・製粉業"
+    }, 
+    {
+      "siscCode": "097", 
+      "simcCode": "09", 
+      "siscName": "パン・菓子製造業"
+    }, 
+    {
+      "siscCode": "098", 
+      "simcCode": "09", 
+      "siscName": "動植物油脂製造業"
+    }, 
+    {
+      "siscCode": "099", 
+      "simcCode": "09", 
+      "siscName": "その他の食料品製造業"
+    }
+  ]
+}

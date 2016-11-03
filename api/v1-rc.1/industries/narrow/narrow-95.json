@@ -1,0 +1,25 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "950", 
+      "simcCode": "95", 
+      "siscName": "管理，補助的経済活動を行う事業所（95その他のサービス業）"
+    }, 
+    {
+      "siscCode": "951", 
+      "simcCode": "95", 
+      "siscName": "集会場"
+    }, 
+    {
+      "siscCode": "952", 
+      "simcCode": "95", 
+      "siscName": "と畜場"
+    }, 
+    {
+      "siscCode": "959", 
+      "simcCode": "95", 
+      "siscName": "他に分類されないサービス業"
+    }
+  ]
+}

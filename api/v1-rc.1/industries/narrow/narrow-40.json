@@ -1,0 +1,15 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "400", 
+      "simcCode": "40", 
+      "siscName": "管理，補助的経済活動を行う事業所（40インターネット附随サービス業）"
+    }, 
+    {
+      "siscCode": "401", 
+      "simcCode": "40", 
+      "siscName": "インターネット附随サービス業"
+    }
+  ]
+}

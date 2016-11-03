@@ -1,0 +1,40 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "480", 
+      "simcCode": "48", 
+      "siscName": "管理，補助的経済活動を行う事業所（48運輸に附帯するサービス業）"
+    }, 
+    {
+      "siscCode": "481", 
+      "simcCode": "48", 
+      "siscName": "港湾運送業"
+    }, 
+    {
+      "siscCode": "482", 
+      "simcCode": "48", 
+      "siscName": "貨物運送取扱業（集配利用運送業を除く）"
+    }, 
+    {
+      "siscCode": "483", 
+      "simcCode": "48", 
+      "siscName": "運送代理店"
+    }, 
+    {
+      "siscCode": "484", 
+      "simcCode": "48", 
+      "siscName": "こん包業"
+    }, 
+    {
+      "siscCode": "485", 
+      "simcCode": "48", 
+      "siscName": "運輸施設提供業"
+    }, 
+    {
+      "siscCode": "489", 
+      "simcCode": "48", 
+      "siscName": "その他の運輸に附帯するサービス業"
+    }
+  ]
+}

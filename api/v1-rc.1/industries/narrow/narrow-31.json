@@ -1,0 +1,40 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "310", 
+      "simcCode": "31", 
+      "siscName": "管理，補助的経済活動を行う事業所（31輸送用機械器具製造業）"
+    }, 
+    {
+      "siscCode": "311", 
+      "simcCode": "31", 
+      "siscName": "自動車・同附属品製造業"
+    }, 
+    {
+      "siscCode": "312", 
+      "simcCode": "31", 
+      "siscName": "鉄道車両・同部分品製造業"
+    }, 
+    {
+      "siscCode": "313", 
+      "simcCode": "31", 
+      "siscName": "船舶製造・修理業，舶用機関製造業"
+    }, 
+    {
+      "siscCode": "314", 
+      "simcCode": "31", 
+      "siscName": "航空機・同附属品製造業"
+    }, 
+    {
+      "siscCode": "315", 
+      "simcCode": "31", 
+      "siscName": "産業用運搬車両・同部分品・附属品製造業"
+    }, 
+    {
+      "siscCode": "319", 
+      "simcCode": "31", 
+      "siscName": "その他の輸送用機械器具製造業"
+    }
+  ]
+}

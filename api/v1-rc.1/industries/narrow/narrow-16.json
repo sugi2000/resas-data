@@ -1,0 +1,45 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "160", 
+      "simcCode": "16", 
+      "siscName": "管理，補助的経済活動を行う事業所（16化学工業）"
+    }, 
+    {
+      "siscCode": "161", 
+      "simcCode": "16", 
+      "siscName": "化学肥料製造業"
+    }, 
+    {
+      "siscCode": "162", 
+      "simcCode": "16", 
+      "siscName": "無機化学工業製品製造業"
+    }, 
+    {
+      "siscCode": "163", 
+      "simcCode": "16", 
+      "siscName": "有機化学工業製品製造業"
+    }, 
+    {
+      "siscCode": "164", 
+      "simcCode": "16", 
+      "siscName": "油脂加工製品・石けん・合成洗剤・界面活性剤・塗料製造業"
+    }, 
+    {
+      "siscCode": "165", 
+      "simcCode": "16", 
+      "siscName": "医薬品製造業"
+    }, 
+    {
+      "siscCode": "166", 
+      "simcCode": "16", 
+      "siscName": "化粧品・歯磨・その他の化粧用調整品製造業"
+    }, 
+    {
+      "siscCode": "169", 
+      "simcCode": "16", 
+      "siscName": "その他の化学工業"
+    }
+  ]
+}

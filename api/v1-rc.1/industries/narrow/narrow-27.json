@@ -1,0 +1,40 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "270", 
+      "simcCode": "27", 
+      "siscName": "管理，補助的経済活動を行う事業所（27業務用機械器具製造業）"
+    }, 
+    {
+      "siscCode": "271", 
+      "simcCode": "27", 
+      "siscName": "事務用機械器具製造業"
+    }, 
+    {
+      "siscCode": "272", 
+      "simcCode": "27", 
+      "siscName": "サービス用・娯楽用機械器具製造業"
+    }, 
+    {
+      "siscCode": "273", 
+      "simcCode": "27", 
+      "siscName": "計量器・測定器・分析機器・試験機・測量機械器具・理化学機械器具製造業"
+    }, 
+    {
+      "siscCode": "274", 
+      "simcCode": "27", 
+      "siscName": "医療用機械器具・医療用品製造業"
+    }, 
+    {
+      "siscCode": "275", 
+      "simcCode": "27", 
+      "siscName": "光学機械器具・レンズ製造業"
+    }, 
+    {
+      "siscCode": "276", 
+      "simcCode": "27", 
+      "siscName": "武器製造業"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "simcCode": "86", 
+      "simcName": "郵便局", 
+      "sicCode": "Q"
+    }, 
+    {
+      "simcCode": "87", 
+      "simcName": "協同組合（他に分類されないもの）", 
+      "sicCode": "Q"
+    }
+  ]
+}

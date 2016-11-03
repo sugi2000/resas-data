@@ -1,0 +1,30 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "540", 
+      "simcCode": "54", 
+      "siscName": "管理，補助的経済活動を行う事業所（54機械器具卸売業）"
+    }, 
+    {
+      "siscCode": "541", 
+      "simcCode": "54", 
+      "siscName": "産業機械器具卸売業"
+    }, 
+    {
+      "siscCode": "542", 
+      "simcCode": "54", 
+      "siscName": "自動車卸売業"
+    }, 
+    {
+      "siscCode": "543", 
+      "simcCode": "54", 
+      "siscName": "電気機械器具卸売業"
+    }, 
+    {
+      "siscCode": "549", 
+      "simcCode": "54", 
+      "siscName": "その他の機械器具卸売業"
+    }
+  ]
+}

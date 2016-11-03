@@ -1,0 +1,15 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "330", 
+      "simcCode": "33", 
+      "siscName": "管理，補助的経済活動を行う事業所（33電気業）"
+    }, 
+    {
+      "siscCode": "331", 
+      "simcCode": "33", 
+      "siscName": "電気業"
+    }
+  ]
+}

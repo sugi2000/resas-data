@@ -1,0 +1,20 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "460", 
+      "simcCode": "46", 
+      "siscName": "管理，補助的経済活動を行う事業所（46航空運輸業）"
+    }, 
+    {
+      "siscCode": "461", 
+      "simcCode": "46", 
+      "siscName": "航空運送業"
+    }, 
+    {
+      "siscCode": "462", 
+      "simcCode": "46", 
+      "siscName": "航空機使用業（航空運送業を除く）"
+    }
+  ]
+}

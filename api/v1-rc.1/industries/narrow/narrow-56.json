@@ -1,0 +1,20 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "560", 
+      "simcCode": "56", 
+      "siscName": "管理，補助的経済活動を行う事業所（56各種商品小売業）"
+    }, 
+    {
+      "siscCode": "561", 
+      "simcCode": "56", 
+      "siscName": "百貨店，総合スーパー"
+    }, 
+    {
+      "siscCode": "569", 
+      "simcCode": "56", 
+      "siscName": "その他の各種商品小売業（従業者が常時50人未満のもの）"
+    }
+  ]
+}

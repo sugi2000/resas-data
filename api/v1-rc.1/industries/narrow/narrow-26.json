@@ -1,0 +1,50 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "260", 
+      "simcCode": "26", 
+      "siscName": "管理，補助的経済活動を行う事業所（26生産用機械器具製造業）"
+    }, 
+    {
+      "siscCode": "261", 
+      "simcCode": "26", 
+      "siscName": "農業用機械製造業（農業用器具を除く）"
+    }, 
+    {
+      "siscCode": "262", 
+      "simcCode": "26", 
+      "siscName": "建設機械・鉱山機械製造業"
+    }, 
+    {
+      "siscCode": "263", 
+      "simcCode": "26", 
+      "siscName": "繊維機械製造業"
+    }, 
+    {
+      "siscCode": "264", 
+      "simcCode": "26", 
+      "siscName": "生活関連産業用機械製造業"
+    }, 
+    {
+      "siscCode": "265", 
+      "simcCode": "26", 
+      "siscName": "基礎素材産業用機械製造業"
+    }, 
+    {
+      "siscCode": "266", 
+      "simcCode": "26", 
+      "siscName": "金属加工機械製造業"
+    }, 
+    {
+      "siscCode": "267", 
+      "simcCode": "26", 
+      "siscName": "半導体・フラットパネルディスプレイ製造装置製造業"
+    }, 
+    {
+      "siscCode": "269", 
+      "simcCode": "26", 
+      "siscName": "その他の生産用機械・同部分品製造業"
+    }
+  ]
+}

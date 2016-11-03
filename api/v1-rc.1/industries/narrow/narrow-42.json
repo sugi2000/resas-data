@@ -1,0 +1,15 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "420", 
+      "simcCode": "42", 
+      "siscName": "管理，補助的経済活動を行う事業所（42鉄道業）"
+    }, 
+    {
+      "siscCode": "421", 
+      "simcCode": "42", 
+      "siscName": "鉄道業"
+    }
+  ]
+}

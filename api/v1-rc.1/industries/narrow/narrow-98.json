@@ -1,0 +1,15 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "981", 
+      "simcCode": "98", 
+      "siscName": "都道府県機関"
+    }, 
+    {
+      "siscCode": "982", 
+      "simcCode": "98", 
+      "siscName": "市町村機関"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "850", 
+      "simcCode": "85", 
+      "siscName": "管理，補助的経済活動を行う事業所（85社会保険・社会福祉・介護事業）"
+    }, 
+    {
+      "siscCode": "851", 
+      "simcCode": "85", 
+      "siscName": "社会保険事業団体"
+    }, 
+    {
+      "siscCode": "852", 
+      "simcCode": "85", 
+      "siscName": "福祉事務所"
+    }, 
+    {
+      "siscCode": "853", 
+      "simcCode": "85", 
+      "siscName": "児童福祉事業"
+    }, 
+    {
+      "siscCode": "854", 
+      "simcCode": "85", 
+      "siscName": "老人福祉・介護事業"
+    }, 
+    {
+      "siscCode": "855", 
+      "simcCode": "85", 
+      "siscName": "障害者福祉事業"
+    }, 
+    {
+      "siscCode": "859", 
+      "simcCode": "85", 
+      "siscName": "その他の社会保険・社会福祉・介護事業"
+    }
+  ]
+}

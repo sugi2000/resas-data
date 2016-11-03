@@ -1,0 +1,25 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "simcCode": "33", 
+      "simcName": "電気業", 
+      "sicCode": "F"
+    }, 
+    {
+      "simcCode": "34", 
+      "simcName": "ガス業", 
+      "sicCode": "F"
+    }, 
+    {
+      "simcCode": "35", 
+      "simcName": "熱供給業", 
+      "sicCode": "F"
+    }, 
+    {
+      "simcCode": "36", 
+      "simcName": "水道業", 
+      "sicCode": "F"
+    }
+  ]
+}

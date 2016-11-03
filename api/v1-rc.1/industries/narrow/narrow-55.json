@@ -1,0 +1,30 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "550", 
+      "simcCode": "55", 
+      "siscName": "管理，補助的経済活動を行う事業所（55その他の卸売業）"
+    }, 
+    {
+      "siscCode": "551", 
+      "simcCode": "55", 
+      "siscName": "家具・建具・じゅう器等卸売業"
+    }, 
+    {
+      "siscCode": "552", 
+      "simcCode": "55", 
+      "siscName": "医薬品・化粧品等卸売業"
+    }, 
+    {
+      "siscCode": "553", 
+      "simcCode": "55", 
+      "siscName": "紙・紙製品卸売業"
+    }, 
+    {
+      "siscCode": "559", 
+      "simcCode": "55", 
+      "siscName": "他に分類されない卸売業"
+    }
+  ]
+}

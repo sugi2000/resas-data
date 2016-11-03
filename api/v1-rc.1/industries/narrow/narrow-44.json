@@ -1,0 +1,35 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "440", 
+      "simcCode": "44", 
+      "siscName": "管理，補助的経済活動を行う事業所（44道路貨物運送業）"
+    }, 
+    {
+      "siscCode": "441", 
+      "simcCode": "44", 
+      "siscName": "一般貨物自動車運送業"
+    }, 
+    {
+      "siscCode": "442", 
+      "simcCode": "44", 
+      "siscName": "特定貨物自動車運送業"
+    }, 
+    {
+      "siscCode": "443", 
+      "simcCode": "44", 
+      "siscName": "貨物軽自動車運送業"
+    }, 
+    {
+      "siscCode": "444", 
+      "simcCode": "44", 
+      "siscName": "集配利用運送業"
+    }, 
+    {
+      "siscCode": "449", 
+      "simcCode": "44", 
+      "siscName": "その他の道路貨物運送業"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "860", 
+      "simcCode": "86", 
+      "siscName": "管理，補助的経済活動を行う事業所（86郵便局）"
+    }, 
+    {
+      "siscCode": "861", 
+      "simcCode": "86", 
+      "siscName": "郵便局"
+    }, 
+    {
+      "siscCode": "862", 
+      "simcCode": "86", 
+      "siscName": "郵便局受託業"
+    }
+  ]
+}

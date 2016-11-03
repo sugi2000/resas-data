@@ -1,0 +1,15 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "simcCode": "01", 
+      "simcName": "農業", 
+      "sicCode": "A"
+    }, 
+    {
+      "simcCode": "02", 
+      "simcName": "林業", 
+      "sicCode": "A"
+    }
+  ]
+}

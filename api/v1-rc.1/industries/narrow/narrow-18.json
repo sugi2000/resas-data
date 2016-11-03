@@ -1,0 +1,40 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "180", 
+      "simcCode": "18", 
+      "siscName": "管理，補助的経済活動を行う事業所（18プラスチック製品製造業）"
+    }, 
+    {
+      "siscCode": "181", 
+      "simcCode": "18", 
+      "siscName": "プラスチック板・棒・管・継手・異形押出製品製造業"
+    }, 
+    {
+      "siscCode": "182", 
+      "simcCode": "18", 
+      "siscName": "プラスチックフィルム・シート・床材・合成皮革製造業"
+    }, 
+    {
+      "siscCode": "183", 
+      "simcCode": "18", 
+      "siscName": "工業用プラスチック製品製造業"
+    }, 
+    {
+      "siscCode": "184", 
+      "simcCode": "18", 
+      "siscName": "発泡・強化プラスチック製品製造業"
+    }, 
+    {
+      "siscCode": "185", 
+      "simcCode": "18", 
+      "siscName": "プラスチック成形材料製造業（廃プラスチックを含む）"
+    }, 
+    {
+      "siscCode": "189", 
+      "simcCode": "18", 
+      "siscName": "その他のプラスチック製品製造業"
+    }
+  ]
+}

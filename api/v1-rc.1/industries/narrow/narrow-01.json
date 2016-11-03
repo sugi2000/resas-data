@@ -1,0 +1,30 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "010", 
+      "simcCode": "01", 
+      "siscName": "管理，補助的経済活動を行う事業所（01農業）"
+    }, 
+    {
+      "siscCode": "011", 
+      "simcCode": "01", 
+      "siscName": "耕種農業"
+    }, 
+    {
+      "siscCode": "012", 
+      "simcCode": "01", 
+      "siscName": "畜産農業"
+    }, 
+    {
+      "siscCode": "013", 
+      "simcCode": "01", 
+      "siscName": "農業サービス業（園芸サービス業を除く）"
+    }, 
+    {
+      "siscCode": "014", 
+      "simcCode": "01", 
+      "siscName": "園芸サービス業"
+    }
+  ]
+}

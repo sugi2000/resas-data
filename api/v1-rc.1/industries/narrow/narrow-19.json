@@ -1,0 +1,30 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "190", 
+      "simcCode": "19", 
+      "siscName": "管理，補助的経済活動を行う事業所（19ゴム製品製造業）"
+    }, 
+    {
+      "siscCode": "191", 
+      "simcCode": "19", 
+      "siscName": "タイヤ・チューブ製造業"
+    }, 
+    {
+      "siscCode": "192", 
+      "simcCode": "19", 
+      "siscName": "ゴム製・プラスチック製履物・同附属品製造業"
+    }, 
+    {
+      "siscCode": "193", 
+      "simcCode": "19", 
+      "siscName": "ゴムベルト・ゴムホース・工業用ゴム製品製造業"
+    }, 
+    {
+      "siscCode": "199", 
+      "simcCode": "19", 
+      "siscName": "その他のゴム製品製造業"
+    }
+  ]
+}

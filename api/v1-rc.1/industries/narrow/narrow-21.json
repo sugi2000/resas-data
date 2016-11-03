@@ -1,0 +1,55 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "210", 
+      "simcCode": "21", 
+      "siscName": "管理，補助的経済活動を行う事業所（21窯業・土石製品製造業）"
+    }, 
+    {
+      "siscCode": "211", 
+      "simcCode": "21", 
+      "siscName": "ガラス・同製品製造業"
+    }, 
+    {
+      "siscCode": "212", 
+      "simcCode": "21", 
+      "siscName": "セメント・同製品製造業"
+    }, 
+    {
+      "siscCode": "213", 
+      "simcCode": "21", 
+      "siscName": "建設用粘土製品製造業（陶磁器製を除く)"
+    }, 
+    {
+      "siscCode": "214", 
+      "simcCode": "21", 
+      "siscName": "陶磁器・同関連製品製造業"
+    }, 
+    {
+      "siscCode": "215", 
+      "simcCode": "21", 
+      "siscName": "耐火物製造業"
+    }, 
+    {
+      "siscCode": "216", 
+      "simcCode": "21", 
+      "siscName": "炭素・黒鉛製品製造業"
+    }, 
+    {
+      "siscCode": "217", 
+      "simcCode": "21", 
+      "siscName": "研磨材・同製品製造業"
+    }, 
+    {
+      "siscCode": "218", 
+      "simcCode": "21", 
+      "siscName": "骨材・石工品等製造業"
+    }, 
+    {
+      "siscCode": "219", 
+      "simcCode": "21", 
+      "siscName": "その他の窯業・土石製品製造業"
+    }
+  ]
+}

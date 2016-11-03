@@ -1,0 +1,25 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "590", 
+      "simcCode": "59", 
+      "siscName": "管理，補助的経済活動を行う事業所（59機械器具小売業）"
+    }, 
+    {
+      "siscCode": "591", 
+      "simcCode": "59", 
+      "siscName": "自動車小売業"
+    }, 
+    {
+      "siscCode": "592", 
+      "simcCode": "59", 
+      "siscName": "自転車小売業"
+    }, 
+    {
+      "siscCode": "593", 
+      "simcCode": "59", 
+      "siscName": "機械器具小売業（自動車，自転車を除く）"
+    }
+  ]
+}

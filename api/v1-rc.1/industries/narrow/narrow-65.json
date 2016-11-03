@@ -1,0 +1,20 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "650", 
+      "simcCode": "65", 
+      "siscName": "管理，補助的経済活動を行う事業所（65金融商品取引業，商品先物取引業）"
+    }, 
+    {
+      "siscCode": "651", 
+      "simcCode": "65", 
+      "siscName": "金融商品取引業"
+    }, 
+    {
+      "siscCode": "652", 
+      "simcCode": "65", 
+      "siscName": "商品先物取引業，商品投資顧問業"
+    }
+  ]
+}

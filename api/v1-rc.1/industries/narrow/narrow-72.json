@@ -1,0 +1,55 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "720", 
+      "simcCode": "72", 
+      "siscName": "管理，補助的経済活動を行う事業所（72専門サービス業）"
+    }, 
+    {
+      "siscCode": "721", 
+      "simcCode": "72", 
+      "siscName": "法律事務所，特許事務所"
+    }, 
+    {
+      "siscCode": "722", 
+      "simcCode": "72", 
+      "siscName": "公証人役場，司法書士事務所，土地家屋調査士事務所"
+    }, 
+    {
+      "siscCode": "723", 
+      "simcCode": "72", 
+      "siscName": "行政書士事務所"
+    }, 
+    {
+      "siscCode": "724", 
+      "simcCode": "72", 
+      "siscName": "公認会計士事務所，税理士事務所"
+    }, 
+    {
+      "siscCode": "725", 
+      "simcCode": "72", 
+      "siscName": "社会保険労務士事務所"
+    }, 
+    {
+      "siscCode": "726", 
+      "simcCode": "72", 
+      "siscName": "デザイン業"
+    }, 
+    {
+      "siscCode": "727", 
+      "simcCode": "72", 
+      "siscName": "著述・芸術家業"
+    }, 
+    {
+      "siscCode": "728", 
+      "simcCode": "72", 
+      "siscName": "経営コンサルタント業，純粋持株会社"
+    }, 
+    {
+      "siscCode": "729", 
+      "simcCode": "72", 
+      "siscName": "その他の専門サービス業"
+    }
+  ]
+}

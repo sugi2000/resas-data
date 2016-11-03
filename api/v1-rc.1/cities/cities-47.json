@@ -1,0 +1,251 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "cityName": "那覇市", 
+      "cityCode": "47201", 
+      "prefCode": 47, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "宜野湾市", 
+      "cityCode": "47205", 
+      "prefCode": 47, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "石垣市", 
+      "cityCode": "47207", 
+      "prefCode": 47, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "浦添市", 
+      "cityCode": "47208", 
+      "prefCode": 47, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "名護市", 
+      "cityCode": "47209", 
+      "prefCode": 47, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "糸満市", 
+      "cityCode": "47210", 
+      "prefCode": 47, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "沖縄市", 
+      "cityCode": "47211", 
+      "prefCode": 47, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "豊見城市", 
+      "cityCode": "47212", 
+      "prefCode": 47, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "うるま市", 
+      "cityCode": "47213", 
+      "prefCode": 47, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "宮古島市", 
+      "cityCode": "47214", 
+      "prefCode": 47, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "南城市", 
+      "cityCode": "47215", 
+      "prefCode": 47, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "国頭村", 
+      "cityCode": "47301", 
+      "prefCode": 47, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "大宜味村", 
+      "cityCode": "47302", 
+      "prefCode": 47, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "東村", 
+      "cityCode": "47303", 
+      "prefCode": 47, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "今帰仁村", 
+      "cityCode": "47306", 
+      "prefCode": 47, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "本部町", 
+      "cityCode": "47308", 
+      "prefCode": 47, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "恩納村", 
+      "cityCode": "47311", 
+      "prefCode": 47, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "宜野座村", 
+      "cityCode": "47313", 
+      "prefCode": 47, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "金武町", 
+      "cityCode": "47314", 
+      "prefCode": 47, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "伊江村", 
+      "cityCode": "47315", 
+      "prefCode": 47, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "読谷村", 
+      "cityCode": "47324", 
+      "prefCode": 47, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "嘉手納町", 
+      "cityCode": "47325", 
+      "prefCode": 47, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "北谷町", 
+      "cityCode": "47326", 
+      "prefCode": 47, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "北中城村", 
+      "cityCode": "47327", 
+      "prefCode": 47, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "中城村", 
+      "cityCode": "47328", 
+      "prefCode": 47, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "西原町", 
+      "cityCode": "47329", 
+      "prefCode": 47, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "与那原町", 
+      "cityCode": "47348", 
+      "prefCode": 47, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "南風原町", 
+      "cityCode": "47350", 
+      "prefCode": 47, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "渡嘉敷村", 
+      "cityCode": "47353", 
+      "prefCode": 47, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "座間味村", 
+      "cityCode": "47354", 
+      "prefCode": 47, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "粟国村", 
+      "cityCode": "47355", 
+      "prefCode": 47, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "渡名喜村", 
+      "cityCode": "47356", 
+      "prefCode": 47, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "南大東村", 
+      "cityCode": "47357", 
+      "prefCode": 47, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "北大東村", 
+      "cityCode": "47358", 
+      "prefCode": 47, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "伊平屋村", 
+      "cityCode": "47359", 
+      "prefCode": 47, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "伊是名村", 
+      "cityCode": "47360", 
+      "prefCode": 47, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "久米島町", 
+      "cityCode": "47361", 
+      "prefCode": 47, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "八重瀬町", 
+      "cityCode": "47362", 
+      "prefCode": 47, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "多良間村", 
+      "cityCode": "47375", 
+      "prefCode": 47, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "竹富町", 
+      "cityCode": "47381", 
+      "prefCode": 47, 
+      "bigCityFlag": "0"
+    }, 
+    {
+      "cityName": "与那国町", 
+      "cityCode": "47382", 
+      "prefCode": 47, 
+      "bigCityFlag": "0"
+    }
+  ]
+}

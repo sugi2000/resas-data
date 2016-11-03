@@ -1,0 +1,20 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "simcCode": "78", 
+      "simcName": "洗濯・理容・美容・浴場業", 
+      "sicCode": "N"
+    }, 
+    {
+      "simcCode": "79", 
+      "simcName": "その他の生活関連サービス業", 
+      "sicCode": "N"
+    }, 
+    {
+      "simcCode": "80", 
+      "simcName": "娯楽業", 
+      "sicCode": "N"
+    }
+  ]
+}

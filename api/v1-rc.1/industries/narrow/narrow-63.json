@@ -1,0 +1,20 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "630", 
+      "simcCode": "63", 
+      "siscName": "管理，補助的経済活動を行う事業所（63協同組織金融業）"
+    }, 
+    {
+      "siscCode": "631", 
+      "simcCode": "63", 
+      "siscName": "中小企業等金融業"
+    }, 
+    {
+      "siscCode": "632", 
+      "simcCode": "63", 
+      "siscName": "農林水産金融業"
+    }
+  ]
+}

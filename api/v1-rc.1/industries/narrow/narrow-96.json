@@ -1,0 +1,15 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "961", 
+      "simcCode": "96", 
+      "siscName": "外国公館"
+    }, 
+    {
+      "siscCode": "969", 
+      "simcCode": "96", 
+      "siscName": "その他の外国公務"
+    }
+  ]
+}

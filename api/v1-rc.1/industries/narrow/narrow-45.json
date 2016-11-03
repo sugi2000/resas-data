@@ -1,0 +1,30 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "450", 
+      "simcCode": "45", 
+      "siscName": "管理，補助的経済活動を行う事業所（45水運業）"
+    }, 
+    {
+      "siscCode": "451", 
+      "simcCode": "45", 
+      "siscName": "外航海運業"
+    }, 
+    {
+      "siscCode": "452", 
+      "simcCode": "45", 
+      "siscName": "沿海海運業"
+    }, 
+    {
+      "siscCode": "453", 
+      "simcCode": "45", 
+      "siscName": "内陸水運業"
+    }, 
+    {
+      "siscCode": "454", 
+      "simcCode": "45", 
+      "siscName": "船舶貸渡業"
+    }
+  ]
+}

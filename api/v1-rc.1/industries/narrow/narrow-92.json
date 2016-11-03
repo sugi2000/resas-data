@@ -1,0 +1,30 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "920", 
+      "simcCode": "92", 
+      "siscName": "管理，補助的経済活動を行う事業所（92その他の事業サービス業）"
+    }, 
+    {
+      "siscCode": "921", 
+      "simcCode": "92", 
+      "siscName": "速記・ワープロ入力・複写業"
+    }, 
+    {
+      "siscCode": "922", 
+      "simcCode": "92", 
+      "siscName": "建物サービス業"
+    }, 
+    {
+      "siscCode": "923", 
+      "simcCode": "92", 
+      "siscName": "警備業"
+    }, 
+    {
+      "siscCode": "929", 
+      "simcCode": "92", 
+      "siscName": "他に分類されない事業サービス業"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "simcCode": "09", 
+      "simcName": "食料品製造業", 
+      "sicCode": "E"
+    }, 
+    {
+      "simcCode": "10", 
+      "simcName": "飲料・たばこ・飼料製造業", 
+      "sicCode": "E"
+    }, 
+    {
+      "simcCode": "11", 
+      "simcName": "繊維工業", 
+      "sicCode": "E"
+    }, 
+    {
+      "simcCode": "12", 
+      "simcName": "木材・木製品製造業（家具を除く）", 
+      "sicCode": "E"
+    }, 
+    {
+      "simcCode": "13", 
+      "simcName": "家具・装備品製造業", 
+      "sicCode": "E"
+    }, 
+    {
+      "simcCode": "14", 
+      "simcName": "パルプ・紙・紙加工品製造業", 
+      "sicCode": "E"
+    }, 
+    {
+      "simcCode": "15", 
+      "simcName": "印刷・同関連業", 
+      "sicCode": "E"
+    }, 
+    {
+      "simcCode": "16", 
+      "simcName": "化学工業", 
+      "sicCode": "E"
+    }, 
+    {
+      "simcCode": "17", 
+      "simcName": "石油製品・石炭製品製造業", 
+      "sicCode": "E"
+    }, 
+    {
+      "simcCode": "18", 
+      "simcName": "プラスチック製品製造業（別掲を除く）", 
+      "sicCode": "E"
+    }, 
+    {
+      "simcCode": "19", 
+      "simcName": "ゴム製品製造業", 
+      "sicCode": "E"
+    }, 
+    {
+      "simcCode": "20", 
+      "simcName": "なめし革・同製品・毛皮製造業", 
+      "sicCode": "E"
+    }, 
+    {
+      "simcCode": "21", 
+      "simcName": "窯業・土石製品製造業", 
+      "sicCode": "E"
+    }, 
+    {
+      "simcCode": "22", 
+      "simcName": "鉄鋼業", 
+      "sicCode": "E"
+    }, 
+    {
+      "simcCode": "23", 
+      "simcName": "非鉄金属製造業", 
+      "sicCode": "E"
+    }, 
+    {
+      "simcCode": "24", 
+      "simcName": "金属製品製造業", 
+      "sicCode": "E"
+    }, 
+    {
+      "simcCode": "25", 
+      "simcName": "はん用機械器具製造業", 
+      "sicCode": "E"
+    }, 
+    {
+      "simcCode": "26", 
+      "simcName": "生産用機械器具製造業", 
+      "sicCode": "E"
+    }, 
+    {
+      "simcCode": "27", 
+      "simcName": "業務用機械器具製造業", 
+      "sicCode": "E"
+    }, 
+    {
+      "simcCode": "28", 
+      "simcName": "電子部品・デバイス・電子回路製造業", 
+      "sicCode": "E"
+    }, 
+    {
+      "simcCode": "29", 
+      "simcName": "電気機械器具製造業", 
+      "sicCode": "E"
+    }, 
+    {
+      "simcCode": "30", 
+      "simcName": "情報通信機械器具製造業", 
+      "sicCode": "E"
+    }, 
+    {
+      "simcCode": "31", 
+      "simcName": "輸送用機械器具製造業", 
+      "sicCode": "E"
+    }, 
+    {
+      "simcCode": "32", 
+      "simcName": "その他の製造業", 
+      "sicCode": "E"
+    }
+  ]
+}

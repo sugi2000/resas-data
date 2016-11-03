@@ -1,0 +1,35 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "570", 
+      "simcCode": "57", 
+      "siscName": "管理，補助的経済活動を行う事業所（57織物・衣服・身の回り品小売業）"
+    }, 
+    {
+      "siscCode": "571", 
+      "simcCode": "57", 
+      "siscName": "呉服・服地・寝具小売業"
+    }, 
+    {
+      "siscCode": "572", 
+      "simcCode": "57", 
+      "siscName": "男子服小売業"
+    }, 
+    {
+      "siscCode": "573", 
+      "simcCode": "57", 
+      "siscName": "婦人・子供服小売業"
+    }, 
+    {
+      "siscCode": "574", 
+      "simcCode": "57", 
+      "siscName": "靴・履物小売業"
+    }, 
+    {
+      "siscCode": "579", 
+      "simcCode": "57", 
+      "siscName": "その他の織物・衣服・身の回り品小売業"
+    }
+  ]
+}

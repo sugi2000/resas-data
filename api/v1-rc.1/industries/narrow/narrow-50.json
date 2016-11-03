@@ -1,0 +1,15 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "500", 
+      "simcCode": "50", 
+      "siscName": "管理，補助的経済活動を行う事業所（50各種商品卸売業）"
+    }, 
+    {
+      "siscCode": "501", 
+      "simcCode": "50", 
+      "siscName": "各種商品卸売業"
+    }
+  ]
+}

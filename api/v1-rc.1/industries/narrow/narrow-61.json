@@ -1,0 +1,25 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "610", 
+      "simcCode": "61", 
+      "siscName": "管理，補助的経済活動を行う事業所（61無店舗小売業）"
+    }, 
+    {
+      "siscCode": "611", 
+      "simcCode": "61", 
+      "siscName": "通信販売・訪問販売小売業"
+    }, 
+    {
+      "siscCode": "612", 
+      "simcCode": "61", 
+      "siscName": "自動販売機による小売業"
+    }, 
+    {
+      "siscCode": "619", 
+      "simcCode": "61", 
+      "siscName": "その他の無店舗小売業"
+    }
+  ]
+}

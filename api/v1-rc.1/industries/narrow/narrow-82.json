@@ -1,0 +1,35 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "820", 
+      "simcCode": "82", 
+      "siscName": "管理，補助的経済活動を行う事業所（82その他の教育，学習支援業）"
+    }, 
+    {
+      "siscCode": "821", 
+      "simcCode": "82", 
+      "siscName": "社会教育"
+    }, 
+    {
+      "siscCode": "822", 
+      "simcCode": "82", 
+      "siscName": "職業・教育支援施設"
+    }, 
+    {
+      "siscCode": "823", 
+      "simcCode": "82", 
+      "siscName": "学習塾"
+    }, 
+    {
+      "siscCode": "824", 
+      "simcCode": "82", 
+      "siscName": "教養・技能教授業"
+    }, 
+    {
+      "siscCode": "829", 
+      "simcCode": "82", 
+      "siscName": "他に分類されない教育，学習支援業"
+    }
+  ]
+}

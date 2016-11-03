@@ -1,0 +1,20 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "simcCode": "83", 
+      "simcName": "医療業", 
+      "sicCode": "P"
+    }, 
+    {
+      "simcCode": "84", 
+      "simcName": "保健衛生", 
+      "sicCode": "P"
+    }, 
+    {
+      "simcCode": "85", 
+      "simcName": "社会保険・社会福祉・介護事業", 
+      "sicCode": "P"
+    }
+  ]
+}

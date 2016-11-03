@@ -1,0 +1,15 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "730", 
+      "simcCode": "73", 
+      "siscName": "管理，補助的経済活動を行う事業所（73広告業）"
+    }, 
+    {
+      "siscCode": "731", 
+      "simcCode": "73", 
+      "siscName": "広告業"
+    }
+  ]
+}

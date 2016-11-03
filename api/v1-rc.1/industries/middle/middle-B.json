@@ -1,0 +1,15 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "simcCode": "03", 
+      "simcName": "漁業（水産養殖業を除く）", 
+      "sicCode": "B"
+    }, 
+    {
+      "simcCode": "04", 
+      "simcName": "水産養殖業", 
+      "sicCode": "B"
+    }
+  ]
+}

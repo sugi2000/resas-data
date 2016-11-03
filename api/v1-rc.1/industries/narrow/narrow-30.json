@@ -1,0 +1,25 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "300", 
+      "simcCode": "30", 
+      "siscName": "管理，補助的経済活動を行う事業所（30情報通信機械器具製造業）"
+    }, 
+    {
+      "siscCode": "301", 
+      "simcCode": "30", 
+      "siscName": "通信機械器具・同関連機械器具製造業"
+    }, 
+    {
+      "siscCode": "302", 
+      "simcCode": "30", 
+      "siscName": "映像・音響機械器具製造業"
+    }, 
+    {
+      "siscCode": "303", 
+      "simcCode": "30", 
+      "siscName": "電子計算機・同附属装置製造業"
+    }
+  ]
+}

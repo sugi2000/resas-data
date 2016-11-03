@@ -1,0 +1,15 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "simcCode": "81", 
+      "simcName": "学校教育", 
+      "sicCode": "O"
+    }, 
+    {
+      "simcCode": "82", 
+      "simcName": "その他の教育，学習支援業", 
+      "sicCode": "O"
+    }
+  ]
+}

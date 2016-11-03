@@ -1,0 +1,40 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "700", 
+      "simcCode": "70", 
+      "siscName": "管理，補助的経済活動を行う事業所（70物品賃貸業）"
+    }, 
+    {
+      "siscCode": "701", 
+      "simcCode": "70", 
+      "siscName": "各種物品賃貸業"
+    }, 
+    {
+      "siscCode": "702", 
+      "simcCode": "70", 
+      "siscName": "産業用機械器具賃貸業"
+    }, 
+    {
+      "siscCode": "703", 
+      "simcCode": "70", 
+      "siscName": "事務用機械器具賃貸業"
+    }, 
+    {
+      "siscCode": "704", 
+      "simcCode": "70", 
+      "siscName": "自動車賃貸業"
+    }, 
+    {
+      "siscCode": "705", 
+      "simcCode": "70", 
+      "siscName": "スポーツ・娯楽用品賃貸業"
+    }, 
+    {
+      "siscCode": "709", 
+      "simcCode": "70", 
+      "siscName": "その他の物品賃貸業"
+    }
+  ]
+}

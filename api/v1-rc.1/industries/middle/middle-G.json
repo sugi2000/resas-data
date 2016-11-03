@@ -1,0 +1,30 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "simcCode": "37", 
+      "simcName": "通信業", 
+      "sicCode": "G"
+    }, 
+    {
+      "simcCode": "38", 
+      "simcName": "放送業", 
+      "sicCode": "G"
+    }, 
+    {
+      "simcCode": "39", 
+      "simcName": "情報サービス業", 
+      "sicCode": "G"
+    }, 
+    {
+      "simcCode": "40", 
+      "simcName": "インターネット附随サービス業", 
+      "sicCode": "G"
+    }, 
+    {
+      "simcCode": "41", 
+      "simcName": "映像・音声・文字情報制作業", 
+      "sicCode": "G"
+    }
+  ]
+}

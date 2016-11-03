@@ -1,0 +1,25 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "370", 
+      "simcCode": "37", 
+      "siscName": "管理，補助的経済活動を行う事業所（37通信業）"
+    }, 
+    {
+      "siscCode": "371", 
+      "simcCode": "37", 
+      "siscName": "固定電気通信業"
+    }, 
+    {
+      "siscCode": "372", 
+      "simcCode": "37", 
+      "siscName": "移動電気通信業"
+    }, 
+    {
+      "siscCode": "373", 
+      "simcCode": "37", 
+      "siscName": "電気通信に附帯するサービス業"
+    }
+  ]
+}

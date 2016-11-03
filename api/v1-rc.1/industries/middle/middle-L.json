@@ -1,0 +1,25 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "simcCode": "71", 
+      "simcName": "学術・開発研究機関", 
+      "sicCode": "L"
+    }, 
+    {
+      "simcCode": "72", 
+      "simcName": "専門サービス業（他に分類されないもの）", 
+      "sicCode": "L"
+    }, 
+    {
+      "simcCode": "73", 
+      "simcName": "広告業", 
+      "sicCode": "L"
+    }, 
+    {
+      "simcCode": "74", 
+      "simcName": "技術サービス業（他に分類されないもの）", 
+      "sicCode": "L"
+    }
+  ]
+}

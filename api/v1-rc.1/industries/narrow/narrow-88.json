@@ -1,0 +1,25 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "880", 
+      "simcCode": "88", 
+      "siscName": "管理，補助的経済活動を行う事業所（88廃棄物処理業）"
+    }, 
+    {
+      "siscCode": "881", 
+      "simcCode": "88", 
+      "siscName": "一般廃棄物処理業"
+    }, 
+    {
+      "siscCode": "882", 
+      "simcCode": "88", 
+      "siscName": "産業廃棄物処理業"
+    }, 
+    {
+      "siscCode": "889", 
+      "simcCode": "88", 
+      "siscName": "その他の廃棄物処理業"
+    }
+  ]
+}

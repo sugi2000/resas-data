@@ -1,0 +1,40 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "530", 
+      "simcCode": "53", 
+      "siscName": "管理，補助的経済活動を行う事業所（53建築材料，鉱物・金属材料等卸売業）"
+    }, 
+    {
+      "siscCode": "531", 
+      "simcCode": "53", 
+      "siscName": "建築材料卸売業"
+    }, 
+    {
+      "siscCode": "532", 
+      "simcCode": "53", 
+      "siscName": "化学製品卸売業"
+    }, 
+    {
+      "siscCode": "533", 
+      "simcCode": "53", 
+      "siscName": "石油・鉱物卸売業"
+    }, 
+    {
+      "siscCode": "534", 
+      "simcCode": "53", 
+      "siscName": "鉄鋼製品卸売業"
+    }, 
+    {
+      "siscCode": "535", 
+      "simcCode": "53", 
+      "siscName": "非鉄金属卸売業"
+    }, 
+    {
+      "siscCode": "536", 
+      "simcCode": "53", 
+      "siscName": "再生資源卸売業"
+    }
+  ]
+}

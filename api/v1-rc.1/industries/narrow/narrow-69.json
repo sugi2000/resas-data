@@ -1,0 +1,30 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "690", 
+      "simcCode": "69", 
+      "siscName": "管理，補助的経済活動を行う事業所（69不動産賃貸業・管理業）"
+    }, 
+    {
+      "siscCode": "691", 
+      "simcCode": "69", 
+      "siscName": "不動産賃貸業（貸家業，貸間業を除く）"
+    }, 
+    {
+      "siscCode": "692", 
+      "simcCode": "69", 
+      "siscName": "貸家業，貸間業"
+    }, 
+    {
+      "siscCode": "693", 
+      "simcCode": "69", 
+      "siscName": "駐車場業"
+    }, 
+    {
+      "siscCode": "694", 
+      "simcCode": "69", 
+      "siscName": "不動産管理業"
+    }
+  ]
+}

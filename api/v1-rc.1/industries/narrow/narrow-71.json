@@ -1,0 +1,20 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "710", 
+      "simcCode": "71", 
+      "siscName": "管理，補助的経済活動を行う事業所（71学術・開発研究機関）"
+    }, 
+    {
+      "siscCode": "711", 
+      "simcCode": "71", 
+      "siscName": "自然科学研究所"
+    }, 
+    {
+      "siscCode": "712", 
+      "simcCode": "71", 
+      "siscName": "人文・社会科学研究所"
+    }
+  ]
+}

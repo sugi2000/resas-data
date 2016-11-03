@@ -1,0 +1,55 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "070", 
+      "simcCode": "07", 
+      "siscName": "管理，補助的経済活動を行う事業所（07職別工事業）"
+    }, 
+    {
+      "siscCode": "071", 
+      "simcCode": "07", 
+      "siscName": "大工工事業"
+    }, 
+    {
+      "siscCode": "072", 
+      "simcCode": "07", 
+      "siscName": "とび・土工・コンクリート工事業"
+    }, 
+    {
+      "siscCode": "073", 
+      "simcCode": "07", 
+      "siscName": "鉄骨・鉄筋工事業"
+    }, 
+    {
+      "siscCode": "074", 
+      "simcCode": "07", 
+      "siscName": "石工・れんが・タイル・ブロック工事業"
+    }, 
+    {
+      "siscCode": "075", 
+      "simcCode": "07", 
+      "siscName": "左官工事業"
+    }, 
+    {
+      "siscCode": "076", 
+      "simcCode": "07", 
+      "siscName": "板金・金物工事業"
+    }, 
+    {
+      "siscCode": "077", 
+      "simcCode": "07", 
+      "siscName": "塗装工事業"
+    }, 
+    {
+      "siscCode": "078", 
+      "simcCode": "07", 
+      "siscName": "床・内装工事業"
+    }, 
+    {
+      "siscCode": "079", 
+      "simcCode": "07", 
+      "siscName": "その他の職別工事業"
+    }
+  ]
+}

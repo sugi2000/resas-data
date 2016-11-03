@@ -1,0 +1,20 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "030", 
+      "simcCode": "03", 
+      "siscName": "管理，補助的経済活動を行う事業所（03漁業）"
+    }, 
+    {
+      "siscCode": "031", 
+      "simcCode": "03", 
+      "siscName": "海面漁業"
+    }, 
+    {
+      "siscCode": "032", 
+      "simcCode": "03", 
+      "siscName": "内水面漁業"
+    }
+  ]
+}

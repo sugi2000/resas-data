@@ -1,0 +1,20 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "680", 
+      "simcCode": "68", 
+      "siscName": "管理，補助的経済活動を行う事業所（68不動産取引業）"
+    }, 
+    {
+      "siscCode": "681", 
+      "simcCode": "68", 
+      "siscName": "建物売買業，土地売買業"
+    }, 
+    {
+      "siscCode": "682", 
+      "simcCode": "68", 
+      "siscName": "不動産代理業・仲介業"
+    }
+  ]
+}

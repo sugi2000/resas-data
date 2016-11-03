@@ -1,0 +1,15 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "340", 
+      "simcCode": "34", 
+      "siscName": "管理，補助的経済活動を行う事業所（34ガス業）"
+    }, 
+    {
+      "siscCode": "341", 
+      "simcCode": "34", 
+      "siscName": "ガス業"
+    }
+  ]
+}

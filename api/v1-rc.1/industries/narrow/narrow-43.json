@@ -1,0 +1,30 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "430", 
+      "simcCode": "43", 
+      "siscName": "管理，補助的経済活動を行う事業所（43道路旅客運送業）"
+    }, 
+    {
+      "siscCode": "431", 
+      "simcCode": "43", 
+      "siscName": "一般乗合旅客自動車運送業"
+    }, 
+    {
+      "siscCode": "432", 
+      "simcCode": "43", 
+      "siscName": "一般乗用旅客自動車運送業"
+    }, 
+    {
+      "siscCode": "433", 
+      "simcCode": "43", 
+      "siscName": "一般貸切旅客自動車運送業"
+    }, 
+    {
+      "siscCode": "439", 
+      "simcCode": "43", 
+      "siscName": "その他の道路旅客運送業"
+    }
+  ]
+}

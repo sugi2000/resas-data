@@ -1,0 +1,35 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "020", 
+      "simcCode": "02", 
+      "siscName": "管理，補助的経済活動を行う事業所（02林業）"
+    }, 
+    {
+      "siscCode": "021", 
+      "simcCode": "02", 
+      "siscName": "育林業"
+    }, 
+    {
+      "siscCode": "022", 
+      "simcCode": "02", 
+      "siscName": "素材生産業"
+    }, 
+    {
+      "siscCode": "023", 
+      "simcCode": "02", 
+      "siscName": "特用林産物生産業（きのこ類の栽培を除く）"
+    }, 
+    {
+      "siscCode": "024", 
+      "simcCode": "02", 
+      "siscName": "林業サービス業"
+    }, 
+    {
+      "siscCode": "029", 
+      "simcCode": "02", 
+      "siscName": "その他の林業"
+    }
+  ]
+}

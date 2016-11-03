@@ -1,0 +1,25 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "360", 
+      "simcCode": "36", 
+      "siscName": "管理，補助的経済活動を行う事業所（36水道業）"
+    }, 
+    {
+      "siscCode": "361", 
+      "simcCode": "36", 
+      "siscName": "上水道業"
+    }, 
+    {
+      "siscCode": "362", 
+      "simcCode": "36", 
+      "siscName": "工業用水道業"
+    }, 
+    {
+      "siscCode": "363", 
+      "simcCode": "36", 
+      "siscName": "下水道業"
+    }
+  ]
+}

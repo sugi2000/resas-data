@@ -1,0 +1,55 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "810", 
+      "simcCode": "81", 
+      "siscName": "管理，補助的経済活動を行う事業所（81学校教育）"
+    }, 
+    {
+      "siscCode": "811", 
+      "simcCode": "81", 
+      "siscName": "幼稚園"
+    }, 
+    {
+      "siscCode": "812", 
+      "simcCode": "81", 
+      "siscName": "小学校"
+    }, 
+    {
+      "siscCode": "813", 
+      "simcCode": "81", 
+      "siscName": "中学校"
+    }, 
+    {
+      "siscCode": "814", 
+      "simcCode": "81", 
+      "siscName": "高等学校，中等教育学校"
+    }, 
+    {
+      "siscCode": "815", 
+      "simcCode": "81", 
+      "siscName": "特別支援学校"
+    }, 
+    {
+      "siscCode": "816", 
+      "simcCode": "81", 
+      "siscName": "高等教育機関"
+    }, 
+    {
+      "siscCode": "817", 
+      "simcCode": "81", 
+      "siscName": "専修学校，各種学校"
+    }, 
+    {
+      "siscCode": "818", 
+      "simcCode": "81", 
+      "siscName": "学校教育支援機関"
+    }, 
+    {
+      "siscCode": "819", 
+      "simcCode": "81", 
+      "siscName": "幼保連携型認定こども園"
+    }
+  ]
+}

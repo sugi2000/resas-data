@@ -1,0 +1,35 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "170", 
+      "simcCode": "17", 
+      "siscName": "管理，補助的経済活動を行う事業所（17石油製品・石炭製品製造業）"
+    }, 
+    {
+      "siscCode": "171", 
+      "simcCode": "17", 
+      "siscName": "石油精製業"
+    }, 
+    {
+      "siscCode": "172", 
+      "simcCode": "17", 
+      "siscName": "潤滑油・グリース製造業（石油精製業によらないもの）"
+    }, 
+    {
+      "siscCode": "173", 
+      "simcCode": "17", 
+      "siscName": "コークス製造業"
+    }, 
+    {
+      "siscCode": "174", 
+      "simcCode": "17", 
+      "siscName": "舗装材料製造業"
+    }, 
+    {
+      "siscCode": "179", 
+      "simcCode": "17", 
+      "siscName": "その他の石油製品・石炭製品製造業"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "830", 
+      "simcCode": "83", 
+      "siscName": "管理，補助的経済活動を行う事業所（83医療業）"
+    }, 
+    {
+      "siscCode": "831", 
+      "simcCode": "83", 
+      "siscName": "病院"
+    }, 
+    {
+      "siscCode": "832", 
+      "simcCode": "83", 
+      "siscName": "一般診療所"
+    }, 
+    {
+      "siscCode": "833", 
+      "simcCode": "83", 
+      "siscName": "歯科診療所"
+    }, 
+    {
+      "siscCode": "834", 
+      "simcCode": "83", 
+      "siscName": "助産・看護業"
+    }, 
+    {
+      "siscCode": "835", 
+      "simcCode": "83", 
+      "siscName": "療術業"
+    }, 
+    {
+      "siscCode": "836", 
+      "simcCode": "83", 
+      "siscName": "医療に附帯するサービス業"
+    }
+  ]
+}

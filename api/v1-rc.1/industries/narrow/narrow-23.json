@@ -1,0 +1,40 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "230", 
+      "simcCode": "23", 
+      "siscName": "管理，補助的経済活動を行う事業所（23非鉄金属製造業）"
+    }, 
+    {
+      "siscCode": "231", 
+      "simcCode": "23", 
+      "siscName": "非鉄金属第1次製錬・精製業"
+    }, 
+    {
+      "siscCode": "232", 
+      "simcCode": "23", 
+      "siscName": "非鉄金属第2次製錬・精製業（非鉄金属合金製造業を含む）"
+    }, 
+    {
+      "siscCode": "233", 
+      "simcCode": "23", 
+      "siscName": "非鉄金属・同合金圧延業（抽伸，押出しを含む）"
+    }, 
+    {
+      "siscCode": "234", 
+      "simcCode": "23", 
+      "siscName": "電線・ケーブル製造業"
+    }, 
+    {
+      "siscCode": "235", 
+      "simcCode": "23", 
+      "siscName": "非鉄金属素形材製造業"
+    }, 
+    {
+      "siscCode": "239", 
+      "simcCode": "23", 
+      "siscName": "その他の非鉄金属製造業"
+    }
+  ]
+}

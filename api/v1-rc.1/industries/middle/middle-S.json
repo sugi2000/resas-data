@@ -1,0 +1,15 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "simcCode": "97", 
+      "simcName": "国家公務", 
+      "sicCode": "S"
+    }, 
+    {
+      "simcCode": "98", 
+      "simcName": "地方公務", 
+      "sicCode": "S"
+    }
+  ]
+}

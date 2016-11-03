@@ -1,0 +1,40 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "780", 
+      "simcCode": "78", 
+      "siscName": "管理，補助的経済活動を行う事業所（78洗濯・理容・美容・浴場業）"
+    }, 
+    {
+      "siscCode": "781", 
+      "simcCode": "78", 
+      "siscName": "洗濯業"
+    }, 
+    {
+      "siscCode": "782", 
+      "simcCode": "78", 
+      "siscName": "理容業"
+    }, 
+    {
+      "siscCode": "783", 
+      "simcCode": "78", 
+      "siscName": "美容業"
+    }, 
+    {
+      "siscCode": "784", 
+      "simcCode": "78", 
+      "siscName": "一般公衆浴場業"
+    }, 
+    {
+      "siscCode": "785", 
+      "simcCode": "78", 
+      "siscName": "その他の公衆浴場業"
+    }, 
+    {
+      "siscCode": "789", 
+      "simcCode": "78", 
+      "siscName": "その他の洗濯・理容・美容・浴場業"
+    }
+  ]
+}

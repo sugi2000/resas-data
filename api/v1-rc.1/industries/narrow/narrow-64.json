@@ -1,0 +1,30 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "640", 
+      "simcCode": "64", 
+      "siscName": "管理，補助的経済活動を行う事業所（64貸金業，クレジットカード業等非預金信用機関）"
+    }, 
+    {
+      "siscCode": "641", 
+      "simcCode": "64", 
+      "siscName": "貸金業"
+    }, 
+    {
+      "siscCode": "642", 
+      "simcCode": "64", 
+      "siscName": "質屋"
+    }, 
+    {
+      "siscCode": "643", 
+      "simcCode": "64", 
+      "siscName": "クレジットカード業，割賦金融業"
+    }, 
+    {
+      "siscCode": "649", 
+      "simcCode": "64", 
+      "siscName": "その他の非預金信用機関"
+    }
+  ]
+}

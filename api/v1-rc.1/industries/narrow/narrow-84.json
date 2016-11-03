@@ -1,0 +1,25 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "840", 
+      "simcCode": "84", 
+      "siscName": "管理，補助的経済活動を行う事業所（84保健衛生）"
+    }, 
+    {
+      "siscCode": "841", 
+      "simcCode": "84", 
+      "siscName": "保健所"
+    }, 
+    {
+      "siscCode": "842", 
+      "simcCode": "84", 
+      "siscName": "健康相談施設"
+    }, 
+    {
+      "siscCode": "849", 
+      "simcCode": "84", 
+      "siscName": "その他の保健衛生"
+    }
+  ]
+}

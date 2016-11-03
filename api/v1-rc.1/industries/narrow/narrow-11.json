@@ -1,0 +1,55 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "110", 
+      "simcCode": "11", 
+      "siscName": "管理，補助的経済活動を行う事業所（11繊維工業）"
+    }, 
+    {
+      "siscCode": "111", 
+      "simcCode": "11", 
+      "siscName": "製糸業，紡績業，化学繊維・ねん糸等製造業"
+    }, 
+    {
+      "siscCode": "112", 
+      "simcCode": "11", 
+      "siscName": "織物業"
+    }, 
+    {
+      "siscCode": "113", 
+      "simcCode": "11", 
+      "siscName": "ニット生地製造業"
+    }, 
+    {
+      "siscCode": "114", 
+      "simcCode": "11", 
+      "siscName": "染色整理業"
+    }, 
+    {
+      "siscCode": "115", 
+      "simcCode": "11", 
+      "siscName": "綱・網・レース・繊維粗製品製造業"
+    }, 
+    {
+      "siscCode": "116", 
+      "simcCode": "11", 
+      "siscName": "外衣・シャツ製造業（和式を除く）"
+    }, 
+    {
+      "siscCode": "117", 
+      "simcCode": "11", 
+      "siscName": "下着類製造業"
+    }, 
+    {
+      "siscCode": "118", 
+      "simcCode": "11", 
+      "siscName": "和装製品・その他の衣服・繊維製身の回り品製造業"
+    }, 
+    {
+      "siscCode": "119", 
+      "simcCode": "11", 
+      "siscName": "その他の繊維製品製造業"
+    }
+  ]
+}

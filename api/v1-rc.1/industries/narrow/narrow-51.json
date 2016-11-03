@@ -1,0 +1,25 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "510", 
+      "simcCode": "51", 
+      "siscName": "管理，補助的経済活動を行う事業所（51繊維・衣服等卸売業）"
+    }, 
+    {
+      "siscCode": "511", 
+      "simcCode": "51", 
+      "siscName": "繊維品卸売業（衣服，身の回り品を除く）"
+    }, 
+    {
+      "siscCode": "512", 
+      "simcCode": "51", 
+      "siscName": "衣服卸売業"
+    }, 
+    {
+      "siscCode": "513", 
+      "simcCode": "51", 
+      "siscName": "身の回り品卸売業"
+    }
+  ]
+}

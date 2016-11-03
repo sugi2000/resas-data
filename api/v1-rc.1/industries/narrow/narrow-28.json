@@ -1,0 +1,40 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "280", 
+      "simcCode": "28", 
+      "siscName": "管理，補助的経済活動を行う事業所（28電子部品・デバイス・電子回路製造業）"
+    }, 
+    {
+      "siscCode": "281", 
+      "simcCode": "28", 
+      "siscName": "電子デバイス製造業"
+    }, 
+    {
+      "siscCode": "282", 
+      "simcCode": "28", 
+      "siscName": "電子部品製造業"
+    }, 
+    {
+      "siscCode": "283", 
+      "simcCode": "28", 
+      "siscName": "記録メディア製造業"
+    }, 
+    {
+      "siscCode": "284", 
+      "simcCode": "28", 
+      "siscName": "電子回路製造業"
+    }, 
+    {
+      "siscCode": "285", 
+      "simcCode": "28", 
+      "siscName": "ユニット部品製造業"
+    }, 
+    {
+      "siscCode": "289", 
+      "simcCode": "28", 
+      "siscName": "その他の電子部品・デバイス・電子回路製造業"
+    }
+  ]
+}

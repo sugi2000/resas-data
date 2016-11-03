@@ -1,0 +1,45 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "simcCode": "42", 
+      "simcName": "鉄道業", 
+      "sicCode": "H"
+    }, 
+    {
+      "simcCode": "43", 
+      "simcName": "道路旅客運送業", 
+      "sicCode": "H"
+    }, 
+    {
+      "simcCode": "44", 
+      "simcName": "道路貨物運送業", 
+      "sicCode": "H"
+    }, 
+    {
+      "simcCode": "45", 
+      "simcName": "水運業", 
+      "sicCode": "H"
+    }, 
+    {
+      "simcCode": "46", 
+      "simcName": "航空運輸業", 
+      "sicCode": "H"
+    }, 
+    {
+      "simcCode": "47", 
+      "simcName": "倉庫業", 
+      "sicCode": "H"
+    }, 
+    {
+      "simcCode": "48", 
+      "simcName": "運輸に附帯するサービス業", 
+      "sicCode": "H"
+    }, 
+    {
+      "simcCode": "49", 
+      "simcName": "郵便業（信書便事業を含む）", 
+      "sicCode": "H"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "060", 
+      "simcCode": "06", 
+      "siscName": "管理，補助的経済活動を行う事業所（06総合工事業）"
+    }, 
+    {
+      "siscCode": "061", 
+      "simcCode": "06", 
+      "siscName": "一般土木建築工事業"
+    }, 
+    {
+      "siscCode": "062", 
+      "simcCode": "06", 
+      "siscName": "土木工事業（舗装工事業を除く）"
+    }, 
+    {
+      "siscCode": "063", 
+      "simcCode": "06", 
+      "siscName": "舗装工事業"
+    }, 
+    {
+      "siscCode": "064", 
+      "simcCode": "06", 
+      "siscName": "建築工事業(木造建築工事業を除く)"
+    }, 
+    {
+      "siscCode": "065", 
+      "simcCode": "06", 
+      "siscName": "木造建築工事業"
+    }, 
+    {
+      "siscCode": "066", 
+      "simcCode": "06", 
+      "siscName": "建築リフォーム工事業"
+    }
+  ]
+}

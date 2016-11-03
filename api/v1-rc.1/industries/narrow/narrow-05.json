@@ -1,0 +1,40 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "050", 
+      "simcCode": "05", 
+      "siscName": "管理，補助的経済活動を行う事業所（05鉱業，採石業，砂利採取業）"
+    }, 
+    {
+      "siscCode": "051", 
+      "simcCode": "05", 
+      "siscName": "金属鉱業"
+    }, 
+    {
+      "siscCode": "052", 
+      "simcCode": "05", 
+      "siscName": "石炭・亜炭鉱業"
+    }, 
+    {
+      "siscCode": "053", 
+      "simcCode": "05", 
+      "siscName": "原油・天然ガス鉱業"
+    }, 
+    {
+      "siscCode": "054", 
+      "simcCode": "05", 
+      "siscName": "採石業，砂・砂利・玉石採取業"
+    }, 
+    {
+      "siscCode": "055", 
+      "simcCode": "05", 
+      "siscName": "窯業原料用鉱物鉱業（耐火物・陶磁器・ガラス・セメント原料用に限る）"
+    }, 
+    {
+      "siscCode": "059", 
+      "simcCode": "05", 
+      "siscName": "その他の鉱業"
+    }
+  ]
+}

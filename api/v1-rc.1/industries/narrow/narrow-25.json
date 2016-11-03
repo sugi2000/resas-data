@@ -1,0 +1,30 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "250", 
+      "simcCode": "25", 
+      "siscName": "管理，補助的経済活動を行う事業所（25はん用機械器具製造業）"
+    }, 
+    {
+      "siscCode": "251", 
+      "simcCode": "25", 
+      "siscName": "ボイラ・原動機製造業"
+    }, 
+    {
+      "siscCode": "252", 
+      "simcCode": "25", 
+      "siscName": "ポンプ・圧縮機器製造業"
+    }, 
+    {
+      "siscCode": "253", 
+      "simcCode": "25", 
+      "siscName": "一般産業用機械・装置製造業"
+    }, 
+    {
+      "siscCode": "259", 
+      "simcCode": "25", 
+      "siscName": "その他のはん用機械・同部分品製造業"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "320", 
+      "simcCode": "32", 
+      "siscName": "管理，補助的経済活動を行う事業所（32その他の製造業）"
+    }, 
+    {
+      "siscCode": "321", 
+      "simcCode": "32", 
+      "siscName": "貴金属・宝石製品製造業"
+    }, 
+    {
+      "siscCode": "322", 
+      "simcCode": "32", 
+      "siscName": "装身具・装飾品・ボタン・同関連品製造業（貴金属・宝石製を除く）"
+    }, 
+    {
+      "siscCode": "323", 
+      "simcCode": "32", 
+      "siscName": "時計・同部分品製造業"
+    }, 
+    {
+      "siscCode": "324", 
+      "simcCode": "32", 
+      "siscName": "楽器製造業"
+    }, 
+    {
+      "siscCode": "325", 
+      "simcCode": "32", 
+      "siscName": "がん具・運動用具製造業"
+    }, 
+    {
+      "siscCode": "326", 
+      "simcCode": "32", 
+      "siscName": "ペン・鉛筆・絵画用品・その他の事務用品製造業"
+    }, 
+    {
+      "siscCode": "327", 
+      "simcCode": "32", 
+      "siscName": "漆器製造業"
+    }, 
+    {
+      "siscCode": "328", 
+      "simcCode": "32", 
+      "siscName": "畳等生活雑貨製品製造業"
+    }, 
+    {
+      "siscCode": "329", 
+      "simcCode": "32", 
+      "siscName": "他に分類されない製造業"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "490", 
+      "simcCode": "49", 
+      "siscName": "管理，補助的経済活動を行う事業所（49郵便業）"
+    }, 
+    {
+      "siscCode": "491", 
+      "simcCode": "49", 
+      "siscName": "郵便業（信書便事業を含む）"
+    }
+  ]
+}

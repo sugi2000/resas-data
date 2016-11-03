@@ -1,0 +1,40 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "100", 
+      "simcCode": "10", 
+      "siscName": "管理，補助的経済活動を行う事業所（10飲料・たばこ・飼料製造業）"
+    }, 
+    {
+      "siscCode": "101", 
+      "simcCode": "10", 
+      "siscName": "清涼飲料製造業"
+    }, 
+    {
+      "siscCode": "102", 
+      "simcCode": "10", 
+      "siscName": "酒類製造業"
+    }, 
+    {
+      "siscCode": "103", 
+      "simcCode": "10", 
+      "siscName": "茶・コーヒー製造業（清涼飲料を除く）"
+    }, 
+    {
+      "siscCode": "104", 
+      "simcCode": "10", 
+      "siscName": "製氷業"
+    }, 
+    {
+      "siscCode": "105", 
+      "simcCode": "10", 
+      "siscName": "たばこ製造業"
+    }, 
+    {
+      "siscCode": "106", 
+      "simcCode": "10", 
+      "siscName": "飼料・有機質肥料製造業"
+    }
+  ]
+}

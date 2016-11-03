@@ -1,0 +1,20 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "simcCode": "06", 
+      "simcName": "総合工事業", 
+      "sicCode": "D"
+    }, 
+    {
+      "simcCode": "07", 
+      "simcName": "職別工事業(設備工事業を除く)", 
+      "sicCode": "D"
+    }, 
+    {
+      "simcCode": "08", 
+      "simcName": "設備工事業", 
+      "sicCode": "D"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "750", 
+      "simcCode": "75", 
+      "siscName": "管理，補助的経済活動を行う事業所（75宿泊業）"
+    }, 
+    {
+      "siscCode": "751", 
+      "simcCode": "75", 
+      "siscName": "旅館，ホテル"
+    }, 
+    {
+      "siscCode": "752", 
+      "simcCode": "75", 
+      "siscName": "簡易宿所"
+    }, 
+    {
+      "siscCode": "753", 
+      "simcCode": "75", 
+      "siscName": "下宿業"
+    }, 
+    {
+      "siscCode": "759", 
+      "simcCode": "75", 
+      "siscName": "その他の宿泊業"
+    }
+  ]
+}

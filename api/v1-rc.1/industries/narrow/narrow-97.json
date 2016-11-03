@@ -1,0 +1,20 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "971", 
+      "simcCode": "97", 
+      "siscName": "立法機関"
+    }, 
+    {
+      "siscCode": "972", 
+      "simcCode": "97", 
+      "siscName": "司法機関"
+    }, 
+    {
+      "siscCode": "973", 
+      "simcCode": "97", 
+      "siscName": "行政機関"
+    }
+  ]
+}

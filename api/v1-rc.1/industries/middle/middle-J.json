@@ -1,0 +1,35 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "simcCode": "62", 
+      "simcName": "銀行業", 
+      "sicCode": "J"
+    }, 
+    {
+      "simcCode": "63", 
+      "simcName": "協同組織金融業", 
+      "sicCode": "J"
+    }, 
+    {
+      "simcCode": "64", 
+      "simcName": "貸金業，クレジットカード業等非預金信用機関", 
+      "sicCode": "J"
+    }, 
+    {
+      "simcCode": "65", 
+      "simcName": "金融商品取引業，商品先物取引業", 
+      "sicCode": "J"
+    }, 
+    {
+      "simcCode": "66", 
+      "simcName": "補助的金融業等", 
+      "sicCode": "J"
+    }, 
+    {
+      "simcCode": "67", 
+      "simcName": "保険業（保険媒介代理業，保険サービス業を含む）", 
+      "sicCode": "J"
+    }
+  ]
+}

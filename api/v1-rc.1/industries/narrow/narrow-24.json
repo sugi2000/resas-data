@@ -1,0 +1,55 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "240", 
+      "simcCode": "24", 
+      "siscName": "管理，補助的経済活動を行う事業所（24金属製品製造業）"
+    }, 
+    {
+      "siscCode": "241", 
+      "simcCode": "24", 
+      "siscName": "ブリキ缶・その他のめっき板等製品製造業"
+    }, 
+    {
+      "siscCode": "242", 
+      "simcCode": "24", 
+      "siscName": "洋食器・刃物・手道具・金物類製造業"
+    }, 
+    {
+      "siscCode": "243", 
+      "simcCode": "24", 
+      "siscName": "暖房・調理等装置,配管工事用附属品製造業"
+    }, 
+    {
+      "siscCode": "244", 
+      "simcCode": "24", 
+      "siscName": "建設用・建築用金属製品製造業（製缶板金業を含む)"
+    }, 
+    {
+      "siscCode": "245", 
+      "simcCode": "24", 
+      "siscName": "金属素形材製品製造業"
+    }, 
+    {
+      "siscCode": "246", 
+      "simcCode": "24", 
+      "siscName": "金属被覆・彫刻業，熱処理業（ほうろう鉄器を除く）"
+    }, 
+    {
+      "siscCode": "247", 
+      "simcCode": "24", 
+      "siscName": "金属線製品製造業（ねじ類を除く)"
+    }, 
+    {
+      "siscCode": "248", 
+      "simcCode": "24", 
+      "siscName": "ボルト・ナット・リベット・小ねじ・木ねじ等製造業"
+    }, 
+    {
+      "siscCode": "249", 
+      "simcCode": "24", 
+      "siscName": "その他の金属製品製造業"
+    }
+  ]
+}

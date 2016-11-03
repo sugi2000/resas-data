@@ -1,0 +1,45 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "580", 
+      "simcCode": "58", 
+      "siscName": "管理，補助的経済活動を行う事業所（58飲食料品小売業）"
+    }, 
+    {
+      "siscCode": "581", 
+      "simcCode": "58", 
+      "siscName": "各種食料品小売業"
+    }, 
+    {
+      "siscCode": "582", 
+      "simcCode": "58", 
+      "siscName": "野菜・果実小売業"
+    }, 
+    {
+      "siscCode": "583", 
+      "simcCode": "58", 
+      "siscName": "食肉小売業"
+    }, 
+    {
+      "siscCode": "584", 
+      "simcCode": "58", 
+      "siscName": "鮮魚小売業"
+    }, 
+    {
+      "siscCode": "585", 
+      "simcCode": "58", 
+      "siscName": "酒小売業"
+    }, 
+    {
+      "siscCode": "586", 
+      "simcCode": "58", 
+      "siscName": "菓子・パン小売業"
+    }, 
+    {
+      "siscCode": "589", 
+      "simcCode": "58", 
+      "siscName": "その他の飲食料品小売業"
+    }
+  ]
+}

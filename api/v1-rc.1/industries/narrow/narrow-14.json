@@ -1,0 +1,40 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "140", 
+      "simcCode": "14", 
+      "siscName": "管理，補助的経済活動を行う事業所（14パルプ・紙・紙加工品製造業）"
+    }, 
+    {
+      "siscCode": "141", 
+      "simcCode": "14", 
+      "siscName": "パルプ製造業"
+    }, 
+    {
+      "siscCode": "142", 
+      "simcCode": "14", 
+      "siscName": "紙製造業"
+    }, 
+    {
+      "siscCode": "143", 
+      "simcCode": "14", 
+      "siscName": "加工紙製造業"
+    }, 
+    {
+      "siscCode": "144", 
+      "simcCode": "14", 
+      "siscName": "紙製品製造業"
+    }, 
+    {
+      "siscCode": "145", 
+      "simcCode": "14", 
+      "siscName": "紙製容器製造業"
+    }, 
+    {
+      "siscCode": "149", 
+      "simcCode": "14", 
+      "siscName": "その他のパルプ・紙・紙加工品製造業"
+    }
+  ]
+}

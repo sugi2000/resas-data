@@ -1,0 +1,35 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "670", 
+      "simcCode": "67", 
+      "siscName": "管理，補助的経済活動を行う事業所（67保険業）"
+    }, 
+    {
+      "siscCode": "671", 
+      "simcCode": "67", 
+      "siscName": "生命保険業"
+    }, 
+    {
+      "siscCode": "672", 
+      "simcCode": "67", 
+      "siscName": "損害保険業"
+    }, 
+    {
+      "siscCode": "673", 
+      "simcCode": "67", 
+      "siscName": "共済事業，少額短期保険業"
+    }, 
+    {
+      "siscCode": "674", 
+      "simcCode": "67", 
+      "siscName": "保険媒介代理業"
+    }, 
+    {
+      "siscCode": "675", 
+      "simcCode": "67", 
+      "siscName": "保険サービス業"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "290", 
+      "simcCode": "29", 
+      "siscName": "管理，補助的経済活動を行う事業所（29電気機械器具製造業）"
+    }, 
+    {
+      "siscCode": "291", 
+      "simcCode": "29", 
+      "siscName": "発電用・送電用・配電用電気機械器具製造業"
+    }, 
+    {
+      "siscCode": "292", 
+      "simcCode": "29", 
+      "siscName": "産業用電気機械器具製造業"
+    }, 
+    {
+      "siscCode": "293", 
+      "simcCode": "29", 
+      "siscName": "民生用電気機械器具製造業"
+    }, 
+    {
+      "siscCode": "294", 
+      "simcCode": "29", 
+      "siscName": "電球・電気照明器具製造業"
+    }, 
+    {
+      "siscCode": "295", 
+      "simcCode": "29", 
+      "siscName": "電池製造業"
+    }, 
+    {
+      "siscCode": "296", 
+      "simcCode": "29", 
+      "siscName": "電子応用装置製造業"
+    }, 
+    {
+      "siscCode": "297", 
+      "simcCode": "29", 
+      "siscName": "電気計測器製造業"
+    }, 
+    {
+      "siscCode": "299", 
+      "simcCode": "29", 
+      "siscName": "その他の電気機械器具製造業"
+    }
+  ]
+}

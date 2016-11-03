@@ -1,0 +1,30 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "120", 
+      "simcCode": "12", 
+      "siscName": "管理，補助的経済活動を行う事業所（12木材・木製品製造業）"
+    }, 
+    {
+      "siscCode": "121", 
+      "simcCode": "12", 
+      "siscName": "製材業，木製品製造業"
+    }, 
+    {
+      "siscCode": "122", 
+      "simcCode": "12", 
+      "siscName": "造作材・合板・建築用組立材料製造業"
+    }, 
+    {
+      "siscCode": "123", 
+      "simcCode": "12", 
+      "siscName": "木製容器製造業（竹，とうを含む）"
+    }, 
+    {
+      "siscCode": "129", 
+      "simcCode": "12", 
+      "siscName": "その他の木製品製造業(竹，とうを含む)"
+    }
+  ]
+}

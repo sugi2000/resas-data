@@ -1,0 +1,40 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "410", 
+      "simcCode": "41", 
+      "siscName": "管理，補助的経済活動を行う事業所（41映像・音声・文字情報制作業）"
+    }, 
+    {
+      "siscCode": "411", 
+      "simcCode": "41", 
+      "siscName": "映像情報制作・配給業"
+    }, 
+    {
+      "siscCode": "412", 
+      "simcCode": "41", 
+      "siscName": "音声情報制作業"
+    }, 
+    {
+      "siscCode": "413", 
+      "simcCode": "41", 
+      "siscName": "新聞業"
+    }, 
+    {
+      "siscCode": "414", 
+      "simcCode": "41", 
+      "siscName": "出版業"
+    }, 
+    {
+      "siscCode": "415", 
+      "simcCode": "41", 
+      "siscName": "広告制作業"
+    }, 
+    {
+      "siscCode": "416", 
+      "simcCode": "41", 
+      "siscName": "映像・音声・文字情報制作に附帯するサービス業"
+    }
+  ]
+}

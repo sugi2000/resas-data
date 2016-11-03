@@ -1,0 +1,35 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "080", 
+      "simcCode": "08", 
+      "siscName": "管理，補助的経済活動を行う事業所（08設備工事業）"
+    }, 
+    {
+      "siscCode": "081", 
+      "simcCode": "08", 
+      "siscName": "電気工事業"
+    }, 
+    {
+      "siscCode": "082", 
+      "simcCode": "08", 
+      "siscName": "電気通信・信号装置工事業"
+    }, 
+    {
+      "siscCode": "083", 
+      "simcCode": "08", 
+      "siscName": "管工事業（さく井工事業を除く）"
+    }, 
+    {
+      "siscCode": "084", 
+      "simcCode": "08", 
+      "siscName": "機械器具設置工事業"
+    }, 
+    {
+      "siscCode": "089", 
+      "simcCode": "08", 
+      "siscName": "その他の設備工事業"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "520", 
+      "simcCode": "52", 
+      "siscName": "管理，補助的経済活動を行う事業所（52飲食料品卸売業）"
+    }, 
+    {
+      "siscCode": "521", 
+      "simcCode": "52", 
+      "siscName": "農畜産物・水産物卸売業"
+    }, 
+    {
+      "siscCode": "522", 
+      "simcCode": "52", 
+      "siscName": "食料・飲料卸売業"
+    }
+  ]
+}

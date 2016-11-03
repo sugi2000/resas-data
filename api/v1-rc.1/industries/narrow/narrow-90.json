@@ -1,0 +1,30 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "900", 
+      "simcCode": "90", 
+      "siscName": "管理，補助的経済活動を行う事業所（90機械等修理業）"
+    }, 
+    {
+      "siscCode": "901", 
+      "simcCode": "90", 
+      "siscName": "機械修理業（電気機械器具を除く）"
+    }, 
+    {
+      "siscCode": "902", 
+      "simcCode": "90", 
+      "siscName": "電気機械器具修理業"
+    }, 
+    {
+      "siscCode": "903", 
+      "simcCode": "90", 
+      "siscName": "表具業"
+    }, 
+    {
+      "siscCode": "909", 
+      "simcCode": "90", 
+      "siscName": "その他の修理業"
+    }
+  ]
+}

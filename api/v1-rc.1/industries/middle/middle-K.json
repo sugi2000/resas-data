@@ -1,0 +1,20 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "simcCode": "68", 
+      "simcName": "不動産取引業", 
+      "sicCode": "K"
+    }, 
+    {
+      "simcCode": "69", 
+      "simcName": "不動産賃貸業・管理業", 
+      "sicCode": "K"
+    }, 
+    {
+      "simcCode": "70", 
+      "simcName": "物品賃貸業", 
+      "sicCode": "K"
+    }
+  ]
+}

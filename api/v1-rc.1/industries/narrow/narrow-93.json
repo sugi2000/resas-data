@@ -1,0 +1,30 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "931", 
+      "simcCode": "93", 
+      "siscName": "経済団体"
+    }, 
+    {
+      "siscCode": "932", 
+      "simcCode": "93", 
+      "siscName": "労働団体"
+    }, 
+    {
+      "siscCode": "933", 
+      "simcCode": "93", 
+      "siscName": "学術・文化団体"
+    }, 
+    {
+      "siscCode": "934", 
+      "simcCode": "93", 
+      "siscName": "政治団体"
+    }, 
+    {
+      "siscCode": "939", 
+      "simcCode": "93", 
+      "siscName": "他に分類されない非営利的団体"
+    }
+  ]
+}

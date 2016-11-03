@@ -1,0 +1,65 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "simcCode": "50", 
+      "simcName": "各種商品卸売業", 
+      "sicCode": "I"
+    }, 
+    {
+      "simcCode": "51", 
+      "simcName": "繊維・衣服等卸売業", 
+      "sicCode": "I"
+    }, 
+    {
+      "simcCode": "52", 
+      "simcName": "飲食料品卸売業", 
+      "sicCode": "I"
+    }, 
+    {
+      "simcCode": "53", 
+      "simcName": "建築材料，鉱物・金属材料等卸売業", 
+      "sicCode": "I"
+    }, 
+    {
+      "simcCode": "54", 
+      "simcName": "機械器具卸売業", 
+      "sicCode": "I"
+    }, 
+    {
+      "simcCode": "55", 
+      "simcName": "その他の卸売業", 
+      "sicCode": "I"
+    }, 
+    {
+      "simcCode": "56", 
+      "simcName": "各種商品小売業", 
+      "sicCode": "I"
+    }, 
+    {
+      "simcCode": "57", 
+      "simcName": "織物・衣服・身の回り品小売業", 
+      "sicCode": "I"
+    }, 
+    {
+      "simcCode": "58", 
+      "simcName": "飲食料品小売業", 
+      "sicCode": "I"
+    }, 
+    {
+      "simcCode": "59", 
+      "simcName": "機械器具小売業", 
+      "sicCode": "I"
+    }, 
+    {
+      "simcCode": "60", 
+      "simcName": "その他の小売業", 
+      "sicCode": "I"
+    }, 
+    {
+      "simcCode": "61", 
+      "simcName": "無店舗小売業", 
+      "sicCode": "I"
+    }
+  ]
+}

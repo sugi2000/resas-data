@@ -1,0 +1,20 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "770", 
+      "simcCode": "77", 
+      "siscName": "管理，補助的経済活動を行う事業所（77持ち帰り・配達飲食サービス業）"
+    }, 
+    {
+      "siscCode": "771", 
+      "simcCode": "77", 
+      "siscName": "持ち帰り飲食サービス業"
+    }, 
+    {
+      "siscCode": "772", 
+      "simcCode": "77", 
+      "siscName": "配達飲食サービス業"
+    }
+  ]
+}

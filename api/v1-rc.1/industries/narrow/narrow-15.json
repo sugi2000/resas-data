@@ -1,0 +1,30 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "150", 
+      "simcCode": "15", 
+      "siscName": "管理，補助的経済活動を行う事業所（15印刷・同関連業）"
+    }, 
+    {
+      "siscCode": "151", 
+      "simcCode": "15", 
+      "siscName": "印刷業"
+    }, 
+    {
+      "siscCode": "152", 
+      "simcCode": "15", 
+      "siscName": "製版業"
+    }, 
+    {
+      "siscCode": "153", 
+      "simcCode": "15", 
+      "siscName": "製本業，印刷物加工業"
+    }, 
+    {
+      "siscCode": "159", 
+      "simcCode": "15", 
+      "siscName": "印刷関連サービス業"
+    }
+  ]
+}

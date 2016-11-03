@@ -1,0 +1,50 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "760", 
+      "simcCode": "76", 
+      "siscName": "管理，補助的経済活動を行う事業所（76飲食店）"
+    }, 
+    {
+      "siscCode": "761", 
+      "simcCode": "76", 
+      "siscName": "食堂，レストラン（専門料理店を除く）"
+    }, 
+    {
+      "siscCode": "762", 
+      "simcCode": "76", 
+      "siscName": "専門料理店"
+    }, 
+    {
+      "siscCode": "763", 
+      "simcCode": "76", 
+      "siscName": "そば・うどん店"
+    }, 
+    {
+      "siscCode": "764", 
+      "simcCode": "76", 
+      "siscName": "すし店"
+    }, 
+    {
+      "siscCode": "765", 
+      "simcCode": "76", 
+      "siscName": "酒場，ビヤホール"
+    }, 
+    {
+      "siscCode": "766", 
+      "simcCode": "76", 
+      "siscName": "バー，キャバレー，ナイトクラブ"
+    }, 
+    {
+      "siscCode": "767", 
+      "simcCode": "76", 
+      "siscName": "喫茶店"
+    }, 
+    {
+      "siscCode": "769", 
+      "simcCode": "76", 
+      "siscName": "その他の飲食店"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "740", 
+      "simcCode": "74", 
+      "siscName": "管理，補助的経済活動を行う事業所（74技術サービス業）"
+    }, 
+    {
+      "siscCode": "741", 
+      "simcCode": "74", 
+      "siscName": "獣医業"
+    }, 
+    {
+      "siscCode": "742", 
+      "simcCode": "74", 
+      "siscName": "土木建築サービス業"
+    }, 
+    {
+      "siscCode": "743", 
+      "simcCode": "74", 
+      "siscName": "機械設計業"
+    }, 
+    {
+      "siscCode": "744", 
+      "simcCode": "74", 
+      "siscName": "商品・非破壊検査業"
+    }, 
+    {
+      "siscCode": "745", 
+      "simcCode": "74", 
+      "siscName": "計量証明業"
+    }, 
+    {
+      "siscCode": "746", 
+      "simcCode": "74", 
+      "siscName": "写真業"
+    }, 
+    {
+      "siscCode": "749", 
+      "simcCode": "74", 
+      "siscName": "その他の技術サービス業"
+    }
+  ]
+}

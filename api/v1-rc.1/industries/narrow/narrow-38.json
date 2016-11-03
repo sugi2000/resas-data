@@ -1,0 +1,25 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "380", 
+      "simcCode": "38", 
+      "siscName": "管理，補助的経済活動を行う事業所（38放送業）"
+    }, 
+    {
+      "siscCode": "381", 
+      "simcCode": "38", 
+      "siscName": "公共放送業（有線放送業を除く）"
+    }, 
+    {
+      "siscCode": "382", 
+      "simcCode": "38", 
+      "siscName": "民間放送業（有線放送業を除く）"
+    }, 
+    {
+      "siscCode": "383", 
+      "simcCode": "38", 
+      "siscName": "有線放送業"
+    }
+  ]
+}

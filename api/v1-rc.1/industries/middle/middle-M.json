@@ -1,0 +1,20 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "simcCode": "75", 
+      "simcName": "宿泊業", 
+      "sicCode": "M"
+    }, 
+    {
+      "simcCode": "76", 
+      "simcName": "飲食店", 
+      "sicCode": "M"
+    }, 
+    {
+      "simcCode": "77", 
+      "simcName": "持ち帰り・配達飲食サービス業", 
+      "sicCode": "M"
+    }
+  ]
+}

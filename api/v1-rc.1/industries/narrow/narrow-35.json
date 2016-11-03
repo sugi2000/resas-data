@@ -1,0 +1,15 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "350", 
+      "simcCode": "35", 
+      "siscName": "管理，補助的経済活動を行う事業所（35熱供給業）"
+    }, 
+    {
+      "siscCode": "351", 
+      "simcCode": "35", 
+      "siscName": "熱供給業"
+    }
+  ]
+}

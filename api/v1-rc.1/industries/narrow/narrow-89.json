@@ -1,0 +1,15 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "890", 
+      "simcCode": "89", 
+      "siscName": "管理，補助的経済活動を行う事業所（89自動車整備業）"
+    }, 
+    {
+      "siscCode": "891", 
+      "simcCode": "89", 
+      "siscName": "自動車整備業"
+    }
+  ]
+}

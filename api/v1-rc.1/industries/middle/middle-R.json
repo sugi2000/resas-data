@@ -1,0 +1,50 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "simcCode": "88", 
+      "simcName": "廃棄物処理業", 
+      "sicCode": "R"
+    }, 
+    {
+      "simcCode": "89", 
+      "simcName": "自動車整備業", 
+      "sicCode": "R"
+    }, 
+    {
+      "simcCode": "90", 
+      "simcName": "機械等修理業（別掲を除く）", 
+      "sicCode": "R"
+    }, 
+    {
+      "simcCode": "91", 
+      "simcName": "職業紹介・労働者派遣業", 
+      "sicCode": "R"
+    }, 
+    {
+      "simcCode": "92", 
+      "simcName": "その他の事業サービス業", 
+      "sicCode": "R"
+    }, 
+    {
+      "simcCode": "93", 
+      "simcName": "政治・経済・文化団体", 
+      "sicCode": "R"
+    }, 
+    {
+      "simcCode": "94", 
+      "simcName": "宗教", 
+      "sicCode": "R"
+    }, 
+    {
+      "simcCode": "95", 
+      "simcName": "その他のサービス業", 
+      "sicCode": "R"
+    }, 
+    {
+      "simcCode": "96", 
+      "simcName": "外国公務", 
+      "sicCode": "R"
+    }
+  ]
+}

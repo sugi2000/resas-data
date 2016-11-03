@@ -1,0 +1,55 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "600", 
+      "simcCode": "60", 
+      "siscName": "管理，補助的経済活動を行う事業所（60その他の小売業）"
+    }, 
+    {
+      "siscCode": "601", 
+      "simcCode": "60", 
+      "siscName": "家具・建具・畳小売業"
+    }, 
+    {
+      "siscCode": "602", 
+      "simcCode": "60", 
+      "siscName": "じゅう器小売業"
+    }, 
+    {
+      "siscCode": "603", 
+      "simcCode": "60", 
+      "siscName": "医薬品・化粧品小売業"
+    }, 
+    {
+      "siscCode": "604", 
+      "simcCode": "60", 
+      "siscName": "農耕用品小売業"
+    }, 
+    {
+      "siscCode": "605", 
+      "simcCode": "60", 
+      "siscName": "燃料小売業"
+    }, 
+    {
+      "siscCode": "606", 
+      "simcCode": "60", 
+      "siscName": "書籍・文房具小売業"
+    }, 
+    {
+      "siscCode": "607", 
+      "simcCode": "60", 
+      "siscName": "スポーツ用品・がん具・娯楽用品・楽器小売業"
+    }, 
+    {
+      "siscCode": "608", 
+      "simcCode": "60", 
+      "siscName": "写真機・時計・眼鏡小売業"
+    }, 
+    {
+      "siscCode": "609", 
+      "simcCode": "60", 
+      "siscName": "他に分類されない小売業"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "790", 
+      "simcCode": "79", 
+      "siscName": "管理，補助的経済活動を行う事業所（79その他の生活関連サービス業）"
+    }, 
+    {
+      "siscCode": "791", 
+      "simcCode": "79", 
+      "siscName": "旅行業"
+    }, 
+    {
+      "siscCode": "792", 
+      "simcCode": "79", 
+      "siscName": "家事サービス業"
+    }, 
+    {
+      "siscCode": "793", 
+      "simcCode": "79", 
+      "siscName": "衣服裁縫修理業"
+    }, 
+    {
+      "siscCode": "794", 
+      "simcCode": "79", 
+      "siscName": "物品預り業"
+    }, 
+    {
+      "siscCode": "795", 
+      "simcCode": "79", 
+      "siscName": "火葬・墓地管理業"
+    }, 
+    {
+      "siscCode": "796", 
+      "simcCode": "79", 
+      "siscName": "冠婚葬祭業"
+    }, 
+    {
+      "siscCode": "799", 
+      "simcCode": "79", 
+      "siscName": "他に分類されない生活関連サービス業"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "660", 
+      "simcCode": "66", 
+      "siscName": "管理，補助的経済活動を行う事業所（66補助的金融業等）"
+    }, 
+    {
+      "siscCode": "661", 
+      "simcCode": "66", 
+      "siscName": "補助的金融業，金融附帯業"
+    }, 
+    {
+      "siscCode": "662", 
+      "simcCode": "66", 
+      "siscName": "信託業"
+    }, 
+    {
+      "siscCode": "663", 
+      "simcCode": "66", 
+      "siscName": "金融代理業"
+    }
+  ]
+}

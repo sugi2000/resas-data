@@ -1,0 +1,25 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "941", 
+      "simcCode": "94", 
+      "siscName": "神道系宗教"
+    }, 
+    {
+      "siscCode": "942", 
+      "simcCode": "94", 
+      "siscName": "仏教系宗教"
+    }, 
+    {
+      "siscCode": "943", 
+      "simcCode": "94", 
+      "siscName": "キリスト教系宗教"
+    }, 
+    {
+      "siscCode": "949", 
+      "simcCode": "94", 
+      "siscName": "その他の宗教"
+    }
+  ]
+}

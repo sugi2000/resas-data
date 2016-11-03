@@ -1,0 +1,30 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "130", 
+      "simcCode": "13", 
+      "siscName": "管理，補助的経済活動を行う事業所（13家具・装備品製造業）"
+    }, 
+    {
+      "siscCode": "131", 
+      "simcCode": "13", 
+      "siscName": "家具製造業"
+    }, 
+    {
+      "siscCode": "132", 
+      "simcCode": "13", 
+      "siscName": "宗教用具製造業"
+    }, 
+    {
+      "siscCode": "133", 
+      "simcCode": "13", 
+      "siscName": "建具製造業"
+    }, 
+    {
+      "siscCode": "139", 
+      "simcCode": "13", 
+      "siscName": "その他の家具・装備品製造業"
+    }
+  ]
+}

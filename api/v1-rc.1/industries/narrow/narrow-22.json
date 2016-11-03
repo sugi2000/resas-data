@@ -1,0 +1,40 @@
+{
+  "message": null, 
+  "result": [
+    {
+      "siscCode": "220", 
+      "simcCode": "22", 
+      "siscName": "管理，補助的経済活動を行う事業所（22鉄鋼業）"
+    }, 
+    {
+      "siscCode": "221", 
+      "simcCode": "22", 
+      "siscName": "製鉄業"
+    }, 
+    {
+      "siscCode": "222", 
+      "simcCode": "22", 
+      "siscName": "製鋼・製鋼圧延業"
+    }, 
+    {
+      "siscCode": "223", 
+      "simcCode": "22", 
+      "siscName": "製鋼を行わない鋼材製造業（表面処理鋼材を除く）"
+    }, 
+    {
+      "siscCode": "224", 
+      "simcCode": "22", 
+      "siscName": "表面処理鋼材製造業"
+    }, 
+    {
+      "siscCode": "225", 
+      "simcCode": "22", 
+      "siscName": "鉄素形材製造業"
+    }, 
+    {
+      "siscCode": "229", 
+      "simcCode": "22", 
+      "siscName": "その他の鉄鋼業"
+    }
+  ]
+}
